@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2937}.title{font-size:28px;font-weight:700}.subtitle{font-size:14px;fill:#6b7280}.cardtitle{font-size:13px;fill:#6b7280}.metric{font-size:28px;font-weight:700}.small{font-size:12px;fill:#6b7280}.label{font-size:12px;fill:#374151}.tablehead{font-size:12px;font-weight:700;fill:#4b5563}.tablecell{font-size:12px;fill:#111827}</style>
+<rect width="1400" height="900" fill="#f5f7fb"/>
+<text class="title" x="36" y="46">Operations Exceptions</text>
+<text class="subtitle" x="36" y="72">Blocked orders, service levels, billing, and inventory attention items</text>
+<rect x="36" y="96" rx="16" ry="16" width="220" height="104" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="54" y="122">Open Cases</text>
+<text class="metric" x="54" y="158">1,406</text>
+<text class="small" x="54" y="180">Active service investigations</text>
+<rect x="274" y="96" rx="16" ry="16" width="220" height="104" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="292" y="122">Overdue Cases</text>
+<text class="metric" x="292" y="158">1,391</text>
+<text class="small" x="292" y="180">Past SLA due date</text>
+<rect x="512" y="96" rx="16" ry="16" width="220" height="104" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="530" y="122">Invoice Variances</text>
+<text class="metric" x="530" y="158">368</text>
+<text class="small" x="530" y="180">Orders needing billing review</text>
+<rect x="750" y="96" rx="16" ry="16" width="220" height="104" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="768" y="122">Inventory Alerts</text>
+<text class="metric" x="768" y="158">17</text>
+<text class="small" x="768" y="180">SKUs below reorder point</text>
+<rect x="988" y="96" rx="16" ry="16" width="376" height="104" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="1006" y="122">Most common issue</text>
+<text class="metric" x="1006" y="158">Demand capture error</text>
+<text class="small" x="1006" y="180">288 open cases</text>
+<rect x="36" y="224" rx="16" ry="16" width="660" height="300" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="54" y="248" font-weight="700">Open customer cases by reason</text>
+<text class="small" x="54" y="280.0">Demand capture error</text>
+<rect x="186" y="266.0" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="266.0" width="470.0" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="664.0" y="278.0">288</text>
+<text class="small" x="54" y="320.6666666666667">Inventory shortage</text>
+<rect x="186" y="306.6666666666667" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="306.6666666666667" width="293.8" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="487.8" y="318.6666666666667">180</text>
+<text class="small" x="54" y="361.3333333333333">Incorrect pricing</text>
+<rect x="186" y="347.3333333333333" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="347.3333333333333" width="288.9" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="482.9" y="359.3333333333333">177</text>
+<text class="small" x="54" y="402.0">Address validation</text>
+<rect x="186" y="388.0" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="388.0" width="230.1" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="424.1" y="400.0">141</text>
+<text class="small" x="54" y="442.66666666666663">Credit hold</text>
+<rect x="186" y="428.66666666666663" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="428.66666666666663" width="228.5" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="422.5" y="440.66666666666663">140</text>
+<text class="small" x="54" y="483.3333333333333">Appointment scheduling</text>
+<rect x="186" y="469.3333333333333" width="470" height="14" rx="7" fill="#eef2ff"/>
+<rect x="186" y="469.3333333333333" width="210.5" height="14" rx="7" fill="#f59e0b"/>
+<text class="small" x="404.5" y="481.3333333333333">129</text>
+<rect x="718" y="224" rx="16" ry="16" width="646" height="300" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="736" y="248" font-weight="700">Inventory items below reorder point</text>
+<rect x="734" y="264" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="740" y="280">sku</text>
+<rect x="824" y="264" width="280" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="830" y="280">product_name</text>
+<rect x="1104" y="264" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1110" y="280">on_hand_qty</text>
+<rect x="1194" y="264" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1200" y="280">reorder_point</text>
+<rect x="1284" y="264" width="80" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1290" y="280">gap</text>
+<rect x="734" y="288" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="304">SKU0078</text>
+<rect x="824" y="288" width="280" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="304">Frozen Meals 0078</text>
+<rect x="1104" y="288" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="304">8</text>
+<rect x="1194" y="288" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="304">153</text>
+<rect x="1284" y="288" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="304">145</text>
+<rect x="734" y="312" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="328">SKU0139</text>
+<rect x="824" y="312" width="280" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="328">Coffee 0139</text>
+<rect x="1104" y="312" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="328">15</text>
+<rect x="1194" y="312" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="328">154</text>
+<rect x="1284" y="312" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="328">139</text>
+<rect x="734" y="336" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="352">SKU0170</text>
+<rect x="824" y="336" width="280" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="352">Beverage Mix 0170</text>
+<rect x="1104" y="336" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="352">11</text>
+<rect x="1194" y="336" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="352">126</text>
+<rect x="1284" y="336" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="352">115</text>
+<rect x="734" y="360" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="376">SKU0200</text>
+<rect x="824" y="360" width="280" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="376">Breakfast Cereal 0200</text>
+<rect x="1104" y="360" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="376">32</text>
+<rect x="1194" y="360" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="376">145</text>
+<rect x="1284" y="360" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="376">113</text>
+<rect x="734" y="384" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="400">SKU0014</text>
+<rect x="824" y="384" width="280" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="400">Frozen Meals 0014</text>
+<rect x="1104" y="384" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="400">32</text>
+<rect x="1194" y="384" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="400">144</text>
+<rect x="1284" y="384" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="400">112</text>
+<rect x="734" y="408" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="424">SKU0074</text>
+<rect x="824" y="408" width="280" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="424">Beverage Mix 0074</text>
+<rect x="1104" y="408" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="424">57</text>
+<rect x="1194" y="408" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="424">157</text>
+<rect x="1284" y="408" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="424">100</text>
+<rect x="734" y="432" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="448">SKU0174</text>
+<rect x="824" y="432" width="280" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="448">Frozen Meals 0174</text>
+<rect x="1104" y="432" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="448">62</text>
+<rect x="1194" y="432" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="448">153</text>
+<rect x="1284" y="432" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="448">91</text>
+<rect x="734" y="456" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="472">SKU0161</text>
+<rect x="824" y="456" width="280" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="472">Nutrition Drink 0161</text>
+<rect x="1104" y="456" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1110" y="472">93</text>
+<rect x="1194" y="456" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1200" y="472">174</text>
+<rect x="1284" y="456" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1290" y="472">81</text>
+<rect x="36" y="548" rx="16" ry="16" width="646" height="300" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="54" y="572" font-weight="700">Sample billing discrepancies</text>
+<rect x="52" y="588" width="100" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="58" y="604">order_id</text>
+<rect x="152" y="588" width="110" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="158" y="604">invoice_id</text>
+<rect x="262" y="588" width="120" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="268" y="604">invoice_amount</text>
+<rect x="382" y="588" width="130" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="388" y="604">expected_invoice</text>
+<rect x="512" y="588" width="110" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="518" y="604">variance</text>
+<rect x="52" y="612" width="100" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="628">SO000012</text>
+<rect x="152" y="612" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="628">INV000012</text>
+<rect x="262" y="612" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="628">$6,683.54</text>
+<rect x="382" y="612" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="628">$6,712.46</text>
+<rect x="512" y="612" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="628">$-28.92</text>
+<rect x="52" y="636" width="100" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="652">SO000019</text>
+<rect x="152" y="636" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="652">INV000019</text>
+<rect x="262" y="636" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="652">$554.91</text>
+<rect x="382" y="636" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="652">$543.76</text>
+<rect x="512" y="636" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="652">$11.15</text>
+<rect x="52" y="660" width="100" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="676">SO000066</text>
+<rect x="152" y="660" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="676">INV000066</text>
+<rect x="262" y="660" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="676">$1,570.33</text>
+<rect x="382" y="660" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="676">$1,597.05</text>
+<rect x="512" y="660" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="676">$-26.72</text>
+<rect x="52" y="684" width="100" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="700">SO000085</text>
+<rect x="152" y="684" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="700">INV000085</text>
+<rect x="262" y="684" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="700">$1,526.20</text>
+<rect x="382" y="684" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="700">$1,500.00</text>
+<rect x="512" y="684" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="700">$26.20</text>
+<rect x="52" y="708" width="100" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="724">SO000097</text>
+<rect x="152" y="708" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="724">INV000097</text>
+<rect x="262" y="708" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="724">$2,734.03</text>
+<rect x="382" y="708" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="724">$2,717.19</text>
+<rect x="512" y="708" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="724">$16.84</text>
+<rect x="52" y="732" width="100" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="748">SO000121</text>
+<rect x="152" y="732" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="748">INV000121</text>
+<rect x="262" y="732" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="748">$9,511.18</text>
+<rect x="382" y="732" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="748">$9,566.64</text>
+<rect x="512" y="732" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="748">$-55.46</text>
+<rect x="52" y="756" width="100" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="772">SO000139</text>
+<rect x="152" y="756" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="772">INV000139</text>
+<rect x="262" y="756" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="772">$547.75</text>
+<rect x="382" y="756" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="772">$597.85</text>
+<rect x="512" y="756" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="772">$-50.10</text>
+<rect x="52" y="780" width="100" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="796">SO000233</text>
+<rect x="152" y="780" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="796">INV000233</text>
+<rect x="262" y="780" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="796">$442.81</text>
+<rect x="382" y="780" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="796">$461.82</text>
+<rect x="512" y="780" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="796">$-19.01</text>
+<rect x="52" y="804" width="100" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="58" y="820">SO000280</text>
+<rect x="152" y="804" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="158" y="820">INV000280</text>
+<rect x="262" y="804" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="268" y="820">$1,747.73</text>
+<rect x="382" y="804" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="388" y="820">$1,755.00</text>
+<rect x="512" y="804" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="518" y="820">$-7.27</text>
+<rect x="718" y="548" rx="16" ry="16" width="646" height="300" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="736" y="572" font-weight="700">Overdue SLA cases</text>
+<rect x="734" y="588" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="740" y="604">case_id</text>
+<rect x="824" y="588" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="830" y="604">order_id</text>
+<rect x="914" y="588" width="180" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="920" y="604">reason_code</text>
+<rect x="1094" y="588" width="120" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1100" y="604">team</text>
+<rect x="1214" y="588" width="120" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1220" y="604">sla_due_date</text>
+<rect x="734" y="612" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="628">CASE000002</text>
+<rect x="824" y="612" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="628">SO000002</text>
+<rect x="914" y="612" width="180" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="628">Demand capture error</text>
+<rect x="1094" y="612" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="628">Customer Solutions</text>
+<rect x="1214" y="612" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="628">2026-04-08</text>
+<rect x="734" y="636" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="652">CASE000010</text>
+<rect x="824" y="636" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="652">SO000010</text>
+<rect x="914" y="636" width="180" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="652">Carrier delay</text>
+<rect x="1094" y="636" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="652">Transportation</text>
+<rect x="1214" y="636" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="652">2026-01-17</text>
+<rect x="734" y="660" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="676">CASE000012</text>
+<rect x="824" y="660" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="676">SO000012</text>
+<rect x="914" y="660" width="180" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="676">Appointment scheduling</text>
+<rect x="1094" y="660" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="676">Warehouse</text>
+<rect x="1214" y="660" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="676">2026-06-01</text>
+<rect x="734" y="684" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="700">CASE000013</text>
+<rect x="824" y="684" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="700">SO000013</text>
+<rect x="914" y="684" width="180" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="700">Demand capture error</text>
+<rect x="1094" y="684" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="700">Customer Solutions</text>
+<rect x="1214" y="684" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="700">2026-08-24</text>
+<rect x="734" y="708" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="724">CASE000016</text>
+<rect x="824" y="708" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="724">SO000016</text>
+<rect x="914" y="708" width="180" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="724">Demand capture error</text>
+<rect x="1094" y="708" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="724">Billing</text>
+<rect x="1214" y="708" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="724">2026-05-25</text>
+<rect x="734" y="732" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="748">CASE000023</text>
+<rect x="824" y="732" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="748">SO000023</text>
+<rect x="914" y="732" width="180" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="748">Incorrect pricing</text>
+<rect x="1094" y="732" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="748">Transportation</text>
+<rect x="1214" y="732" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="748">2026-09-30</text>
+<rect x="734" y="756" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="772">CASE000025</text>
+<rect x="824" y="756" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="772">SO000025</text>
+<rect x="914" y="756" width="180" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="772">Demand capture error</text>
+<rect x="1094" y="756" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="772">Transportation</text>
+<rect x="1214" y="756" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="772">2026-11-04</text>
+<rect x="734" y="780" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="796">CASE000027</text>
+<rect x="824" y="780" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="796">SO000027</text>
+<rect x="914" y="780" width="180" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="796">Billing discrepancy</text>
+<rect x="1094" y="780" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="796">Warehouse</text>
+<rect x="1214" y="780" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="796">2026-01-14</text>
+<rect x="734" y="804" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="740" y="820">CASE000036</text>
+<rect x="824" y="804" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="830" y="820">SO000036</text>
+<rect x="914" y="804" width="180" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="920" y="820">Incorrect pricing</text>
+<rect x="1094" y="804" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1100" y="820">Customer Solutions</text>
+<rect x="1214" y="804" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1220" y="820">2026-09-18</text>
+</svg>

@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1f2937}.title{font-size:28px;font-weight:700}.subtitle{font-size:14px;fill:#6b7280}.cardtitle{font-size:13px;fill:#6b7280}.metric{font-size:28px;font-weight:700}.small{font-size:12px;fill:#6b7280}.label{font-size:12px;fill:#374151}.tablehead{font-size:12px;font-weight:700;fill:#4b5563}.tablecell{font-size:12px;fill:#111827}</style>
+<rect width="1400" height="900" fill="#f5f7fb"/>
+<text class="title" x="36" y="46">Excel Operations Tracker</text>
+<text class="subtitle" x="36" y="72">Workbook-style monitoring for open orders, variance review, and daily activity</text>
+<rect x="36" y="96" width="1328" height="740" rx="14" fill="white" stroke="#d1d5db"/>
+<rect x="36" y="96" width="1328" height="38" fill="#e8f0fe" stroke="#d1d5db"/>
+<text class="label" x="56" y="120" font-weight="700">OrderFlow_Operations_Tracker.xlsx</text>
+<rect x="64" y="156" rx="16" ry="16" width="220" height="92" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="82" y="182">Open Orders</text>
+<text class="metric" x="82" y="218">2,103</text>
+<text class="small" x="82" y="240">All non-delivered orders</text>
+<rect x="300" y="156" rx="16" ry="16" width="220" height="92" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="318" y="182">Blocked %</text>
+<text class="metric" x="318" y="218">8.1%</text>
+<text class="small" x="318" y="240">Share of all orders</text>
+<rect x="536" y="156" rx="16" ry="16" width="220" height="92" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="554" y="182">Invoice Review</text>
+<text class="metric" x="554" y="218">368</text>
+<text class="small" x="554" y="240">Discrepancies flagged</text>
+<rect x="772" y="156" rx="16" ry="16" width="220" height="92" fill="white" stroke="#e5e7eb"/>
+<text class="cardtitle" x="790" y="182">OTIF</text>
+<text class="metric" x="790" y="218">68.1%</text>
+<text class="small" x="790" y="240">Delivered-order basis</text>
+<rect x="1010" y="156" rx="16" ry="16" width="324" height="184" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="1028" y="180" font-weight="700">Order status summary</text>
+<rect x="1026" y="196" width="130" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1032" y="212">status</text>
+<rect x="1156" y="196" width="80" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1162" y="212">Orders</text>
+<rect x="1236" y="196" width="90" height="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+<text class="tablehead" x="1242" y="212">Value</text>
+<rect x="1026" y="220" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1032" y="236">Blocked</text>
+<rect x="1156" y="220" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1162" y="236">805</text>
+<rect x="1236" y="220" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1242" y="236">$3.61M</text>
+<rect x="1026" y="244" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1032" y="260">Cancelled</text>
+<rect x="1156" y="244" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1162" y="260">406</text>
+<rect x="1236" y="244" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1242" y="260">$1.81M</text>
+<rect x="1026" y="268" width="130" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1032" y="284">Delivered</text>
+<rect x="1156" y="268" width="80" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1162" y="284">7897</text>
+<rect x="1236" y="268" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="1242" y="284">$34.36M</text>
+<rect x="1026" y="292" width="130" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1032" y="308">Open</text>
+<rect x="1156" y="292" width="80" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1162" y="308">892</text>
+<rect x="1236" y="292" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="1242" y="308">$3.85M</text>
+<rect x="64" y="276" rx="16" ry="16" width="1270" height="500" fill="white" stroke="#e5e7eb"/>
+<text class="label" x="82" y="300" font-weight="700">Daily order review</text>
+<rect x="80" y="316" width="110" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="86" y="332">order_id</text>
+<rect x="190" y="316" width="260" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="196" y="332">customer_name</text>
+<rect x="450" y="316" width="90" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="456" y="332">sku</text>
+<rect x="540" y="316" width="110" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="546" y="332">status</text>
+<rect x="650" y="316" width="90" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="656" y="332">priority</text>
+<rect x="740" y="316" width="90" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="746" y="332">ordered_qty</text>
+<rect x="830" y="316" width="120" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="836" y="332">order_amount</text>
+<rect x="950" y="316" width="120" height="24" fill="#dbeafe" stroke="#e5e7eb"/>
+<text class="tablehead" x="956" y="332">promised_date</text>
+<rect x="80" y="340" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="356">SO000001</text>
+<rect x="190" y="340" width="260" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="356">Metro Wholesale #004</text>
+<rect x="450" y="340" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="356">SKU0071</text>
+<rect x="540" y="340" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="356">Delivered</text>
+<rect x="650" y="340" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="356">Critical</text>
+<rect x="740" y="340" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="356">149</text>
+<rect x="830" y="340" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="356">$3,143.90</text>
+<rect x="950" y="340" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="356">2026-03-18</text>
+<rect x="80" y="364" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="380">SO000002</text>
+<rect x="190" y="364" width="260" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="380">Greenway Grocers #042</text>
+<rect x="450" y="364" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="380">SKU0045</text>
+<rect x="540" y="364" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="380">Blocked</text>
+<rect x="650" y="364" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="380">Medium</text>
+<rect x="740" y="364" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="380">109</text>
+<rect x="830" y="364" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="380">$7,055.57</text>
+<rect x="950" y="364" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="380">2026-04-11</text>
+<rect x="80" y="388" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="404">SO000003</text>
+<rect x="190" y="388" width="260" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="404">Northstar Retail #064</text>
+<rect x="450" y="388" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="404">SKU0052</text>
+<rect x="540" y="388" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="404">Delivered</text>
+<rect x="650" y="388" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="404">Medium</text>
+<rect x="740" y="388" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="404">192</text>
+<rect x="830" y="388" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="404">$7,937.28</text>
+<rect x="950" y="388" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="404">2026-01-13</text>
+<rect x="80" y="412" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="428">SO000004</text>
+<rect x="190" y="412" width="260" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="428">Cedar Foods #078</text>
+<rect x="450" y="412" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="428">SKU0032</text>
+<rect x="540" y="412" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="428">Delivered</text>
+<rect x="650" y="412" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="428">High</text>
+<rect x="740" y="412" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="428">21</text>
+<rect x="830" y="412" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="428">$1,482.60</text>
+<rect x="950" y="412" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="428">2026-03-30</text>
+<rect x="80" y="436" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="452">SO000005</text>
+<rect x="190" y="436" width="260" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="452">Harbor Foods #009</text>
+<rect x="450" y="436" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="452">SKU0151</text>
+<rect x="540" y="436" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="452">Delivered</text>
+<rect x="650" y="436" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="452">High</text>
+<rect x="740" y="436" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="452">95</text>
+<rect x="830" y="436" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="452">$1,937.05</text>
+<rect x="950" y="436" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="452">2026-06-23</text>
+<rect x="80" y="460" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="476">SO000006</text>
+<rect x="190" y="460" width="260" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="476">Metro Wholesale #006</text>
+<rect x="450" y="460" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="476">SKU0088</text>
+<rect x="540" y="460" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="476">Delivered</text>
+<rect x="650" y="460" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="476">Medium</text>
+<rect x="740" y="460" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="476">43</text>
+<rect x="830" y="460" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="476">$2,103.99</text>
+<rect x="950" y="460" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="476">2026-06-03</text>
+<rect x="80" y="484" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="500">SO000007</text>
+<rect x="190" y="484" width="260" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="500">Cedar Foods #036</text>
+<rect x="450" y="484" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="500">SKU0154</text>
+<rect x="540" y="484" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="500">Delivered</text>
+<rect x="650" y="484" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="500">Critical</text>
+<rect x="740" y="484" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="500">156</text>
+<rect x="830" y="484" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="500">$4,524.00</text>
+<rect x="950" y="484" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="500">2026-07-24</text>
+<rect x="80" y="508" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="524">SO000008</text>
+<rect x="190" y="508" width="260" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="524">Greenway Grocers #008</text>
+<rect x="450" y="508" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="524">SKU0146</text>
+<rect x="540" y="508" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="524">Open</text>
+<rect x="650" y="508" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="524">Medium</text>
+<rect x="740" y="508" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="524">198</text>
+<rect x="830" y="508" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="524">$5,811.30</text>
+<rect x="950" y="508" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="524">2026-06-18</text>
+<rect x="80" y="532" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="548">SO000009</text>
+<rect x="190" y="532" width="260" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="548">Summit Markets #047</text>
+<rect x="450" y="532" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="548">SKU0160</text>
+<rect x="540" y="532" width="110" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="548">Delivered</text>
+<rect x="650" y="532" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="548">Medium</text>
+<rect x="740" y="532" width="90" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="548">36</text>
+<rect x="830" y="532" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="548">$1,323.72</text>
+<rect x="950" y="532" width="120" height="24" fill="white" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="548">2026-09-30</text>
+<rect x="80" y="556" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="86" y="572">SO000010</text>
+<rect x="190" y="556" width="260" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="196" y="572">Metro Wholesale #030</text>
+<rect x="450" y="556" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="456" y="572">SKU0151</text>
+<rect x="540" y="556" width="110" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="546" y="572">Delivered</text>
+<rect x="650" y="556" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="656" y="572">High</text>
+<rect x="740" y="556" width="90" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="746" y="572">97</text>
+<rect x="830" y="556" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="836" y="572">$1,977.83</text>
+<rect x="950" y="556" width="120" height="24" fill="#fafafa" stroke="#e5e7eb"/>
+<text class="tablecell" x="956" y="572">2026-01-26</text>
+<rect x="64" y="790" width="132" height="28" rx="8" fill="#2563eb"/>
+<text x="80" y="808" style="font-size:12px;font-family:Arial;fill:#ffffff;font-weight:700">Open Orders</text>
+<rect x="214" y="790" width="132" height="28" rx="8" fill="#e5e7eb"/>
+<text x="230" y="808" style="font-size:12px;font-family:Arial;fill:#374151;font-weight:700">Blocked Orders</text>
+<rect x="364" y="790" width="132" height="28" rx="8" fill="#e5e7eb"/>
+<text x="380" y="808" style="font-size:12px;font-family:Arial;fill:#374151;font-weight:700">Billing Review</text>
+<rect x="514" y="790" width="132" height="28" rx="8" fill="#e5e7eb"/>
+<text x="530" y="808" style="font-size:12px;font-family:Arial;fill:#374151;font-weight:700">Inventory</text>
+</svg>

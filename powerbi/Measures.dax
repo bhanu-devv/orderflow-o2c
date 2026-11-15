@@ -1,0 +1,14 @@
+-- Create one measure per line/block in Power BI Desktop after importing CSVs.
+Total Orders = DISTINCTCOUNT(Orders[order_id])
+Blocked Orders = CALCULATE([Total Orders], Orders[status] = "Blocked")
+Open Orders = CALCULATE([Total Orders], Orders[status] = "Open")
+Delivered Orders = CALCULATE([Total Orders], Orders[status] = "Delivered")
+Order Value = SUM(Orders[order_amount])
+Delivered Lines = COUNTROWS(Shipments)
+On Time In Full Orders = COUNTROWS(FILTER(Shipments, Shipments[delivery_date] <= RELATED(Orders[promised_date]) && Shipments[delivered_qty] >= RELATED(Orders[ordered_qty])))
+OTIF % = DIVIDE([On Time In Full Orders], [Delivered Orders])
+Invoice Expected Amount = SUMX(Shipments, Shipments[delivered_qty] * RELATED(Orders[unit_price]))
+Billed Amount = SUM(Invoices[invoice_amount])
+Billing Variance = [Billed Amount] - [Invoice Expected Amount]
+Unresolved Cases = CALCULATE(COUNTROWS(Cases), Cases[case_status] <> "Resolved")
+SLA Breached Cases = COUNTROWS(FILTER(Cases, Cases[case_status] <> "Resolved" && Cases[sla_due_date] < DATE(2026,11,14)))

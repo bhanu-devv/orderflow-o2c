@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "customers": 80,
+    "products": 200,
+    "orders": 10000,
+    "shipments": 7897,
+    "invoices": 7897,
+    "cases": 1406,
+    "inventory_snapshot": 200
+  },
+  "metrics": {
+    "total_orders": 10000,
+    "blocked_orders": 805,
+    "delivered_orders": 7897,
+    "otif_orders": 5378,
+    "invoice_discrepancies": 368,
+    "otif_pct": 68.1,
+    "total_order_value": 43631716.62
+  },
+  "note": "Synthetic dataset; snapshot-based inventory not historical order-level stock availability."
+}

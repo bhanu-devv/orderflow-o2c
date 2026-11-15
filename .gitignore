@@ -1,25 +1,7 @@
-# Python artifacts
 __pycache__/
-*.py[cod]
+*.pyc
 .venv/
-venv/
-.pytest_cache/
-
-# Local configuration
 .env
-.env.*
-!.env.example
-.streamlit/secrets.toml
-
-# Operating system and editors
 .DS_Store
-.vscode/
-.idea/
+.streamlit/secrets.toml
 *.log
-~$*.xlsx
-
-# Generated binary outputs (rebuild from source)
-data/*.db
-data/*.sqlite*
-dashboard/*.html
-excel/*.xlsx

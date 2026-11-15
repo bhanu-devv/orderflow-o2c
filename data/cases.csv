@@ -1,0 +1,1407 @@
+case_id,order_id,reason_code,opened_date,sla_due_date,resolved_date,case_status,team,priority
+CASE000002,SO000002,Demand capture error,2026-04-07,2026-04-08,2026-04-07,Resolved,Customer Solutions,Medium
+CASE000010,SO000010,Carrier delay,2026-01-16,2026-01-17,,Escalated,Transportation,High
+CASE000012,SO000012,Appointment scheduling,2026-05-31,2026-06-01,2026-06-05,Resolved,Warehouse,High
+CASE000013,SO000013,Demand capture error,2026-08-23,2026-08-24,,Open,Customer Solutions,Medium
+CASE000016,SO000016,Demand capture error,2026-05-23,2026-05-25,,Escalated,Billing,Medium
+CASE000023,SO000023,Incorrect pricing,2026-09-28,2026-09-30,,Open,Transportation,Critical
+CASE000025,SO000025,Demand capture error,2026-11-03,2026-11-04,,Escalated,Transportation,Medium
+CASE000027,SO000027,Billing discrepancy,2026-01-13,2026-01-14,,Open,Warehouse,Medium
+CASE000036,SO000036,Incorrect pricing,2026-09-17,2026-09-18,2026-09-18,Resolved,Customer Solutions,High
+CASE000042,SO000042,Incorrect pricing,2026-03-13,2026-03-14,,Escalated,Customer Solutions,Low
+CASE000059,SO000059,Inventory shortage,2026-08-31,2026-09-01,,Open,Transportation,Medium
+CASE000060,SO000060,Inventory shortage,2026-03-11,2026-03-12,,Open,Warehouse,High
+CASE000061,SO000061,Carrier delay,2026-04-18,2026-04-19,2026-04-18,Resolved,Billing,Medium
+CASE000075,SO000075,Address validation,2026-06-04,2026-06-05,2026-06-08,Resolved,Transportation,Medium
+CASE000076,SO000076,Demand capture error,2026-08-22,2026-08-23,,Open,Billing,Medium
+CASE000080,SO000080,Demand capture error,2026-06-08,2026-06-10,,Escalated,Customer Solutions,Low
+CASE000092,SO000092,Inventory shortage,2026-07-23,2026-07-24,,Escalated,Warehouse,Medium
+CASE000095,SO000095,Address validation,2026-04-06,2026-04-07,2026-04-09,Resolved,Customer Solutions,Low
+CASE000098,SO000098,Carrier delay,2026-06-17,2026-06-18,2026-06-19,Resolved,Transportation,Medium
+CASE000110,SO000110,Appointment scheduling,2026-07-22,2026-07-23,,Escalated,Billing,Medium
+CASE000115,SO000115,Address validation,2026-01-14,2026-01-15,,Open,Warehouse,Low
+CASE000123,SO000123,Billing discrepancy,2026-02-20,2026-02-21,2026-02-24,Resolved,Customer Solutions,Medium
+CASE000124,SO000124,Inventory shortage,2026-06-05,2026-06-06,2026-06-06,Resolved,Transportation,Medium
+CASE000127,SO000127,Appointment scheduling,2026-03-25,2026-03-26,2026-03-25,Resolved,Transportation,Medium
+CASE000132,SO000132,Inventory shortage,2026-06-04,2026-06-06,2026-06-04,Resolved,Billing,Low
+CASE000142,SO000142,Billing discrepancy,2026-03-05,2026-03-07,2026-03-08,Resolved,Warehouse,Low
+CASE000146,SO000146,Billing discrepancy,2026-02-07,2026-02-09,2026-02-10,Resolved,Billing,Critical
+CASE000159,SO000159,Warehouse picking issue,2026-06-29,2026-06-30,,Open,Billing,Low
+CASE000160,SO000160,Carrier delay,2026-03-25,2026-03-27,,Escalated,Billing,Medium
+CASE000164,SO000164,Inventory shortage,2026-09-28,2026-09-29,,Open,Warehouse,Medium
+CASE000165,SO000165,Billing discrepancy,2026-01-28,2026-01-29,,Open,Billing,Low
+CASE000167,SO000167,Carrier delay,2026-08-08,2026-08-09,2026-08-11,Resolved,Warehouse,Medium
+CASE000176,SO000176,Incorrect pricing,2026-05-23,2026-05-25,2026-05-25,Resolved,Billing,Medium
+CASE000179,SO000179,Incorrect pricing,2026-08-29,2026-08-30,,Escalated,Transportation,Medium
+CASE000187,SO000187,Address validation,2026-03-07,2026-03-08,,Open,Billing,Medium
+CASE000189,SO000189,Billing discrepancy,2026-08-07,2026-08-08,2026-08-12,Resolved,Warehouse,Medium
+CASE000200,SO000200,Credit hold,2026-05-09,2026-05-10,,Open,Warehouse,High
+CASE000212,SO000212,Inventory shortage,2026-07-09,2026-07-10,2026-07-09,Resolved,Transportation,Low
+CASE000214,SO000214,Demand capture error,2026-07-10,2026-07-12,2026-07-12,Resolved,Warehouse,Low
+CASE000217,SO000217,Address validation,2026-05-13,2026-05-14,2026-05-14,Resolved,Customer Solutions,Medium
+CASE000230,SO000230,Address validation,2026-01-12,2026-01-13,,Open,Billing,Low
+CASE000231,SO000231,Warehouse picking issue,2026-04-04,2026-04-06,2026-04-08,Resolved,Customer Solutions,Medium
+CASE000232,SO000232,Demand capture error,2026-11-04,2026-11-05,2026-11-08,Resolved,Billing,Critical
+CASE000252,SO000252,Credit hold,2026-08-04,2026-08-05,2026-08-08,Resolved,Warehouse,Medium
+CASE000272,SO000272,Carrier delay,2026-01-13,2026-01-14,2026-01-14,Resolved,Customer Solutions,Medium
+CASE000285,SO000285,Inventory shortage,2026-05-21,2026-05-22,2026-05-24,Resolved,Billing,Low
+CASE000293,SO000293,Demand capture error,2026-04-22,2026-04-24,,Open,Transportation,Medium
+CASE000301,SO000301,Demand capture error,2026-02-18,2026-02-19,2026-02-20,Resolved,Warehouse,Medium
+CASE000307,SO000307,Warehouse picking issue,2026-09-19,2026-09-20,2026-09-20,Resolved,Billing,Medium
+CASE000314,SO000314,Address validation,2026-02-27,2026-03-01,,Open,Transportation,Medium
+CASE000324,SO000324,Incorrect pricing,2026-11-10,2026-11-11,2026-11-15,Resolved,Transportation,Medium
+CASE000340,SO000340,Warehouse picking issue,2026-08-24,2026-08-25,2026-08-24,Resolved,Transportation,Low
+CASE000351,SO000351,Inventory shortage,2026-06-18,2026-06-19,,Open,Warehouse,High
+CASE000355,SO000355,Demand capture error,2026-10-05,2026-10-06,,Open,Billing,Medium
+CASE000365,SO000365,Credit hold,2026-05-06,2026-05-07,2026-05-11,Resolved,Billing,High
+CASE000379,SO000379,Carrier delay,2026-02-25,2026-02-26,2026-03-01,Resolved,Billing,Medium
+CASE000380,SO000380,Warehouse picking issue,2026-07-30,2026-07-31,2026-07-31,Resolved,Transportation,Low
+CASE000393,SO000393,Inventory shortage,2026-03-06,2026-03-07,,Escalated,Billing,High
+CASE000404,SO000404,Address validation,2026-06-09,2026-06-10,,Escalated,Warehouse,Medium
+CASE000412,SO000412,Credit hold,2026-03-29,2026-03-30,,Open,Warehouse,Medium
+CASE000418,SO000418,Credit hold,2026-05-29,2026-05-30,,Open,Warehouse,High
+CASE000422,SO000422,Appointment scheduling,2026-10-23,2026-10-25,2026-10-24,Resolved,Transportation,High
+CASE000442,SO000442,Credit hold,2026-04-08,2026-04-10,,Open,Transportation,Medium
+CASE000448,SO000448,Incorrect pricing,2026-06-18,2026-06-19,,Open,Warehouse,High
+CASE000450,SO000450,Inventory shortage,2026-05-17,2026-05-18,2026-05-20,Resolved,Transportation,Low
+CASE000463,SO000463,Inventory shortage,2026-05-31,2026-06-01,,Open,Warehouse,Medium
+CASE000480,SO000480,Demand capture error,2026-04-05,2026-04-06,2026-04-06,Resolved,Transportation,Low
+CASE000485,SO000485,Billing discrepancy,2026-09-30,2026-10-01,2026-10-04,Resolved,Billing,Low
+CASE000486,SO000486,Warehouse picking issue,2026-07-22,2026-07-24,,Open,Billing,Low
+CASE000489,SO000489,Warehouse picking issue,2026-07-24,2026-07-25,2026-07-28,Resolved,Customer Solutions,Medium
+CASE000492,SO000492,Inventory shortage,2026-09-08,2026-09-09,2026-09-13,Resolved,Customer Solutions,Critical
+CASE000493,SO000493,Address validation,2026-11-03,2026-11-04,2026-11-04,Resolved,Warehouse,Medium
+CASE000494,SO000494,Address validation,2026-06-13,2026-06-14,,Open,Transportation,Medium
+CASE000496,SO000496,Inventory shortage,2026-02-18,2026-02-20,,Escalated,Customer Solutions,Medium
+CASE000497,SO000497,Demand capture error,2026-05-09,2026-05-10,2026-05-14,Resolved,Customer Solutions,High
+CASE000505,SO000505,Billing discrepancy,2026-01-18,2026-01-19,2026-01-23,Resolved,Warehouse,Medium
+CASE000508,SO000508,Incorrect pricing,2026-09-10,2026-09-12,,Open,Transportation,High
+CASE000516,SO000516,Warehouse picking issue,2026-03-27,2026-03-28,2026-03-27,Resolved,Transportation,Medium
+CASE000518,SO000518,Inventory shortage,2026-04-24,2026-04-25,2026-04-28,Resolved,Customer Solutions,Medium
+CASE000520,SO000520,Appointment scheduling,2026-11-01,2026-11-02,2026-11-05,Resolved,Customer Solutions,Low
+CASE000528,SO000528,Credit hold,2026-07-23,2026-07-24,2026-07-27,Resolved,Transportation,Low
+CASE000531,SO000531,Demand capture error,2026-02-04,2026-02-05,2026-02-05,Resolved,Customer Solutions,Medium
+CASE000559,SO000559,Inventory shortage,2026-09-13,2026-09-15,,Open,Warehouse,Medium
+CASE000565,SO000565,Demand capture error,2026-04-27,2026-04-28,,Open,Customer Solutions,Medium
+CASE000573,SO000573,Incorrect pricing,2026-04-13,2026-04-15,2026-04-16,Resolved,Billing,Low
+CASE000590,SO000590,Appointment scheduling,2026-09-24,2026-09-26,,Escalated,Billing,Medium
+CASE000598,SO000598,Appointment scheduling,2026-02-20,2026-02-22,,Escalated,Warehouse,High
+CASE000605,SO000605,Incorrect pricing,2026-10-08,2026-10-09,,Open,Transportation,Medium
+CASE000609,SO000609,Demand capture error,2026-04-07,2026-04-09,,Open,Customer Solutions,Medium
+CASE000611,SO000611,Appointment scheduling,2026-06-05,2026-06-06,2026-06-05,Resolved,Transportation,Low
+CASE000616,SO000616,Inventory shortage,2026-05-03,2026-05-04,2026-05-04,Resolved,Customer Solutions,Low
+CASE000625,SO000625,Incorrect pricing,2026-01-21,2026-01-22,2026-01-22,Resolved,Transportation,Medium
+CASE000628,SO000628,Carrier delay,2026-02-22,2026-02-23,,Open,Billing,Medium
+CASE000635,SO000635,Address validation,2026-10-03,2026-10-04,,Open,Customer Solutions,Medium
+CASE000641,SO000641,Carrier delay,2026-10-08,2026-10-09,2026-10-12,Resolved,Billing,Low
+CASE000651,SO000651,Credit hold,2026-08-03,2026-08-04,,Open,Billing,Medium
+CASE000661,SO000661,Credit hold,2026-05-28,2026-05-29,2026-06-02,Resolved,Customer Solutions,Medium
+CASE000662,SO000662,Warehouse picking issue,2026-08-28,2026-08-29,,Open,Warehouse,Medium
+CASE000663,SO000663,Demand capture error,2026-02-24,2026-02-26,2026-02-26,Resolved,Billing,High
+CASE000666,SO000666,Credit hold,2026-01-07,2026-01-08,2026-01-12,Resolved,Customer Solutions,Low
+CASE000693,SO000693,Carrier delay,2026-02-25,2026-02-26,,Escalated,Warehouse,Medium
+CASE000694,SO000694,Appointment scheduling,2026-06-02,2026-06-03,2026-06-06,Resolved,Customer Solutions,Critical
+CASE000702,SO000702,Warehouse picking issue,2026-08-02,2026-08-04,,Open,Warehouse,Medium
+CASE000705,SO000705,Incorrect pricing,2026-09-08,2026-09-09,2026-09-10,Resolved,Billing,High
+CASE000717,SO000717,Incorrect pricing,2026-09-24,2026-09-25,2026-09-27,Resolved,Customer Solutions,Medium
+CASE000745,SO000745,Address validation,2026-07-01,2026-07-03,,Open,Warehouse,Low
+CASE000761,SO000761,Address validation,2026-02-16,2026-02-17,2026-02-16,Resolved,Warehouse,Medium
+CASE000764,SO000764,Billing discrepancy,2026-02-16,2026-02-18,2026-02-17,Resolved,Billing,Low
+CASE000782,SO000782,Inventory shortage,2026-04-09,2026-04-11,2026-04-13,Resolved,Warehouse,Medium
+CASE000784,SO000784,Inventory shortage,2026-07-29,2026-07-30,2026-07-31,Resolved,Customer Solutions,High
+CASE000806,SO000806,Warehouse picking issue,2026-04-13,2026-04-14,,Escalated,Customer Solutions,Critical
+CASE000810,SO000810,Inventory shortage,2026-10-20,2026-10-21,2026-10-24,Resolved,Customer Solutions,High
+CASE000812,SO000812,Address validation,2026-09-23,2026-09-25,2026-09-24,Resolved,Transportation,Medium
+CASE000815,SO000815,Carrier delay,2026-07-20,2026-07-21,,Open,Customer Solutions,Medium
+CASE000818,SO000818,Demand capture error,2026-10-09,2026-10-10,,Open,Warehouse,High
+CASE000825,SO000825,Warehouse picking issue,2026-03-13,2026-03-14,2026-03-16,Resolved,Billing,Low
+CASE000831,SO000831,Address validation,2026-08-23,2026-08-24,,Open,Warehouse,Medium
+CASE000837,SO000837,Carrier delay,2026-05-29,2026-05-30,2026-05-31,Resolved,Warehouse,Low
+CASE000838,SO000838,Demand capture error,2026-03-03,2026-03-04,2026-03-06,Resolved,Transportation,Critical
+CASE000843,SO000843,Incorrect pricing,2026-02-13,2026-02-14,2026-02-14,Resolved,Warehouse,High
+CASE000847,SO000847,Demand capture error,2026-09-23,2026-09-25,,Escalated,Warehouse,Low
+CASE000849,SO000849,Carrier delay,2026-08-21,2026-08-22,,Escalated,Warehouse,High
+CASE000850,SO000850,Carrier delay,2026-01-31,2026-02-01,,Escalated,Warehouse,Low
+CASE000865,SO000865,Incorrect pricing,2026-08-09,2026-08-10,,Open,Transportation,Medium
+CASE000883,SO000883,Incorrect pricing,2026-07-21,2026-07-22,2026-07-21,Resolved,Warehouse,High
+CASE000888,SO000888,Address validation,2026-01-01,2026-01-02,,Open,Customer Solutions,High
+CASE000891,SO000891,Carrier delay,2026-11-05,2026-11-06,2026-11-09,Resolved,Customer Solutions,Medium
+CASE000896,SO000896,Credit hold,2026-10-09,2026-10-10,,Open,Customer Solutions,Medium
+CASE000908,SO000908,Demand capture error,2026-04-24,2026-04-25,,Open,Transportation,Low
+CASE000909,SO000909,Credit hold,2026-06-20,2026-06-21,2026-06-25,Resolved,Warehouse,High
+CASE000912,SO000912,Appointment scheduling,2026-09-23,2026-09-24,2026-09-23,Resolved,Transportation,Medium
+CASE000920,SO000920,Incorrect pricing,2026-05-21,2026-05-22,2026-05-21,Resolved,Warehouse,High
+CASE000921,SO000921,Inventory shortage,2026-05-18,2026-05-19,,Escalated,Transportation,Medium
+CASE000924,SO000924,Appointment scheduling,2026-05-30,2026-05-31,,Open,Customer Solutions,Critical
+CASE000930,SO000930,Credit hold,2026-07-01,2026-07-02,2026-07-06,Resolved,Warehouse,Low
+CASE000938,SO000938,Appointment scheduling,2026-08-09,2026-08-10,2026-08-13,Resolved,Warehouse,High
+CASE000960,SO000960,Demand capture error,2026-08-02,2026-08-03,,Escalated,Customer Solutions,High
+CASE000969,SO000969,Appointment scheduling,2026-04-26,2026-04-27,2026-04-26,Resolved,Customer Solutions,Low
+CASE000972,SO000972,Demand capture error,2026-11-08,2026-11-09,2026-11-10,Resolved,Transportation,Low
+CASE000988,SO000988,Incorrect pricing,2026-04-10,2026-04-11,2026-04-10,Resolved,Billing,High
+CASE001005,SO001005,Carrier delay,2026-08-22,2026-08-23,2026-08-23,Resolved,Customer Solutions,High
+CASE001011,SO001011,Appointment scheduling,2026-05-22,2026-05-23,,Open,Customer Solutions,Low
+CASE001018,SO001018,Inventory shortage,2026-01-12,2026-01-13,2026-01-16,Resolved,Billing,High
+CASE001021,SO001021,Inventory shortage,2026-07-15,2026-07-16,,Open,Transportation,High
+CASE001032,SO001032,Billing discrepancy,2026-02-15,2026-02-16,,Escalated,Transportation,Medium
+CASE001033,SO001033,Carrier delay,2026-09-26,2026-09-27,2026-09-29,Resolved,Customer Solutions,Medium
+CASE001039,SO001039,Inventory shortage,2026-03-25,2026-03-26,,Open,Transportation,Medium
+CASE001057,SO001057,Billing discrepancy,2026-06-13,2026-06-15,,Open,Warehouse,High
+CASE001079,SO001079,Inventory shortage,2026-11-14,2026-11-15,,Open,Customer Solutions,High
+CASE001080,SO001080,Inventory shortage,2026-02-17,2026-02-18,2026-02-22,Resolved,Customer Solutions,Medium
+CASE001081,SO001081,Appointment scheduling,2026-08-24,2026-08-25,2026-08-26,Resolved,Billing,Critical
+CASE001099,SO001099,Inventory shortage,2026-11-09,2026-11-10,,Open,Customer Solutions,High
+CASE001103,SO001103,Demand capture error,2026-09-06,2026-09-08,2026-09-06,Resolved,Warehouse,High
+CASE001107,SO001107,Demand capture error,2026-09-04,2026-09-05,2026-09-04,Resolved,Billing,Low
+CASE001113,SO001113,Inventory shortage,2026-01-10,2026-01-11,2026-01-13,Resolved,Warehouse,Medium
+CASE001121,SO001121,Credit hold,2026-04-12,2026-04-13,,Open,Transportation,High
+CASE001124,SO001124,Inventory shortage,2026-10-07,2026-10-09,2026-10-09,Resolved,Warehouse,High
+CASE001126,SO001126,Warehouse picking issue,2026-06-22,2026-06-23,,Open,Warehouse,Critical
+CASE001140,SO001140,Incorrect pricing,2026-05-01,2026-05-02,2026-05-06,Resolved,Warehouse,Medium
+CASE001143,SO001143,Inventory shortage,2026-06-08,2026-06-09,2026-06-11,Resolved,Warehouse,Medium
+CASE001144,SO001144,Address validation,2026-06-22,2026-06-23,,Open,Customer Solutions,Medium
+CASE001169,SO001169,Inventory shortage,2026-04-22,2026-04-23,2026-04-22,Resolved,Transportation,Critical
+CASE001174,SO001174,Warehouse picking issue,2026-01-09,2026-01-10,,Open,Billing,Critical
+CASE001177,SO001177,Inventory shortage,2026-07-10,2026-07-11,2026-07-10,Resolved,Warehouse,Medium
+CASE001182,SO001182,Incorrect pricing,2026-05-03,2026-05-05,,Open,Customer Solutions,Medium
+CASE001186,SO001186,Incorrect pricing,2026-04-15,2026-04-17,2026-04-18,Resolved,Customer Solutions,Low
+CASE001187,SO001187,Incorrect pricing,2026-01-07,2026-01-08,2026-01-10,Resolved,Customer Solutions,Medium
+CASE001191,SO001191,Demand capture error,2026-08-01,2026-08-02,,Open,Warehouse,Low
+CASE001196,SO001196,Inventory shortage,2026-09-18,2026-09-19,,Open,Warehouse,Low
+CASE001198,SO001198,Address validation,2026-01-15,2026-01-16,2026-01-20,Resolved,Transportation,High
+CASE001204,SO001204,Carrier delay,2026-03-30,2026-03-31,2026-03-30,Resolved,Customer Solutions,Low
+CASE001208,SO001208,Demand capture error,2026-11-12,2026-11-14,,Open,Warehouse,High
+CASE001213,SO001213,Incorrect pricing,2026-10-25,2026-10-26,2026-10-27,Resolved,Customer Solutions,Medium
+CASE001216,SO001216,Demand capture error,2026-10-15,2026-10-16,2026-10-16,Resolved,Transportation,Medium
+CASE001222,SO001222,Carrier delay,2026-02-28,2026-03-01,,Escalated,Customer Solutions,Medium
+CASE001223,SO001223,Incorrect pricing,2026-09-19,2026-09-20,2026-09-20,Resolved,Billing,Medium
+CASE001228,SO001228,Inventory shortage,2026-10-03,2026-10-04,,Escalated,Transportation,Medium
+CASE001229,SO001229,Appointment scheduling,2026-04-14,2026-04-15,,Open,Warehouse,Medium
+CASE001236,SO001236,Warehouse picking issue,2026-04-20,2026-04-22,,Open,Billing,High
+CASE001248,SO001248,Inventory shortage,2026-03-24,2026-03-25,2026-03-25,Resolved,Customer Solutions,Medium
+CASE001249,SO001249,Inventory shortage,2026-11-14,2026-11-15,2026-11-19,Resolved,Billing,Medium
+CASE001251,SO001251,Billing discrepancy,2026-10-17,2026-10-18,,Escalated,Billing,Medium
+CASE001252,SO001252,Billing discrepancy,2026-05-17,2026-05-19,2026-05-20,Resolved,Customer Solutions,Medium
+CASE001254,SO001254,Demand capture error,2026-05-27,2026-05-28,2026-05-31,Resolved,Billing,Medium
+CASE001260,SO001260,Address validation,2026-01-20,2026-01-21,,Open,Warehouse,Medium
+CASE001262,SO001262,Inventory shortage,2026-03-23,2026-03-24,2026-03-25,Resolved,Transportation,Low
+CASE001263,SO001263,Billing discrepancy,2026-09-18,2026-09-20,,Open,Customer Solutions,Low
+CASE001268,SO001268,Address validation,2026-05-04,2026-05-05,2026-05-04,Resolved,Warehouse,Low
+CASE001277,SO001277,Warehouse picking issue,2026-09-10,2026-09-11,2026-09-15,Resolved,Warehouse,Medium
+CASE001278,SO001278,Demand capture error,2026-02-03,2026-02-04,2026-02-03,Resolved,Customer Solutions,High
+CASE001298,SO001298,Appointment scheduling,2026-04-29,2026-05-01,2026-05-03,Resolved,Warehouse,Medium
+CASE001305,SO001305,Inventory shortage,2026-01-12,2026-01-13,,Open,Transportation,Medium
+CASE001307,SO001307,Demand capture error,2026-06-24,2026-06-25,2026-06-29,Resolved,Customer Solutions,Medium
+CASE001325,SO001325,Appointment scheduling,2026-04-07,2026-04-08,2026-04-11,Resolved,Billing,Low
+CASE001341,SO001341,Credit hold,2026-03-07,2026-03-08,2026-03-08,Resolved,Billing,High
+CASE001355,SO001355,Inventory shortage,2026-08-10,2026-08-11,2026-08-13,Resolved,Warehouse,High
+CASE001360,SO001360,Appointment scheduling,2026-08-04,2026-08-05,2026-08-08,Resolved,Billing,Medium
+CASE001362,SO001362,Credit hold,2026-06-01,2026-06-02,2026-06-06,Resolved,Billing,High
+CASE001369,SO001369,Demand capture error,2026-08-17,2026-08-19,,Open,Billing,High
+CASE001382,SO001382,Demand capture error,2026-06-18,2026-06-19,2026-06-18,Resolved,Billing,Medium
+CASE001385,SO001385,Appointment scheduling,2026-02-14,2026-02-15,2026-02-14,Resolved,Transportation,High
+CASE001391,SO001391,Demand capture error,2026-03-30,2026-03-31,2026-04-02,Resolved,Transportation,High
+CASE001402,SO001402,Demand capture error,2026-02-08,2026-02-09,,Open,Transportation,Medium
+CASE001403,SO001403,Address validation,2026-06-30,2026-07-01,2026-07-04,Resolved,Transportation,Medium
+CASE001407,SO001407,Billing discrepancy,2026-08-05,2026-08-06,2026-08-05,Resolved,Customer Solutions,Medium
+CASE001412,SO001412,Inventory shortage,2026-11-02,2026-11-03,2026-11-04,Resolved,Warehouse,High
+CASE001433,SO001433,Billing discrepancy,2026-02-10,2026-02-11,,Escalated,Billing,Low
+CASE001441,SO001441,Address validation,2026-04-27,2026-04-28,2026-04-27,Resolved,Billing,Medium
+CASE001476,SO001476,Inventory shortage,2026-09-09,2026-09-10,,Open,Customer Solutions,Critical
+CASE001478,SO001478,Demand capture error,2026-01-09,2026-01-10,2026-01-13,Resolved,Customer Solutions,High
+CASE001491,SO001491,Demand capture error,2026-09-01,2026-09-02,,Escalated,Customer Solutions,Medium
+CASE001501,SO001501,Warehouse picking issue,2026-08-10,2026-08-11,,Escalated,Warehouse,Low
+CASE001508,SO001508,Billing discrepancy,2026-01-10,2026-01-11,2026-01-15,Resolved,Transportation,Medium
+CASE001513,SO001513,Inventory shortage,2026-03-24,2026-03-25,,Open,Customer Solutions,High
+CASE001515,SO001515,Address validation,2026-09-24,2026-09-25,2026-09-25,Resolved,Billing,Medium
+CASE001538,SO001538,Credit hold,2026-08-27,2026-08-28,2026-08-28,Resolved,Customer Solutions,Medium
+CASE001552,SO001552,Demand capture error,2026-06-07,2026-06-09,,Open,Billing,High
+CASE001554,SO001554,Incorrect pricing,2026-04-19,2026-04-21,2026-04-22,Resolved,Transportation,High
+CASE001575,SO001575,Warehouse picking issue,2026-10-13,2026-10-14,,Open,Billing,Medium
+CASE001577,SO001577,Address validation,2026-04-08,2026-04-10,2026-04-13,Resolved,Transportation,Medium
+CASE001578,SO001578,Demand capture error,2026-07-23,2026-07-24,2026-07-23,Resolved,Billing,Medium
+CASE001587,SO001587,Demand capture error,2026-05-27,2026-05-28,,Open,Transportation,Medium
+CASE001610,SO001610,Demand capture error,2026-04-27,2026-04-29,,Open,Transportation,Medium
+CASE001621,SO001621,Credit hold,2026-10-21,2026-10-22,,Escalated,Billing,High
+CASE001624,SO001624,Warehouse picking issue,2026-08-06,2026-08-07,2026-08-08,Resolved,Billing,Critical
+CASE001637,SO001637,Carrier delay,2026-06-16,2026-06-17,2026-06-20,Resolved,Warehouse,High
+CASE001642,SO001642,Appointment scheduling,2026-01-03,2026-01-04,,Escalated,Billing,Low
+CASE001648,SO001648,Incorrect pricing,2026-08-06,2026-08-07,,Open,Warehouse,Medium
+CASE001656,SO001656,Inventory shortage,2026-08-28,2026-08-29,,Open,Warehouse,Low
+CASE001658,SO001658,Demand capture error,2026-01-08,2026-01-09,2026-01-10,Resolved,Transportation,Low
+CASE001659,SO001659,Credit hold,2026-02-14,2026-02-16,,Escalated,Warehouse,Low
+CASE001665,SO001665,Billing discrepancy,2026-08-01,2026-08-02,,Open,Warehouse,Critical
+CASE001667,SO001667,Address validation,2026-02-12,2026-02-13,,Open,Transportation,Medium
+CASE001684,SO001684,Inventory shortage,2026-11-12,2026-11-13,2026-11-17,Resolved,Billing,Low
+CASE001693,SO001693,Carrier delay,2026-11-15,2026-11-16,2026-11-19,Resolved,Transportation,High
+CASE001709,SO001709,Inventory shortage,2026-03-31,2026-04-01,2026-04-02,Resolved,Warehouse,Medium
+CASE001722,SO001722,Inventory shortage,2026-04-13,2026-04-14,,Open,Warehouse,Low
+CASE001735,SO001735,Incorrect pricing,2026-10-16,2026-10-17,2026-10-16,Resolved,Transportation,Medium
+CASE001739,SO001739,Incorrect pricing,2026-06-27,2026-06-28,2026-06-30,Resolved,Customer Solutions,Medium
+CASE001741,SO001741,Inventory shortage,2026-03-20,2026-03-22,2026-03-25,Resolved,Customer Solutions,Medium
+CASE001761,SO001761,Demand capture error,2026-09-03,2026-09-04,,Open,Warehouse,High
+CASE001762,SO001762,Billing discrepancy,2026-02-11,2026-02-13,,Open,Transportation,Medium
+CASE001784,SO001784,Inventory shortage,2026-03-10,2026-03-12,2026-03-14,Resolved,Billing,Low
+CASE001785,SO001785,Address validation,2026-07-11,2026-07-12,2026-07-13,Resolved,Billing,Medium
+CASE001807,SO001807,Billing discrepancy,2026-11-08,2026-11-10,2026-11-08,Resolved,Billing,Low
+CASE001810,SO001810,Carrier delay,2026-05-30,2026-05-31,,Open,Transportation,Medium
+CASE001813,SO001813,Address validation,2026-01-21,2026-01-22,,Open,Customer Solutions,High
+CASE001814,SO001814,Incorrect pricing,2026-05-15,2026-05-17,2026-05-20,Resolved,Transportation,High
+CASE001817,SO001817,Address validation,2026-04-29,2026-04-30,2026-05-03,Resolved,Billing,Critical
+CASE001835,SO001835,Address validation,2026-04-03,2026-04-04,,Open,Customer Solutions,Medium
+CASE001858,SO001858,Warehouse picking issue,2026-01-09,2026-01-10,,Open,Billing,Medium
+CASE001859,SO001859,Demand capture error,2026-11-15,2026-11-16,,Open,Customer Solutions,High
+CASE001875,SO001875,Appointment scheduling,2026-06-24,2026-06-26,,Escalated,Billing,Medium
+CASE001876,SO001876,Appointment scheduling,2026-04-11,2026-04-12,2026-04-15,Resolved,Customer Solutions,Medium
+CASE001878,SO001878,Credit hold,2026-03-11,2026-03-12,,Escalated,Transportation,Low
+CASE001880,SO001880,Appointment scheduling,2026-10-28,2026-10-29,2026-10-29,Resolved,Customer Solutions,Medium
+CASE001885,SO001885,Credit hold,2026-04-02,2026-04-03,2026-04-03,Resolved,Warehouse,High
+CASE001886,SO001886,Appointment scheduling,2026-01-26,2026-01-27,2026-01-27,Resolved,Billing,High
+CASE001911,SO001911,Warehouse picking issue,2026-11-11,2026-11-12,,Open,Customer Solutions,Medium
+CASE001935,SO001935,Demand capture error,2026-07-31,2026-08-02,,Open,Warehouse,Medium
+CASE001946,SO001946,Billing discrepancy,2026-10-09,2026-10-10,,Escalated,Customer Solutions,Medium
+CASE001950,SO001950,Billing discrepancy,2026-05-29,2026-05-30,2026-06-03,Resolved,Warehouse,High
+CASE001955,SO001955,Appointment scheduling,2026-08-19,2026-08-20,2026-08-23,Resolved,Transportation,Low
+CASE001962,SO001962,Address validation,2026-06-29,2026-06-30,2026-06-30,Resolved,Billing,Medium
+CASE001981,SO001981,Address validation,2026-08-04,2026-08-06,2026-08-06,Resolved,Transportation,Medium
+CASE001984,SO001984,Demand capture error,2026-05-31,2026-06-01,2026-06-01,Resolved,Customer Solutions,High
+CASE001989,SO001989,Demand capture error,2026-04-02,2026-04-03,2026-04-05,Resolved,Warehouse,Medium
+CASE001994,SO001994,Billing discrepancy,2026-07-08,2026-07-09,,Open,Billing,Low
+CASE001999,SO001999,Credit hold,2026-03-05,2026-03-06,2026-03-07,Resolved,Transportation,Medium
+CASE002002,SO002002,Address validation,2026-08-09,2026-08-10,2026-08-12,Resolved,Transportation,Medium
+CASE002021,SO002021,Carrier delay,2026-04-29,2026-04-30,2026-04-29,Resolved,Customer Solutions,High
+CASE002024,SO002024,Warehouse picking issue,2026-02-24,2026-02-26,2026-02-24,Resolved,Customer Solutions,Low
+CASE002026,SO002026,Carrier delay,2026-04-16,2026-04-17,,Open,Billing,High
+CASE002027,SO002027,Appointment scheduling,2026-02-22,2026-02-23,2026-02-25,Resolved,Billing,Low
+CASE002029,SO002029,Carrier delay,2026-10-06,2026-10-07,2026-10-06,Resolved,Transportation,High
+CASE002037,SO002037,Demand capture error,2026-06-27,2026-06-28,,Escalated,Warehouse,High
+CASE002038,SO002038,Incorrect pricing,2026-10-12,2026-10-13,,Escalated,Billing,Medium
+CASE002039,SO002039,Carrier delay,2026-07-29,2026-07-30,2026-07-30,Resolved,Transportation,Medium
+CASE002050,SO002050,Inventory shortage,2026-03-20,2026-03-21,2026-03-23,Resolved,Warehouse,Critical
+CASE002055,SO002055,Inventory shortage,2026-09-21,2026-09-22,,Escalated,Warehouse,High
+CASE002061,SO002061,Credit hold,2026-03-15,2026-03-17,,Open,Warehouse,High
+CASE002068,SO002068,Billing discrepancy,2026-08-03,2026-08-04,2026-08-06,Resolved,Warehouse,Medium
+CASE002069,SO002069,Demand capture error,2026-07-27,2026-07-28,,Escalated,Billing,Medium
+CASE002079,SO002079,Carrier delay,2026-03-11,2026-03-12,,Open,Billing,Low
+CASE002091,SO002091,Demand capture error,2026-01-09,2026-01-10,2026-01-12,Resolved,Transportation,Medium
+CASE002096,SO002096,Demand capture error,2026-02-25,2026-02-26,2026-02-28,Resolved,Customer Solutions,Medium
+CASE002107,SO002107,Carrier delay,2026-04-10,2026-04-12,,Open,Transportation,Medium
+CASE002113,SO002113,Appointment scheduling,2026-09-22,2026-09-23,,Escalated,Warehouse,High
+CASE002118,SO002118,Incorrect pricing,2026-07-11,2026-07-12,2026-07-15,Resolved,Customer Solutions,Low
+CASE002123,SO002123,Demand capture error,2026-04-12,2026-04-14,2026-04-13,Resolved,Warehouse,Medium
+CASE002127,SO002127,Carrier delay,2026-04-24,2026-04-25,,Escalated,Warehouse,High
+CASE002130,SO002130,Demand capture error,2026-05-07,2026-05-08,2026-05-09,Resolved,Billing,Low
+CASE002134,SO002134,Address validation,2026-05-08,2026-05-10,,Open,Warehouse,Medium
+CASE002142,SO002142,Demand capture error,2026-01-09,2026-01-10,2026-01-09,Resolved,Transportation,Medium
+CASE002143,SO002143,Warehouse picking issue,2026-02-07,2026-02-08,,Open,Transportation,Low
+CASE002148,SO002148,Appointment scheduling,2026-02-21,2026-02-22,2026-02-26,Resolved,Transportation,Low
+CASE002157,SO002157,Credit hold,2026-10-15,2026-10-17,2026-10-15,Resolved,Warehouse,Medium
+CASE002162,SO002162,Incorrect pricing,2026-02-14,2026-02-16,2026-02-19,Resolved,Customer Solutions,Medium
+CASE002163,SO002163,Inventory shortage,2026-03-10,2026-03-11,2026-03-13,Resolved,Billing,Medium
+CASE002164,SO002164,Incorrect pricing,2026-11-14,2026-11-15,2026-11-18,Resolved,Billing,High
+CASE002166,SO002166,Carrier delay,2026-05-24,2026-05-25,,Escalated,Warehouse,Medium
+CASE002168,SO002168,Demand capture error,2026-02-24,2026-02-25,2026-02-26,Resolved,Transportation,Low
+CASE002177,SO002177,Carrier delay,2026-08-05,2026-08-06,2026-08-05,Resolved,Billing,Medium
+CASE002178,SO002178,Incorrect pricing,2026-04-08,2026-04-09,2026-04-12,Resolved,Transportation,Medium
+CASE002183,SO002183,Address validation,2026-06-13,2026-06-14,,Open,Customer Solutions,Low
+CASE002191,SO002191,Demand capture error,2026-08-17,2026-08-19,,Open,Warehouse,Medium
+CASE002205,SO002205,Warehouse picking issue,2026-08-21,2026-08-23,,Escalated,Warehouse,Medium
+CASE002208,SO002208,Carrier delay,2026-05-21,2026-05-22,2026-05-22,Resolved,Customer Solutions,Critical
+CASE002214,SO002214,Billing discrepancy,2026-04-04,2026-04-05,2026-04-05,Resolved,Customer Solutions,High
+CASE002220,SO002220,Incorrect pricing,2026-03-20,2026-03-21,,Open,Billing,Medium
+CASE002231,SO002231,Billing discrepancy,2026-03-07,2026-03-08,2026-03-08,Resolved,Transportation,Critical
+CASE002239,SO002239,Billing discrepancy,2026-06-25,2026-06-26,,Escalated,Transportation,Low
+CASE002242,SO002242,Demand capture error,2026-10-14,2026-10-15,2026-10-18,Resolved,Warehouse,Medium
+CASE002258,SO002258,Incorrect pricing,2026-04-14,2026-04-15,2026-04-16,Resolved,Customer Solutions,Medium
+CASE002264,SO002264,Address validation,2026-01-17,2026-01-19,2026-01-21,Resolved,Billing,Low
+CASE002271,SO002271,Credit hold,2026-04-07,2026-04-09,2026-04-08,Resolved,Billing,Medium
+CASE002280,SO002280,Demand capture error,2026-11-07,2026-11-08,2026-11-07,Resolved,Transportation,Medium
+CASE002282,SO002282,Incorrect pricing,2026-09-22,2026-09-24,2026-09-24,Resolved,Warehouse,High
+CASE002289,SO002289,Address validation,2026-04-09,2026-04-10,2026-04-10,Resolved,Transportation,Medium
+CASE002294,SO002294,Inventory shortage,2026-06-26,2026-06-27,,Open,Customer Solutions,Low
+CASE002307,SO002307,Appointment scheduling,2026-10-04,2026-10-06,,Open,Warehouse,Medium
+CASE002309,SO002309,Address validation,2026-07-20,2026-07-22,,Open,Warehouse,Medium
+CASE002329,SO002329,Incorrect pricing,2026-08-10,2026-08-11,,Escalated,Billing,Medium
+CASE002337,SO002337,Carrier delay,2026-11-02,2026-11-03,2026-11-04,Resolved,Warehouse,High
+CASE002355,SO002355,Warehouse picking issue,2026-10-21,2026-10-22,2026-10-24,Resolved,Billing,Medium
+CASE002360,SO002360,Demand capture error,2026-09-30,2026-10-01,2026-09-30,Resolved,Customer Solutions,Medium
+CASE002362,SO002362,Credit hold,2026-05-03,2026-05-04,2026-05-04,Resolved,Transportation,Medium
+CASE002372,SO002372,Incorrect pricing,2026-01-23,2026-01-24,2026-01-23,Resolved,Transportation,High
+CASE002386,SO002386,Incorrect pricing,2026-10-26,2026-10-27,2026-10-27,Resolved,Warehouse,Low
+CASE002396,SO002396,Inventory shortage,2026-01-06,2026-01-07,,Open,Billing,High
+CASE002411,SO002411,Demand capture error,2026-02-17,2026-02-18,2026-02-22,Resolved,Warehouse,High
+CASE002412,SO002412,Demand capture error,2026-04-06,2026-04-08,2026-04-06,Resolved,Warehouse,Medium
+CASE002422,SO002422,Billing discrepancy,2026-09-28,2026-09-29,2026-10-01,Resolved,Billing,Medium
+CASE002423,SO002423,Appointment scheduling,2026-07-03,2026-07-05,2026-07-05,Resolved,Billing,High
+CASE002425,SO002425,Billing discrepancy,2026-01-31,2026-02-01,2026-02-01,Resolved,Customer Solutions,Medium
+CASE002430,SO002430,Credit hold,2026-01-31,2026-02-02,2026-02-02,Resolved,Warehouse,Low
+CASE002438,SO002438,Billing discrepancy,2026-10-12,2026-10-14,2026-10-17,Resolved,Billing,Medium
+CASE002444,SO002444,Incorrect pricing,2026-06-08,2026-06-09,,Escalated,Transportation,High
+CASE002445,SO002445,Warehouse picking issue,2026-06-11,2026-06-13,2026-06-13,Resolved,Warehouse,Low
+CASE002447,SO002447,Inventory shortage,2026-03-13,2026-03-15,2026-03-16,Resolved,Customer Solutions,Medium
+CASE002452,SO002452,Address validation,2026-04-06,2026-04-07,2026-04-10,Resolved,Transportation,Medium
+CASE002458,SO002458,Incorrect pricing,2026-10-09,2026-10-10,,Open,Warehouse,High
+CASE002468,SO002468,Address validation,2026-02-08,2026-02-09,,Escalated,Customer Solutions,Low
+CASE002477,SO002477,Credit hold,2026-02-18,2026-02-19,2026-02-19,Resolved,Warehouse,High
+CASE002485,SO002485,Appointment scheduling,2026-02-07,2026-02-08,2026-02-07,Resolved,Billing,Medium
+CASE002486,SO002486,Credit hold,2026-08-25,2026-08-26,,Open,Customer Solutions,High
+CASE002489,SO002489,Billing discrepancy,2026-05-07,2026-05-09,,Open,Transportation,Medium
+CASE002490,SO002490,Carrier delay,2026-05-08,2026-05-09,2026-05-12,Resolved,Warehouse,Medium
+CASE002499,SO002499,Demand capture error,2026-07-17,2026-07-19,2026-07-21,Resolved,Warehouse,High
+CASE002500,SO002500,Inventory shortage,2026-08-24,2026-08-25,2026-08-24,Resolved,Transportation,Medium
+CASE002503,SO002503,Incorrect pricing,2026-11-06,2026-11-08,2026-11-06,Resolved,Warehouse,Medium
+CASE002506,SO002506,Demand capture error,2026-03-16,2026-03-17,,Open,Transportation,Medium
+CASE002518,SO002518,Incorrect pricing,2026-05-02,2026-05-04,,Open,Warehouse,Medium
+CASE002553,SO002553,Carrier delay,2026-03-03,2026-03-04,,Open,Customer Solutions,High
+CASE002559,SO002559,Carrier delay,2026-01-06,2026-01-07,2026-01-09,Resolved,Transportation,Critical
+CASE002567,SO002567,Appointment scheduling,2026-01-10,2026-01-11,,Escalated,Warehouse,High
+CASE002570,SO002570,Inventory shortage,2026-11-09,2026-11-10,,Open,Warehouse,Low
+CASE002571,SO002571,Billing discrepancy,2026-08-02,2026-08-03,,Open,Transportation,Critical
+CASE002580,SO002580,Credit hold,2026-10-27,2026-10-28,,Escalated,Warehouse,Medium
+CASE002583,SO002583,Demand capture error,2026-04-21,2026-04-22,,Open,Transportation,Medium
+CASE002588,SO002588,Incorrect pricing,2026-07-03,2026-07-04,2026-07-03,Resolved,Transportation,Medium
+CASE002592,SO002592,Warehouse picking issue,2026-01-18,2026-01-19,2026-01-23,Resolved,Customer Solutions,Critical
+CASE002601,SO002601,Billing discrepancy,2026-04-25,2026-04-26,2026-04-25,Resolved,Customer Solutions,Medium
+CASE002605,SO002605,Address validation,2026-09-22,2026-09-23,2026-09-23,Resolved,Customer Solutions,Medium
+CASE002619,SO002619,Address validation,2026-03-19,2026-03-20,2026-03-20,Resolved,Billing,Medium
+CASE002621,SO002621,Demand capture error,2026-02-14,2026-02-15,,Escalated,Billing,Medium
+CASE002630,SO002630,Incorrect pricing,2026-10-11,2026-10-12,2026-10-16,Resolved,Customer Solutions,Medium
+CASE002637,SO002637,Demand capture error,2026-08-19,2026-08-21,,Escalated,Customer Solutions,High
+CASE002640,SO002640,Address validation,2026-07-19,2026-07-20,2026-07-22,Resolved,Billing,Critical
+CASE002645,SO002645,Demand capture error,2026-04-27,2026-04-28,,Open,Warehouse,Low
+CASE002652,SO002652,Demand capture error,2026-05-06,2026-05-07,2026-05-09,Resolved,Customer Solutions,Medium
+CASE002661,SO002661,Warehouse picking issue,2026-08-08,2026-08-10,2026-08-10,Resolved,Transportation,Medium
+CASE002662,SO002662,Appointment scheduling,2026-08-05,2026-08-06,,Open,Billing,Critical
+CASE002675,SO002675,Appointment scheduling,2026-09-16,2026-09-17,2026-09-19,Resolved,Warehouse,High
+CASE002683,SO002683,Appointment scheduling,2026-03-02,2026-03-03,,Open,Warehouse,Medium
+CASE002686,SO002686,Address validation,2026-02-03,2026-02-04,2026-02-06,Resolved,Customer Solutions,Low
+CASE002692,SO002692,Credit hold,2026-05-15,2026-05-16,2026-05-15,Resolved,Billing,Medium
+CASE002702,SO002702,Incorrect pricing,2026-01-10,2026-01-12,2026-01-12,Resolved,Billing,Critical
+CASE002714,SO002714,Demand capture error,2026-05-15,2026-05-17,,Open,Customer Solutions,Medium
+CASE002718,SO002718,Credit hold,2026-04-25,2026-04-26,,Escalated,Billing,Medium
+CASE002725,SO002725,Appointment scheduling,2026-02-03,2026-02-04,2026-02-08,Resolved,Customer Solutions,Low
+CASE002738,SO002738,Address validation,2026-05-30,2026-05-31,,Open,Transportation,High
+CASE002772,SO002772,Demand capture error,2026-04-21,2026-04-22,,Open,Warehouse,High
+CASE002807,SO002807,Credit hold,2026-01-20,2026-01-21,,Open,Warehouse,High
+CASE002817,SO002817,Inventory shortage,2026-10-30,2026-11-01,,Open,Billing,Critical
+CASE002823,SO002823,Inventory shortage,2026-03-22,2026-03-24,,Escalated,Warehouse,Medium
+CASE002832,SO002832,Address validation,2026-05-05,2026-05-06,,Open,Transportation,High
+CASE002841,SO002841,Inventory shortage,2026-10-27,2026-10-28,2026-10-27,Resolved,Transportation,Medium
+CASE002843,SO002843,Appointment scheduling,2026-04-25,2026-04-27,,Open,Customer Solutions,Low
+CASE002856,SO002856,Demand capture error,2026-03-20,2026-03-21,2026-03-25,Resolved,Warehouse,Critical
+CASE002857,SO002857,Carrier delay,2026-03-15,2026-03-17,,Escalated,Warehouse,High
+CASE002861,SO002861,Incorrect pricing,2026-01-15,2026-01-17,2026-01-18,Resolved,Billing,Medium
+CASE002872,SO002872,Credit hold,2026-02-19,2026-02-20,,Open,Billing,Critical
+CASE002885,SO002885,Warehouse picking issue,2026-05-14,2026-05-15,2026-05-14,Resolved,Billing,High
+CASE002918,SO002918,Incorrect pricing,2026-01-23,2026-01-24,,Open,Transportation,Medium
+CASE002919,SO002919,Address validation,2026-07-08,2026-07-09,2026-07-10,Resolved,Warehouse,Medium
+CASE002949,SO002949,Warehouse picking issue,2026-01-14,2026-01-15,,Escalated,Transportation,High
+CASE002956,SO002956,Incorrect pricing,2026-04-14,2026-04-15,2026-04-17,Resolved,Billing,Low
+CASE002958,SO002958,Billing discrepancy,2026-08-23,2026-08-25,2026-08-24,Resolved,Billing,High
+CASE002964,SO002964,Credit hold,2026-04-07,2026-04-08,2026-04-12,Resolved,Billing,Low
+CASE002971,SO002971,Credit hold,2026-07-19,2026-07-20,2026-07-20,Resolved,Transportation,Critical
+CASE002984,SO002984,Warehouse picking issue,2026-09-29,2026-10-01,2026-10-02,Resolved,Warehouse,Medium
+CASE002989,SO002989,Warehouse picking issue,2026-09-04,2026-09-05,,Escalated,Warehouse,Medium
+CASE002993,SO002993,Warehouse picking issue,2026-10-02,2026-10-03,2026-10-04,Resolved,Billing,Low
+CASE002996,SO002996,Demand capture error,2026-01-04,2026-01-05,,Open,Warehouse,Critical
+CASE003002,SO003002,Warehouse picking issue,2026-09-08,2026-09-09,2026-09-11,Resolved,Transportation,Medium
+CASE003012,SO003012,Demand capture error,2026-11-14,2026-11-15,2026-11-15,Resolved,Transportation,Low
+CASE003019,SO003019,Inventory shortage,2026-04-06,2026-04-07,,Open,Customer Solutions,Low
+CASE003024,SO003024,Demand capture error,2026-02-26,2026-02-27,2026-03-03,Resolved,Warehouse,Critical
+CASE003027,SO003027,Appointment scheduling,2026-04-12,2026-04-13,2026-04-17,Resolved,Customer Solutions,Medium
+CASE003032,SO003032,Address validation,2026-09-17,2026-09-19,2026-09-21,Resolved,Customer Solutions,Medium
+CASE003043,SO003043,Billing discrepancy,2026-01-29,2026-01-30,2026-01-30,Resolved,Customer Solutions,Medium
+CASE003050,SO003050,Warehouse picking issue,2026-04-27,2026-04-29,2026-04-30,Resolved,Billing,Medium
+CASE003056,SO003056,Credit hold,2026-04-13,2026-04-14,,Open,Billing,High
+CASE003065,SO003065,Appointment scheduling,2026-06-04,2026-06-05,,Open,Warehouse,Medium
+CASE003068,SO003068,Warehouse picking issue,2026-07-14,2026-07-15,2026-07-14,Resolved,Transportation,Medium
+CASE003073,SO003073,Credit hold,2026-02-17,2026-02-18,,Open,Customer Solutions,High
+CASE003076,SO003076,Inventory shortage,2026-01-22,2026-01-23,2026-01-27,Resolved,Billing,Medium
+CASE003079,SO003079,Demand capture error,2026-05-10,2026-05-11,2026-05-13,Resolved,Warehouse,Medium
+CASE003084,SO003084,Inventory shortage,2026-08-25,2026-08-26,,Escalated,Customer Solutions,Critical
+CASE003104,SO003104,Appointment scheduling,2026-03-13,2026-03-14,2026-03-13,Resolved,Warehouse,High
+CASE003114,SO003114,Demand capture error,2026-05-01,2026-05-03,2026-05-03,Resolved,Customer Solutions,Medium
+CASE003117,SO003117,Credit hold,2026-02-22,2026-02-23,2026-02-23,Resolved,Billing,Critical
+CASE003119,SO003119,Appointment scheduling,2026-07-03,2026-07-04,2026-07-08,Resolved,Customer Solutions,High
+CASE003132,SO003132,Credit hold,2026-06-20,2026-06-21,2026-06-23,Resolved,Warehouse,Medium
+CASE003133,SO003133,Incorrect pricing,2026-04-06,2026-04-07,,Open,Warehouse,High
+CASE003145,SO003145,Incorrect pricing,2026-01-18,2026-01-20,,Open,Customer Solutions,Medium
+CASE003149,SO003149,Demand capture error,2026-01-05,2026-01-06,,Open,Customer Solutions,Medium
+CASE003155,SO003155,Credit hold,2026-10-08,2026-10-09,,Open,Warehouse,Medium
+CASE003158,SO003158,Billing discrepancy,2026-09-30,2026-10-01,2026-10-04,Resolved,Transportation,High
+CASE003178,SO003178,Incorrect pricing,2026-08-26,2026-08-27,2026-08-31,Resolved,Customer Solutions,Medium
+CASE003184,SO003184,Appointment scheduling,2026-09-24,2026-09-26,2026-09-24,Resolved,Transportation,Medium
+CASE003188,SO003188,Address validation,2026-04-14,2026-04-16,,Open,Billing,Medium
+CASE003194,SO003194,Billing discrepancy,2026-04-05,2026-04-06,,Open,Transportation,Medium
+CASE003202,SO003202,Warehouse picking issue,2026-06-25,2026-06-27,,Escalated,Billing,Low
+CASE003207,SO003207,Demand capture error,2026-07-29,2026-07-31,,Open,Warehouse,High
+CASE003215,SO003215,Address validation,2026-05-01,2026-05-02,2026-05-01,Resolved,Billing,High
+CASE003231,SO003231,Billing discrepancy,2026-09-24,2026-09-26,2026-09-27,Resolved,Billing,Medium
+CASE003233,SO003233,Incorrect pricing,2026-10-03,2026-10-04,2026-10-08,Resolved,Billing,Medium
+CASE003243,SO003243,Demand capture error,2026-09-26,2026-09-27,,Open,Warehouse,Medium
+CASE003246,SO003246,Incorrect pricing,2026-11-02,2026-11-03,2026-11-06,Resolved,Customer Solutions,Medium
+CASE003247,SO003247,Incorrect pricing,2026-10-23,2026-10-25,2026-10-28,Resolved,Billing,Medium
+CASE003259,SO003259,Incorrect pricing,2026-04-26,2026-04-27,2026-04-29,Resolved,Customer Solutions,High
+CASE003261,SO003261,Incorrect pricing,2026-04-30,2026-05-01,2026-04-30,Resolved,Transportation,Medium
+CASE003262,SO003262,Carrier delay,2026-01-25,2026-01-26,,Open,Transportation,Medium
+CASE003265,SO003265,Appointment scheduling,2026-01-06,2026-01-07,,Escalated,Warehouse,Critical
+CASE003270,SO003270,Billing discrepancy,2026-03-07,2026-03-08,,Open,Transportation,Medium
+CASE003273,SO003273,Demand capture error,2026-08-19,2026-08-20,2026-08-22,Resolved,Transportation,Medium
+CASE003276,SO003276,Credit hold,2026-05-19,2026-05-20,2026-05-20,Resolved,Warehouse,Medium
+CASE003290,SO003290,Inventory shortage,2026-11-09,2026-11-10,2026-11-11,Resolved,Billing,Medium
+CASE003293,SO003293,Credit hold,2026-04-29,2026-04-30,2026-05-04,Resolved,Customer Solutions,Medium
+CASE003294,SO003294,Carrier delay,2026-08-25,2026-08-27,,Escalated,Transportation,Medium
+CASE003302,SO003302,Address validation,2026-06-03,2026-06-04,2026-06-07,Resolved,Warehouse,High
+CASE003307,SO003307,Carrier delay,2026-04-10,2026-04-12,,Escalated,Transportation,High
+CASE003328,SO003328,Demand capture error,2026-07-23,2026-07-24,,Escalated,Transportation,Medium
+CASE003334,SO003334,Credit hold,2026-05-01,2026-05-02,,Open,Customer Solutions,Medium
+CASE003341,SO003341,Incorrect pricing,2026-06-04,2026-06-05,,Escalated,Transportation,High
+CASE003345,SO003345,Appointment scheduling,2026-02-14,2026-02-15,,Escalated,Transportation,High
+CASE003349,SO003349,Inventory shortage,2026-09-25,2026-09-26,,Open,Billing,Medium
+CASE003357,SO003357,Demand capture error,2026-10-29,2026-10-30,,Open,Billing,Medium
+CASE003364,SO003364,Address validation,2026-03-27,2026-03-29,,Open,Billing,High
+CASE003393,SO003393,Address validation,2026-06-16,2026-06-18,,Escalated,Warehouse,High
+CASE003407,SO003407,Demand capture error,2026-05-14,2026-05-16,,Open,Customer Solutions,Low
+CASE003414,SO003414,Warehouse picking issue,2026-09-24,2026-09-25,,Open,Transportation,Low
+CASE003425,SO003425,Address validation,2026-06-09,2026-06-10,,Open,Customer Solutions,Low
+CASE003428,SO003428,Inventory shortage,2026-07-31,2026-08-01,,Escalated,Warehouse,Low
+CASE003444,SO003444,Incorrect pricing,2026-03-06,2026-03-07,,Open,Warehouse,Low
+CASE003458,SO003458,Incorrect pricing,2026-07-10,2026-07-11,,Open,Customer Solutions,Medium
+CASE003459,SO003459,Appointment scheduling,2026-03-17,2026-03-18,2026-03-18,Resolved,Customer Solutions,Medium
+CASE003462,SO003462,Carrier delay,2026-06-29,2026-06-30,2026-07-03,Resolved,Warehouse,Medium
+CASE003478,SO003478,Demand capture error,2026-09-11,2026-09-12,2026-09-11,Resolved,Transportation,Low
+CASE003482,SO003482,Demand capture error,2026-05-07,2026-05-08,,Open,Warehouse,High
+CASE003486,SO003486,Appointment scheduling,2026-02-03,2026-02-04,,Escalated,Transportation,Low
+CASE003490,SO003490,Demand capture error,2026-01-12,2026-01-13,2026-01-13,Resolved,Warehouse,Low
+CASE003502,SO003502,Credit hold,2026-03-25,2026-03-27,2026-03-26,Resolved,Customer Solutions,Medium
+CASE003509,SO003509,Inventory shortage,2026-10-04,2026-10-06,2026-10-07,Resolved,Warehouse,High
+CASE003519,SO003519,Appointment scheduling,2026-06-03,2026-06-04,2026-06-04,Resolved,Transportation,Low
+CASE003537,SO003537,Demand capture error,2026-09-10,2026-09-11,,Escalated,Warehouse,Medium
+CASE003546,SO003546,Incorrect pricing,2026-07-28,2026-07-29,2026-07-29,Resolved,Customer Solutions,High
+CASE003554,SO003554,Incorrect pricing,2026-01-27,2026-01-29,,Open,Transportation,Low
+CASE003567,SO003567,Incorrect pricing,2026-08-02,2026-08-03,2026-08-06,Resolved,Transportation,Medium
+CASE003570,SO003570,Address validation,2026-02-08,2026-02-10,,Open,Billing,High
+CASE003584,SO003584,Incorrect pricing,2026-09-28,2026-09-29,,Open,Transportation,Medium
+CASE003594,SO003594,Appointment scheduling,2026-08-12,2026-08-13,,Escalated,Billing,Low
+CASE003597,SO003597,Appointment scheduling,2026-01-28,2026-01-29,,Escalated,Transportation,Medium
+CASE003603,SO003603,Credit hold,2026-05-26,2026-05-28,,Open,Customer Solutions,Medium
+CASE003605,SO003605,Warehouse picking issue,2026-01-29,2026-01-30,,Escalated,Billing,Medium
+CASE003608,SO003608,Credit hold,2026-04-21,2026-04-22,2026-04-25,Resolved,Transportation,Medium
+CASE003612,SO003612,Demand capture error,2026-09-22,2026-09-23,,Escalated,Billing,Medium
+CASE003619,SO003619,Inventory shortage,2026-03-08,2026-03-10,2026-03-09,Resolved,Warehouse,Medium
+CASE003624,SO003624,Credit hold,2026-11-02,2026-11-04,2026-11-02,Resolved,Transportation,Low
+CASE003629,SO003629,Address validation,2026-07-01,2026-07-03,,Open,Warehouse,Medium
+CASE003633,SO003633,Inventory shortage,2026-10-01,2026-10-02,,Open,Warehouse,Medium
+CASE003639,SO003639,Demand capture error,2026-04-30,2026-05-01,,Open,Customer Solutions,Medium
+CASE003645,SO003645,Appointment scheduling,2026-08-08,2026-08-09,2026-08-13,Resolved,Billing,Low
+CASE003652,SO003652,Demand capture error,2026-11-05,2026-11-07,2026-11-08,Resolved,Transportation,Low
+CASE003653,SO003653,Inventory shortage,2026-02-14,2026-02-15,2026-02-15,Resolved,Warehouse,Medium
+CASE003654,SO003654,Incorrect pricing,2026-09-19,2026-09-20,,Escalated,Transportation,Medium
+CASE003659,SO003659,Incorrect pricing,2026-04-14,2026-04-15,,Open,Billing,Critical
+CASE003667,SO003667,Carrier delay,2026-05-29,2026-05-31,2026-05-29,Resolved,Warehouse,Low
+CASE003673,SO003673,Demand capture error,2026-02-26,2026-02-27,,Open,Billing,Critical
+CASE003675,SO003675,Demand capture error,2026-10-09,2026-10-10,2026-10-14,Resolved,Transportation,High
+CASE003680,SO003680,Address validation,2026-06-09,2026-06-10,,Escalated,Transportation,Medium
+CASE003686,SO003686,Incorrect pricing,2026-10-21,2026-10-22,,Open,Customer Solutions,Medium
+CASE003700,SO003700,Incorrect pricing,2026-07-04,2026-07-05,2026-07-09,Resolved,Customer Solutions,Medium
+CASE003701,SO003701,Carrier delay,2026-04-29,2026-04-30,2026-04-29,Resolved,Warehouse,Medium
+CASE003704,SO003704,Inventory shortage,2026-04-10,2026-04-11,2026-04-11,Resolved,Transportation,Low
+CASE003707,SO003707,Billing discrepancy,2026-02-20,2026-02-22,2026-02-23,Resolved,Customer Solutions,Low
+CASE003712,SO003712,Demand capture error,2026-08-26,2026-08-27,2026-08-29,Resolved,Transportation,Critical
+CASE003718,SO003718,Billing discrepancy,2026-07-15,2026-07-16,2026-07-17,Resolved,Billing,Low
+CASE003720,SO003720,Address validation,2026-07-30,2026-07-31,2026-08-02,Resolved,Warehouse,Medium
+CASE003722,SO003722,Address validation,2026-01-31,2026-02-02,,Open,Warehouse,Medium
+CASE003730,SO003730,Credit hold,2026-04-16,2026-04-17,,Open,Billing,Medium
+CASE003732,SO003732,Credit hold,2026-07-05,2026-07-06,2026-07-09,Resolved,Warehouse,Low
+CASE003749,SO003749,Credit hold,2026-11-10,2026-11-11,,Escalated,Warehouse,Medium
+CASE003750,SO003750,Warehouse picking issue,2026-09-02,2026-09-03,,Open,Customer Solutions,High
+CASE003765,SO003765,Warehouse picking issue,2026-08-02,2026-08-04,2026-08-07,Resolved,Transportation,Medium
+CASE003768,SO003768,Carrier delay,2026-05-28,2026-05-29,,Escalated,Customer Solutions,High
+CASE003776,SO003776,Warehouse picking issue,2026-10-17,2026-10-18,2026-10-17,Resolved,Transportation,Medium
+CASE003777,SO003777,Carrier delay,2026-07-06,2026-07-07,2026-07-10,Resolved,Billing,Medium
+CASE003779,SO003779,Demand capture error,2026-10-15,2026-10-17,,Escalated,Customer Solutions,High
+CASE003785,SO003785,Carrier delay,2026-07-31,2026-08-02,2026-08-02,Resolved,Warehouse,Medium
+CASE003791,SO003791,Incorrect pricing,2026-05-17,2026-05-19,,Escalated,Warehouse,High
+CASE003809,SO003809,Billing discrepancy,2026-05-15,2026-05-17,2026-05-15,Resolved,Warehouse,Critical
+CASE003816,SO003816,Demand capture error,2026-08-21,2026-08-22,2026-08-23,Resolved,Transportation,Low
+CASE003819,SO003819,Warehouse picking issue,2026-02-15,2026-02-16,2026-02-17,Resolved,Transportation,High
+CASE003825,SO003825,Demand capture error,2026-07-09,2026-07-11,2026-07-09,Resolved,Customer Solutions,Low
+CASE003843,SO003843,Demand capture error,2026-03-27,2026-03-28,,Open,Warehouse,Low
+CASE003883,SO003883,Credit hold,2026-03-25,2026-03-26,,Open,Warehouse,Low
+CASE003897,SO003897,Warehouse picking issue,2026-06-25,2026-06-26,2026-06-26,Resolved,Customer Solutions,Medium
+CASE003898,SO003898,Billing discrepancy,2026-06-28,2026-06-29,,Open,Billing,High
+CASE003900,SO003900,Warehouse picking issue,2026-08-22,2026-08-23,2026-08-24,Resolved,Transportation,Medium
+CASE003912,SO003912,Billing discrepancy,2026-01-14,2026-01-15,,Open,Billing,Medium
+CASE003917,SO003917,Inventory shortage,2026-04-30,2026-05-01,,Open,Transportation,Medium
+CASE003925,SO003925,Warehouse picking issue,2026-08-25,2026-08-27,,Open,Customer Solutions,Medium
+CASE003929,SO003929,Demand capture error,2026-10-16,2026-10-17,2026-10-16,Resolved,Customer Solutions,Critical
+CASE003932,SO003932,Inventory shortage,2026-07-15,2026-07-16,2026-07-19,Resolved,Billing,Medium
+CASE003933,SO003933,Credit hold,2026-05-03,2026-05-04,2026-05-05,Resolved,Transportation,Medium
+CASE003935,SO003935,Address validation,2026-02-13,2026-02-14,2026-02-18,Resolved,Transportation,Medium
+CASE003945,SO003945,Appointment scheduling,2026-06-13,2026-06-14,2026-06-14,Resolved,Billing,Medium
+CASE003958,SO003958,Demand capture error,2026-11-14,2026-11-15,2026-11-19,Resolved,Transportation,Low
+CASE003969,SO003969,Demand capture error,2026-07-19,2026-07-21,2026-07-21,Resolved,Billing,High
+CASE003974,SO003974,Demand capture error,2026-03-31,2026-04-01,2026-04-03,Resolved,Transportation,Medium
+CASE003975,SO003975,Inventory shortage,2026-05-21,2026-05-22,2026-05-22,Resolved,Customer Solutions,Medium
+CASE003980,SO003980,Inventory shortage,2026-01-25,2026-01-26,2026-01-27,Resolved,Billing,Low
+CASE003981,SO003981,Incorrect pricing,2026-06-08,2026-06-10,,Open,Billing,Medium
+CASE003984,SO003984,Billing discrepancy,2026-01-03,2026-01-04,,Escalated,Customer Solutions,Medium
+CASE003985,SO003985,Inventory shortage,2026-06-08,2026-06-09,2026-06-12,Resolved,Billing,Medium
+CASE003997,SO003997,Warehouse picking issue,2026-06-29,2026-06-30,,Open,Customer Solutions,High
+CASE004014,SO004014,Demand capture error,2026-06-03,2026-06-04,2026-06-05,Resolved,Billing,Medium
+CASE004044,SO004044,Appointment scheduling,2026-07-21,2026-07-22,2026-07-24,Resolved,Billing,Medium
+CASE004047,SO004047,Incorrect pricing,2026-04-27,2026-04-29,,Open,Transportation,Medium
+CASE004048,SO004048,Warehouse picking issue,2026-04-12,2026-04-13,2026-04-14,Resolved,Customer Solutions,Low
+CASE004054,SO004054,Demand capture error,2026-01-27,2026-01-29,2026-01-27,Resolved,Billing,Medium
+CASE004066,SO004066,Demand capture error,2026-01-19,2026-01-20,2026-01-21,Resolved,Transportation,High
+CASE004085,SO004085,Billing discrepancy,2026-09-15,2026-09-16,,Open,Transportation,Medium
+CASE004090,SO004090,Address validation,2026-10-02,2026-10-04,2026-10-02,Resolved,Transportation,Medium
+CASE004092,SO004092,Address validation,2026-05-01,2026-05-02,2026-05-02,Resolved,Customer Solutions,Medium
+CASE004108,SO004108,Inventory shortage,2026-03-17,2026-03-18,2026-03-17,Resolved,Billing,Medium
+CASE004115,SO004115,Billing discrepancy,2026-04-06,2026-04-08,,Open,Billing,Medium
+CASE004119,SO004119,Inventory shortage,2026-11-13,2026-11-14,,Open,Billing,Medium
+CASE004124,SO004124,Incorrect pricing,2026-09-24,2026-09-26,2026-09-29,Resolved,Warehouse,Medium
+CASE004126,SO004126,Demand capture error,2026-05-24,2026-05-26,2026-05-28,Resolved,Transportation,Critical
+CASE004132,SO004132,Warehouse picking issue,2026-03-18,2026-03-19,,Open,Billing,High
+CASE004137,SO004137,Warehouse picking issue,2026-06-03,2026-06-04,,Escalated,Transportation,Low
+CASE004142,SO004142,Demand capture error,2026-08-09,2026-08-10,,Open,Transportation,Medium
+CASE004146,SO004146,Appointment scheduling,2026-04-08,2026-04-09,2026-04-08,Resolved,Billing,Medium
+CASE004149,SO004149,Inventory shortage,2026-09-18,2026-09-19,2026-09-19,Resolved,Transportation,High
+CASE004160,SO004160,Credit hold,2026-01-03,2026-01-05,2026-01-04,Resolved,Warehouse,High
+CASE004164,SO004164,Carrier delay,2026-09-21,2026-09-22,,Open,Billing,Low
+CASE004167,SO004167,Demand capture error,2026-10-29,2026-10-31,,Open,Billing,Low
+CASE004168,SO004168,Appointment scheduling,2026-09-09,2026-09-10,,Open,Customer Solutions,Low
+CASE004169,SO004169,Inventory shortage,2026-07-19,2026-07-20,2026-07-22,Resolved,Billing,Medium
+CASE004174,SO004174,Address validation,2026-11-12,2026-11-13,2026-11-13,Resolved,Billing,Medium
+CASE004177,SO004177,Carrier delay,2026-06-12,2026-06-13,2026-06-16,Resolved,Billing,Medium
+CASE004179,SO004179,Incorrect pricing,2026-09-07,2026-09-08,2026-09-09,Resolved,Billing,High
+CASE004183,SO004183,Demand capture error,2026-09-27,2026-09-28,,Open,Customer Solutions,Low
+CASE004201,SO004201,Incorrect pricing,2026-09-30,2026-10-01,2026-10-01,Resolved,Transportation,Medium
+CASE004207,SO004207,Incorrect pricing,2026-02-12,2026-02-13,2026-02-12,Resolved,Warehouse,Medium
+CASE004208,SO004208,Warehouse picking issue,2026-04-26,2026-04-27,2026-04-28,Resolved,Transportation,Medium
+CASE004220,SO004220,Demand capture error,2026-07-27,2026-07-28,2026-07-28,Resolved,Billing,Low
+CASE004221,SO004221,Warehouse picking issue,2026-08-20,2026-08-21,2026-08-21,Resolved,Customer Solutions,High
+CASE004222,SO004222,Appointment scheduling,2026-06-10,2026-06-11,,Open,Warehouse,Medium
+CASE004225,SO004225,Credit hold,2026-10-31,2026-11-01,2026-11-02,Resolved,Transportation,Medium
+CASE004238,SO004238,Inventory shortage,2026-05-16,2026-05-18,,Open,Warehouse,Medium
+CASE004239,SO004239,Credit hold,2026-01-02,2026-01-03,,Escalated,Customer Solutions,Critical
+CASE004243,SO004243,Inventory shortage,2026-03-11,2026-03-12,,Escalated,Customer Solutions,Medium
+CASE004254,SO004254,Address validation,2026-04-23,2026-04-24,,Escalated,Warehouse,Medium
+CASE004258,SO004258,Credit hold,2026-10-01,2026-10-02,,Open,Billing,High
+CASE004261,SO004261,Appointment scheduling,2026-10-29,2026-10-31,,Open,Transportation,High
+CASE004264,SO004264,Credit hold,2026-09-23,2026-09-24,,Escalated,Transportation,Medium
+CASE004282,SO004282,Demand capture error,2026-06-22,2026-06-23,2026-06-26,Resolved,Billing,Medium
+CASE004283,SO004283,Inventory shortage,2026-01-14,2026-01-16,,Open,Customer Solutions,Critical
+CASE004291,SO004291,Carrier delay,2026-04-17,2026-04-18,,Open,Customer Solutions,Low
+CASE004297,SO004297,Inventory shortage,2026-05-28,2026-05-30,2026-05-31,Resolved,Transportation,High
+CASE004306,SO004306,Address validation,2026-01-08,2026-01-10,2026-01-11,Resolved,Customer Solutions,Medium
+CASE004307,SO004307,Inventory shortage,2026-09-07,2026-09-09,2026-09-12,Resolved,Billing,High
+CASE004314,SO004314,Billing discrepancy,2026-08-28,2026-08-29,2026-08-29,Resolved,Warehouse,Low
+CASE004325,SO004325,Carrier delay,2026-03-24,2026-03-25,2026-03-25,Resolved,Warehouse,Critical
+CASE004326,SO004326,Carrier delay,2026-02-12,2026-02-14,2026-02-16,Resolved,Billing,High
+CASE004331,SO004331,Address validation,2026-03-24,2026-03-26,2026-03-28,Resolved,Warehouse,Medium
+CASE004337,SO004337,Demand capture error,2026-10-22,2026-10-24,,Open,Billing,High
+CASE004343,SO004343,Credit hold,2026-01-21,2026-01-22,2026-01-23,Resolved,Warehouse,Critical
+CASE004352,SO004352,Demand capture error,2026-11-09,2026-11-10,,Open,Transportation,Medium
+CASE004354,SO004354,Inventory shortage,2026-07-07,2026-07-08,,Open,Customer Solutions,Low
+CASE004360,SO004360,Demand capture error,2026-01-07,2026-01-08,2026-01-08,Resolved,Transportation,Low
+CASE004367,SO004367,Warehouse picking issue,2026-03-31,2026-04-02,,Open,Warehouse,Medium
+CASE004408,SO004408,Credit hold,2026-07-26,2026-07-28,2026-07-27,Resolved,Transportation,Low
+CASE004409,SO004409,Warehouse picking issue,2026-10-20,2026-10-21,,Open,Billing,Medium
+CASE004414,SO004414,Address validation,2026-05-17,2026-05-18,,Open,Customer Solutions,High
+CASE004415,SO004415,Inventory shortage,2026-06-25,2026-06-27,,Open,Billing,Medium
+CASE004422,SO004422,Carrier delay,2026-09-16,2026-09-17,2026-09-18,Resolved,Transportation,High
+CASE004426,SO004426,Incorrect pricing,2026-05-24,2026-05-26,2026-05-25,Resolved,Transportation,Low
+CASE004447,SO004447,Warehouse picking issue,2026-08-12,2026-08-13,,Open,Billing,High
+CASE004449,SO004449,Warehouse picking issue,2026-03-14,2026-03-15,2026-03-14,Resolved,Transportation,Medium
+CASE004459,SO004459,Billing discrepancy,2026-01-22,2026-01-23,2026-01-26,Resolved,Transportation,Low
+CASE004464,SO004464,Carrier delay,2026-06-03,2026-06-04,2026-06-05,Resolved,Warehouse,Medium
+CASE004476,SO004476,Billing discrepancy,2026-10-22,2026-10-23,,Open,Warehouse,Medium
+CASE004481,SO004481,Credit hold,2026-09-23,2026-09-24,2026-09-27,Resolved,Billing,Medium
+CASE004483,SO004483,Demand capture error,2026-03-29,2026-03-30,2026-04-01,Resolved,Customer Solutions,High
+CASE004484,SO004484,Incorrect pricing,2026-06-12,2026-06-13,,Escalated,Warehouse,Medium
+CASE004485,SO004485,Warehouse picking issue,2026-05-14,2026-05-15,,Open,Transportation,High
+CASE004495,SO004495,Incorrect pricing,2026-09-11,2026-09-12,2026-09-12,Resolved,Billing,High
+CASE004497,SO004497,Incorrect pricing,2026-11-16,2026-11-18,2026-11-20,Resolved,Warehouse,Medium
+CASE004505,SO004505,Credit hold,2026-06-25,2026-06-26,2026-06-29,Resolved,Warehouse,Low
+CASE004513,SO004513,Incorrect pricing,2026-04-22,2026-04-23,2026-04-26,Resolved,Billing,Low
+CASE004517,SO004517,Credit hold,2026-05-03,2026-05-04,2026-05-06,Resolved,Warehouse,Low
+CASE004523,SO004523,Appointment scheduling,2026-10-24,2026-10-25,,Open,Billing,Low
+CASE004529,SO004529,Carrier delay,2026-10-02,2026-10-03,,Open,Billing,Low
+CASE004531,SO004531,Incorrect pricing,2026-09-04,2026-09-05,2026-09-05,Resolved,Customer Solutions,Medium
+CASE004537,SO004537,Incorrect pricing,2026-06-10,2026-06-11,2026-06-14,Resolved,Customer Solutions,Medium
+CASE004551,SO004551,Demand capture error,2026-04-11,2026-04-12,,Open,Customer Solutions,Low
+CASE004554,SO004554,Demand capture error,2026-01-26,2026-01-28,2026-01-30,Resolved,Billing,Low
+CASE004557,SO004557,Demand capture error,2026-09-27,2026-09-29,2026-09-28,Resolved,Warehouse,Low
+CASE004560,SO004560,Warehouse picking issue,2026-09-15,2026-09-17,2026-09-20,Resolved,Transportation,Medium
+CASE004565,SO004565,Credit hold,2026-09-26,2026-09-27,2026-10-01,Resolved,Customer Solutions,Medium
+CASE004584,SO004584,Incorrect pricing,2026-09-07,2026-09-08,,Escalated,Billing,Medium
+CASE004608,SO004608,Demand capture error,2026-07-11,2026-07-12,2026-07-16,Resolved,Customer Solutions,Medium
+CASE004610,SO004610,Inventory shortage,2026-04-01,2026-04-02,,Open,Warehouse,Medium
+CASE004625,SO004625,Address validation,2026-05-10,2026-05-11,2026-05-14,Resolved,Warehouse,High
+CASE004630,SO004630,Appointment scheduling,2026-06-20,2026-06-22,,Escalated,Customer Solutions,Medium
+CASE004636,SO004636,Appointment scheduling,2026-05-08,2026-05-10,2026-05-13,Resolved,Warehouse,Medium
+CASE004639,SO004639,Incorrect pricing,2026-05-01,2026-05-03,2026-05-03,Resolved,Customer Solutions,Medium
+CASE004647,SO004647,Credit hold,2026-04-30,2026-05-01,,Open,Warehouse,High
+CASE004649,SO004649,Appointment scheduling,2026-01-03,2026-01-04,,Open,Billing,High
+CASE004662,SO004662,Demand capture error,2026-02-04,2026-02-05,,Escalated,Customer Solutions,High
+CASE004664,SO004664,Inventory shortage,2026-01-06,2026-01-07,,Open,Customer Solutions,Low
+CASE004684,SO004684,Credit hold,2026-04-16,2026-04-17,,Open,Billing,Medium
+CASE004688,SO004688,Demand capture error,2026-07-25,2026-07-26,,Escalated,Customer Solutions,Medium
+CASE004691,SO004691,Inventory shortage,2026-08-21,2026-08-22,,Open,Customer Solutions,Medium
+CASE004695,SO004695,Billing discrepancy,2026-07-05,2026-07-06,,Open,Warehouse,Medium
+CASE004696,SO004696,Demand capture error,2026-01-22,2026-01-23,2026-01-24,Resolved,Customer Solutions,Medium
+CASE004711,SO004711,Address validation,2026-05-09,2026-05-10,,Escalated,Transportation,High
+CASE004716,SO004716,Incorrect pricing,2026-09-03,2026-09-04,,Open,Warehouse,High
+CASE004720,SO004720,Inventory shortage,2026-07-20,2026-07-21,2026-07-25,Resolved,Billing,Medium
+CASE004724,SO004724,Incorrect pricing,2026-04-26,2026-04-27,2026-04-26,Resolved,Billing,High
+CASE004731,SO004731,Address validation,2026-10-13,2026-10-15,2026-10-15,Resolved,Warehouse,Medium
+CASE004739,SO004739,Appointment scheduling,2026-07-16,2026-07-18,,Open,Warehouse,High
+CASE004741,SO004741,Demand capture error,2026-01-12,2026-01-13,2026-01-14,Resolved,Warehouse,Low
+CASE004749,SO004749,Address validation,2026-10-19,2026-10-20,,Open,Warehouse,Medium
+CASE004755,SO004755,Demand capture error,2026-02-17,2026-02-18,2026-02-21,Resolved,Warehouse,Low
+CASE004761,SO004761,Carrier delay,2026-02-24,2026-02-25,2026-02-27,Resolved,Transportation,Medium
+CASE004768,SO004768,Inventory shortage,2026-10-30,2026-10-31,2026-10-30,Resolved,Billing,Medium
+CASE004772,SO004772,Warehouse picking issue,2026-09-22,2026-09-23,2026-09-24,Resolved,Customer Solutions,Medium
+CASE004777,SO004777,Demand capture error,2026-04-28,2026-04-30,2026-05-02,Resolved,Transportation,High
+CASE004780,SO004780,Demand capture error,2026-08-28,2026-08-29,,Escalated,Billing,High
+CASE004784,SO004784,Demand capture error,2026-09-04,2026-09-06,,Open,Billing,Low
+CASE004793,SO004793,Appointment scheduling,2026-07-08,2026-07-10,2026-07-13,Resolved,Warehouse,High
+CASE004797,SO004797,Inventory shortage,2026-05-31,2026-06-01,2026-06-02,Resolved,Billing,Medium
+CASE004798,SO004798,Demand capture error,2026-04-04,2026-04-05,,Open,Billing,Low
+CASE004815,SO004815,Inventory shortage,2026-07-05,2026-07-06,,Escalated,Customer Solutions,Medium
+CASE004824,SO004824,Warehouse picking issue,2026-09-14,2026-09-15,2026-09-17,Resolved,Warehouse,Medium
+CASE004828,SO004828,Demand capture error,2026-08-04,2026-08-05,,Open,Customer Solutions,Medium
+CASE004834,SO004834,Inventory shortage,2026-11-04,2026-11-05,2026-11-08,Resolved,Transportation,Critical
+CASE004846,SO004846,Carrier delay,2026-04-21,2026-04-22,,Open,Transportation,Medium
+CASE004870,SO004870,Inventory shortage,2026-07-29,2026-07-30,2026-08-01,Resolved,Billing,Medium
+CASE004871,SO004871,Demand capture error,2026-07-13,2026-07-14,2026-07-18,Resolved,Warehouse,High
+CASE004874,SO004874,Warehouse picking issue,2026-03-03,2026-03-04,2026-03-04,Resolved,Billing,High
+CASE004875,SO004875,Demand capture error,2026-02-14,2026-02-15,,Escalated,Customer Solutions,Low
+CASE004879,SO004879,Demand capture error,2026-11-14,2026-11-15,2026-11-14,Resolved,Transportation,Medium
+CASE004891,SO004891,Billing discrepancy,2026-03-02,2026-03-03,2026-03-04,Resolved,Billing,High
+CASE004895,SO004895,Demand capture error,2026-07-22,2026-07-23,2026-07-22,Resolved,Transportation,High
+CASE004907,SO004907,Incorrect pricing,2026-01-20,2026-01-21,2026-01-23,Resolved,Transportation,High
+CASE004915,SO004915,Billing discrepancy,2026-01-21,2026-01-23,,Open,Transportation,Critical
+CASE004929,SO004929,Incorrect pricing,2026-04-10,2026-04-12,2026-04-14,Resolved,Warehouse,Medium
+CASE004931,SO004931,Inventory shortage,2026-01-18,2026-01-19,,Open,Warehouse,Medium
+CASE004932,SO004932,Appointment scheduling,2026-06-05,2026-06-07,,Open,Transportation,Medium
+CASE004941,SO004941,Billing discrepancy,2026-08-27,2026-08-28,2026-08-29,Resolved,Warehouse,Medium
+CASE004952,SO004952,Carrier delay,2026-03-19,2026-03-20,,Open,Billing,Medium
+CASE004956,SO004956,Incorrect pricing,2026-05-15,2026-05-17,2026-05-19,Resolved,Billing,Low
+CASE004962,SO004962,Carrier delay,2026-05-07,2026-05-08,,Open,Transportation,Medium
+CASE004971,SO004971,Inventory shortage,2026-07-04,2026-07-06,,Open,Billing,Medium
+CASE005006,SO005006,Carrier delay,2026-10-14,2026-10-16,2026-10-18,Resolved,Transportation,Low
+CASE005025,SO005025,Appointment scheduling,2026-10-20,2026-10-22,,Escalated,Warehouse,Medium
+CASE005031,SO005031,Credit hold,2026-07-18,2026-07-20,2026-07-21,Resolved,Warehouse,Medium
+CASE005040,SO005040,Billing discrepancy,2026-04-07,2026-04-08,2026-04-08,Resolved,Transportation,Medium
+CASE005044,SO005044,Credit hold,2026-10-03,2026-10-04,2026-10-08,Resolved,Warehouse,Low
+CASE005045,SO005045,Demand capture error,2026-07-18,2026-07-19,,Escalated,Transportation,Low
+CASE005069,SO005069,Carrier delay,2026-02-19,2026-02-20,2026-02-24,Resolved,Customer Solutions,Medium
+CASE005075,SO005075,Demand capture error,2026-08-31,2026-09-01,,Open,Warehouse,Medium
+CASE005083,SO005083,Credit hold,2026-01-03,2026-01-04,2026-01-03,Resolved,Customer Solutions,Medium
+CASE005085,SO005085,Warehouse picking issue,2026-04-15,2026-04-17,2026-04-18,Resolved,Warehouse,Low
+CASE005090,SO005090,Carrier delay,2026-02-27,2026-02-28,,Open,Billing,Medium
+CASE005092,SO005092,Address validation,2026-03-29,2026-03-30,2026-04-02,Resolved,Customer Solutions,High
+CASE005110,SO005110,Inventory shortage,2026-05-09,2026-05-10,2026-05-09,Resolved,Transportation,High
+CASE005111,SO005111,Billing discrepancy,2026-09-06,2026-09-07,,Open,Warehouse,High
+CASE005113,SO005113,Inventory shortage,2026-08-31,2026-09-01,,Open,Customer Solutions,Critical
+CASE005116,SO005116,Demand capture error,2026-10-22,2026-10-24,2026-10-23,Resolved,Warehouse,High
+CASE005122,SO005122,Credit hold,2026-01-31,2026-02-01,,Open,Warehouse,High
+CASE005127,SO005127,Demand capture error,2026-09-23,2026-09-25,,Escalated,Billing,High
+CASE005133,SO005133,Carrier delay,2026-04-15,2026-04-16,,Open,Warehouse,Low
+CASE005143,SO005143,Address validation,2026-02-19,2026-02-20,,Open,Customer Solutions,Critical
+CASE005151,SO005151,Carrier delay,2026-10-31,2026-11-02,,Escalated,Warehouse,High
+CASE005156,SO005156,Credit hold,2026-08-14,2026-08-15,2026-08-19,Resolved,Warehouse,High
+CASE005166,SO005166,Address validation,2026-07-15,2026-07-16,2026-07-15,Resolved,Billing,Medium
+CASE005181,SO005181,Credit hold,2026-09-14,2026-09-15,2026-09-17,Resolved,Billing,Medium
+CASE005182,SO005182,Carrier delay,2026-03-05,2026-03-06,,Escalated,Warehouse,Medium
+CASE005185,SO005185,Carrier delay,2026-04-16,2026-04-17,,Open,Transportation,High
+CASE005187,SO005187,Warehouse picking issue,2026-08-24,2026-08-25,,Open,Billing,Low
+CASE005189,SO005189,Address validation,2026-04-24,2026-04-26,2026-04-29,Resolved,Warehouse,Medium
+CASE005220,SO005220,Appointment scheduling,2026-09-24,2026-09-26,,Open,Warehouse,Medium
+CASE005223,SO005223,Warehouse picking issue,2026-07-18,2026-07-19,2026-07-20,Resolved,Warehouse,Medium
+CASE005224,SO005224,Address validation,2026-06-15,2026-06-16,,Open,Customer Solutions,Medium
+CASE005229,SO005229,Demand capture error,2026-05-26,2026-05-27,2026-05-28,Resolved,Transportation,Medium
+CASE005243,SO005243,Incorrect pricing,2026-04-25,2026-04-26,,Open,Billing,Medium
+CASE005248,SO005248,Credit hold,2026-08-01,2026-08-02,,Escalated,Billing,Medium
+CASE005250,SO005250,Incorrect pricing,2026-09-06,2026-09-08,,Escalated,Transportation,Medium
+CASE005251,SO005251,Demand capture error,2026-10-22,2026-10-23,2026-10-27,Resolved,Billing,High
+CASE005252,SO005252,Demand capture error,2026-03-22,2026-03-23,2026-03-25,Resolved,Warehouse,Medium
+CASE005267,SO005267,Appointment scheduling,2026-06-21,2026-06-22,2026-06-25,Resolved,Transportation,Critical
+CASE005276,SO005276,Inventory shortage,2026-07-28,2026-07-29,,Open,Transportation,Medium
+CASE005280,SO005280,Demand capture error,2026-04-01,2026-04-03,,Escalated,Billing,Medium
+CASE005281,SO005281,Billing discrepancy,2026-06-12,2026-06-13,,Open,Billing,Medium
+CASE005292,SO005292,Appointment scheduling,2026-03-02,2026-03-03,,Open,Transportation,Medium
+CASE005304,SO005304,Appointment scheduling,2026-03-03,2026-03-04,,Open,Warehouse,High
+CASE005311,SO005311,Inventory shortage,2026-10-23,2026-10-24,2026-10-24,Resolved,Warehouse,Medium
+CASE005331,SO005331,Carrier delay,2026-10-31,2026-11-01,,Escalated,Warehouse,Medium
+CASE005333,SO005333,Inventory shortage,2026-08-04,2026-08-05,,Open,Transportation,Medium
+CASE005338,SO005338,Warehouse picking issue,2026-08-26,2026-08-27,2026-08-26,Resolved,Transportation,Medium
+CASE005340,SO005340,Credit hold,2026-03-24,2026-03-25,,Open,Customer Solutions,Medium
+CASE005344,SO005344,Carrier delay,2026-03-29,2026-03-30,2026-04-01,Resolved,Billing,Medium
+CASE005346,SO005346,Credit hold,2026-03-31,2026-04-01,2026-04-01,Resolved,Customer Solutions,Medium
+CASE005349,SO005349,Incorrect pricing,2026-06-22,2026-06-24,,Open,Transportation,High
+CASE005350,SO005350,Warehouse picking issue,2026-04-20,2026-04-21,,Open,Billing,Medium
+CASE005375,SO005375,Incorrect pricing,2026-08-12,2026-08-13,2026-08-15,Resolved,Transportation,Low
+CASE005376,SO005376,Address validation,2026-06-18,2026-06-19,,Open,Billing,High
+CASE005387,SO005387,Demand capture error,2026-03-18,2026-03-19,2026-03-20,Resolved,Transportation,Medium
+CASE005388,SO005388,Demand capture error,2026-01-09,2026-01-10,,Open,Customer Solutions,High
+CASE005392,SO005392,Demand capture error,2026-07-01,2026-07-02,2026-07-04,Resolved,Warehouse,Low
+CASE005394,SO005394,Incorrect pricing,2026-08-27,2026-08-29,,Escalated,Warehouse,Low
+CASE005395,SO005395,Incorrect pricing,2026-06-05,2026-06-06,,Open,Billing,Medium
+CASE005400,SO005400,Address validation,2026-05-31,2026-06-01,,Open,Warehouse,Medium
+CASE005401,SO005401,Incorrect pricing,2026-01-24,2026-01-25,,Open,Warehouse,High
+CASE005406,SO005406,Carrier delay,2026-04-28,2026-04-29,2026-05-02,Resolved,Billing,Medium
+CASE005421,SO005421,Appointment scheduling,2026-02-28,2026-03-01,,Open,Transportation,High
+CASE005441,SO005441,Credit hold,2026-05-04,2026-05-05,2026-05-09,Resolved,Customer Solutions,Medium
+CASE005456,SO005456,Warehouse picking issue,2026-02-21,2026-02-23,,Escalated,Customer Solutions,Low
+CASE005460,SO005460,Billing discrepancy,2026-03-23,2026-03-24,,Open,Transportation,High
+CASE005478,SO005478,Inventory shortage,2026-09-28,2026-09-29,,Open,Billing,Medium
+CASE005480,SO005480,Inventory shortage,2026-05-08,2026-05-09,,Escalated,Warehouse,Medium
+CASE005486,SO005486,Inventory shortage,2026-04-09,2026-04-10,,Open,Warehouse,Medium
+CASE005488,SO005488,Warehouse picking issue,2026-03-18,2026-03-19,,Escalated,Customer Solutions,High
+CASE005493,SO005493,Carrier delay,2026-05-15,2026-05-16,,Open,Billing,Medium
+CASE005506,SO005506,Appointment scheduling,2026-10-20,2026-10-21,2026-10-23,Resolved,Transportation,High
+CASE005515,SO005515,Carrier delay,2026-07-10,2026-07-11,,Open,Customer Solutions,Medium
+CASE005521,SO005521,Billing discrepancy,2026-05-12,2026-05-14,2026-05-12,Resolved,Customer Solutions,Low
+CASE005522,SO005522,Demand capture error,2026-07-13,2026-07-14,2026-07-17,Resolved,Warehouse,High
+CASE005533,SO005533,Demand capture error,2026-08-11,2026-08-12,2026-08-12,Resolved,Customer Solutions,High
+CASE005542,SO005542,Billing discrepancy,2026-04-18,2026-04-20,,Open,Warehouse,High
+CASE005553,SO005553,Appointment scheduling,2026-02-12,2026-02-13,,Escalated,Billing,Low
+CASE005554,SO005554,Inventory shortage,2026-07-31,2026-08-02,,Open,Warehouse,Medium
+CASE005560,SO005560,Warehouse picking issue,2026-03-19,2026-03-20,2026-03-20,Resolved,Billing,Medium
+CASE005564,SO005564,Inventory shortage,2026-04-10,2026-04-12,2026-04-12,Resolved,Customer Solutions,Low
+CASE005568,SO005568,Incorrect pricing,2026-05-24,2026-05-25,2026-05-27,Resolved,Customer Solutions,Medium
+CASE005569,SO005569,Warehouse picking issue,2026-05-14,2026-05-16,2026-05-19,Resolved,Billing,Medium
+CASE005572,SO005572,Warehouse picking issue,2026-09-15,2026-09-16,2026-09-18,Resolved,Transportation,Medium
+CASE005627,SO005627,Credit hold,2026-05-16,2026-05-17,2026-05-18,Resolved,Billing,Critical
+CASE005634,SO005634,Credit hold,2026-03-19,2026-03-21,,Open,Customer Solutions,Medium
+CASE005635,SO005635,Demand capture error,2026-10-06,2026-10-08,,Open,Transportation,High
+CASE005643,SO005643,Billing discrepancy,2026-02-13,2026-02-14,,Open,Customer Solutions,High
+CASE005647,SO005647,Demand capture error,2026-10-08,2026-10-09,,Open,Transportation,Medium
+CASE005650,SO005650,Address validation,2026-07-05,2026-07-06,,Escalated,Warehouse,Medium
+CASE005651,SO005651,Demand capture error,2026-07-28,2026-07-29,,Escalated,Transportation,Medium
+CASE005654,SO005654,Demand capture error,2026-10-05,2026-10-06,,Open,Billing,Medium
+CASE005658,SO005658,Credit hold,2026-08-12,2026-08-13,2026-08-15,Resolved,Customer Solutions,High
+CASE005662,SO005662,Inventory shortage,2026-02-04,2026-02-06,2026-02-09,Resolved,Warehouse,Medium
+CASE005670,SO005670,Warehouse picking issue,2026-10-15,2026-10-16,2026-10-20,Resolved,Transportation,High
+CASE005684,SO005684,Inventory shortage,2026-06-02,2026-06-03,,Open,Customer Solutions,Low
+CASE005688,SO005688,Carrier delay,2026-03-10,2026-03-11,2026-03-14,Resolved,Customer Solutions,Medium
+CASE005693,SO005693,Warehouse picking issue,2026-05-24,2026-05-25,2026-05-27,Resolved,Customer Solutions,Medium
+CASE005698,SO005698,Demand capture error,2026-01-10,2026-01-11,2026-01-11,Resolved,Warehouse,High
+CASE005700,SO005700,Incorrect pricing,2026-02-18,2026-02-19,2026-02-22,Resolved,Warehouse,Medium
+CASE005707,SO005707,Inventory shortage,2026-08-11,2026-08-13,,Open,Transportation,Medium
+CASE005713,SO005713,Address validation,2026-01-07,2026-01-08,2026-01-07,Resolved,Transportation,Medium
+CASE005715,SO005715,Warehouse picking issue,2026-09-16,2026-09-17,2026-09-21,Resolved,Customer Solutions,Medium
+CASE005716,SO005716,Incorrect pricing,2026-10-16,2026-10-17,2026-10-17,Resolved,Warehouse,Low
+CASE005717,SO005717,Credit hold,2026-07-02,2026-07-03,2026-07-02,Resolved,Warehouse,Medium
+CASE005719,SO005719,Demand capture error,2026-02-24,2026-02-25,2026-02-27,Resolved,Customer Solutions,Medium
+CASE005723,SO005723,Appointment scheduling,2026-06-07,2026-06-09,,Open,Customer Solutions,High
+CASE005737,SO005737,Inventory shortage,2026-05-22,2026-05-23,,Open,Warehouse,Medium
+CASE005745,SO005745,Inventory shortage,2026-03-02,2026-03-03,2026-03-06,Resolved,Warehouse,Medium
+CASE005747,SO005747,Address validation,2026-06-30,2026-07-01,2026-07-02,Resolved,Billing,High
+CASE005760,SO005760,Carrier delay,2026-02-07,2026-02-08,2026-02-09,Resolved,Billing,Medium
+CASE005763,SO005763,Appointment scheduling,2026-08-04,2026-08-06,,Open,Billing,Medium
+CASE005769,SO005769,Billing discrepancy,2026-03-04,2026-03-05,2026-03-09,Resolved,Customer Solutions,Medium
+CASE005771,SO005771,Credit hold,2026-08-15,2026-08-16,2026-08-18,Resolved,Warehouse,High
+CASE005777,SO005777,Demand capture error,2026-10-06,2026-10-07,2026-10-09,Resolved,Transportation,High
+CASE005790,SO005790,Billing discrepancy,2026-11-05,2026-11-06,,Open,Transportation,Medium
+CASE005795,SO005795,Credit hold,2026-11-10,2026-11-12,,Open,Warehouse,Medium
+CASE005812,SO005812,Credit hold,2026-02-05,2026-02-06,,Open,Warehouse,Medium
+CASE005824,SO005824,Appointment scheduling,2026-07-28,2026-07-29,2026-08-02,Resolved,Customer Solutions,Critical
+CASE005827,SO005827,Address validation,2026-08-29,2026-08-30,2026-08-29,Resolved,Transportation,Low
+CASE005830,SO005830,Inventory shortage,2026-01-12,2026-01-14,,Open,Warehouse,Medium
+CASE005831,SO005831,Inventory shortage,2026-03-04,2026-03-05,2026-03-07,Resolved,Transportation,Low
+CASE005832,SO005832,Incorrect pricing,2026-05-15,2026-05-16,,Open,Warehouse,Medium
+CASE005838,SO005838,Warehouse picking issue,2026-10-16,2026-10-17,2026-10-17,Resolved,Transportation,Critical
+CASE005847,SO005847,Billing discrepancy,2026-04-18,2026-04-19,2026-04-21,Resolved,Transportation,Medium
+CASE005850,SO005850,Address validation,2026-08-23,2026-08-24,2026-08-25,Resolved,Billing,Medium
+CASE005855,SO005855,Address validation,2026-02-26,2026-02-28,2026-03-01,Resolved,Customer Solutions,High
+CASE005873,SO005873,Incorrect pricing,2026-06-28,2026-06-30,2026-06-28,Resolved,Customer Solutions,High
+CASE005875,SO005875,Incorrect pricing,2026-03-01,2026-03-02,2026-03-04,Resolved,Billing,Critical
+CASE005890,SO005890,Demand capture error,2026-11-06,2026-11-07,2026-11-11,Resolved,Warehouse,Medium
+CASE005896,SO005896,Demand capture error,2026-06-17,2026-06-18,2026-06-18,Resolved,Transportation,Medium
+CASE005897,SO005897,Demand capture error,2026-03-11,2026-03-12,2026-03-16,Resolved,Billing,Medium
+CASE005901,SO005901,Address validation,2026-09-24,2026-09-26,,Open,Transportation,High
+CASE005904,SO005904,Address validation,2026-02-06,2026-02-07,2026-02-09,Resolved,Transportation,Medium
+CASE005907,SO005907,Incorrect pricing,2026-03-10,2026-03-11,,Open,Billing,Low
+CASE005916,SO005916,Address validation,2026-08-02,2026-08-04,2026-08-03,Resolved,Warehouse,Medium
+CASE005917,SO005917,Billing discrepancy,2026-01-26,2026-01-28,2026-01-29,Resolved,Billing,Medium
+CASE005927,SO005927,Billing discrepancy,2026-03-11,2026-03-13,2026-03-15,Resolved,Warehouse,Medium
+CASE005938,SO005938,Address validation,2026-02-10,2026-02-11,2026-02-12,Resolved,Warehouse,High
+CASE005944,SO005944,Warehouse picking issue,2026-05-29,2026-05-30,2026-06-03,Resolved,Billing,Critical
+CASE005949,SO005949,Credit hold,2026-03-02,2026-03-03,2026-03-06,Resolved,Warehouse,High
+CASE005952,SO005952,Appointment scheduling,2026-05-02,2026-05-03,2026-05-03,Resolved,Customer Solutions,Medium
+CASE005958,SO005958,Credit hold,2026-09-08,2026-09-10,,Open,Transportation,Low
+CASE005959,SO005959,Incorrect pricing,2026-10-17,2026-10-18,2026-10-21,Resolved,Billing,Medium
+CASE005960,SO005960,Demand capture error,2026-10-04,2026-10-05,,Escalated,Customer Solutions,Medium
+CASE005966,SO005966,Carrier delay,2026-08-20,2026-08-22,,Escalated,Customer Solutions,Medium
+CASE005967,SO005967,Inventory shortage,2026-03-30,2026-03-31,2026-04-01,Resolved,Customer Solutions,Medium
+CASE005971,SO005971,Billing discrepancy,2026-02-26,2026-02-27,2026-03-01,Resolved,Transportation,High
+CASE005972,SO005972,Incorrect pricing,2026-11-10,2026-11-11,2026-11-10,Resolved,Billing,Medium
+CASE005983,SO005983,Incorrect pricing,2026-06-06,2026-06-07,,Escalated,Warehouse,High
+CASE005988,SO005988,Appointment scheduling,2026-07-16,2026-07-17,2026-07-18,Resolved,Customer Solutions,High
+CASE006008,SO006008,Demand capture error,2026-01-09,2026-01-10,2026-01-11,Resolved,Customer Solutions,Medium
+CASE006017,SO006017,Address validation,2026-04-15,2026-04-17,2026-04-17,Resolved,Billing,High
+CASE006018,SO006018,Incorrect pricing,2026-01-05,2026-01-07,2026-01-06,Resolved,Customer Solutions,Low
+CASE006036,SO006036,Inventory shortage,2026-09-22,2026-09-23,,Open,Transportation,Medium
+CASE006042,SO006042,Inventory shortage,2026-01-25,2026-01-26,2026-01-27,Resolved,Transportation,Low
+CASE006046,SO006046,Address validation,2026-02-17,2026-02-18,,Open,Transportation,Medium
+CASE006049,SO006049,Address validation,2026-05-21,2026-05-22,2026-05-26,Resolved,Customer Solutions,Medium
+CASE006054,SO006054,Carrier delay,2026-02-28,2026-03-02,2026-03-01,Resolved,Customer Solutions,Low
+CASE006055,SO006055,Carrier delay,2026-05-31,2026-06-01,2026-05-31,Resolved,Customer Solutions,High
+CASE006062,SO006062,Credit hold,2026-05-14,2026-05-15,2026-05-17,Resolved,Customer Solutions,Medium
+CASE006066,SO006066,Demand capture error,2026-08-13,2026-08-14,2026-08-15,Resolved,Customer Solutions,Medium
+CASE006070,SO006070,Address validation,2026-04-15,2026-04-16,,Open,Transportation,Medium
+CASE006074,SO006074,Carrier delay,2026-03-01,2026-03-03,2026-03-01,Resolved,Customer Solutions,Medium
+CASE006078,SO006078,Credit hold,2026-03-01,2026-03-02,,Open,Warehouse,Medium
+CASE006087,SO006087,Address validation,2026-09-13,2026-09-14,,Open,Warehouse,Medium
+CASE006092,SO006092,Incorrect pricing,2026-09-17,2026-09-18,2026-09-21,Resolved,Warehouse,Medium
+CASE006097,SO006097,Warehouse picking issue,2026-08-30,2026-08-31,,Open,Transportation,High
+CASE006104,SO006104,Billing discrepancy,2026-01-10,2026-01-12,2026-01-15,Resolved,Billing,Medium
+CASE006117,SO006117,Demand capture error,2026-07-20,2026-07-21,,Escalated,Customer Solutions,Medium
+CASE006121,SO006121,Address validation,2026-10-29,2026-10-30,2026-11-02,Resolved,Customer Solutions,Critical
+CASE006123,SO006123,Warehouse picking issue,2026-07-21,2026-07-22,2026-07-21,Resolved,Transportation,High
+CASE006124,SO006124,Warehouse picking issue,2026-08-22,2026-08-23,,Escalated,Transportation,Low
+CASE006141,SO006141,Demand capture error,2026-04-03,2026-04-05,2026-04-05,Resolved,Customer Solutions,Medium
+CASE006149,SO006149,Appointment scheduling,2026-02-21,2026-02-23,2026-02-23,Resolved,Transportation,Critical
+CASE006152,SO006152,Incorrect pricing,2026-05-26,2026-05-27,2026-05-27,Resolved,Customer Solutions,Low
+CASE006165,SO006165,Carrier delay,2026-04-27,2026-04-28,2026-04-30,Resolved,Billing,Medium
+CASE006166,SO006166,Demand capture error,2026-02-23,2026-02-24,2026-02-28,Resolved,Transportation,Low
+CASE006168,SO006168,Inventory shortage,2026-09-28,2026-09-30,,Open,Customer Solutions,Medium
+CASE006174,SO006174,Credit hold,2026-05-11,2026-05-13,2026-05-16,Resolved,Transportation,High
+CASE006194,SO006194,Demand capture error,2026-01-17,2026-01-19,2026-01-19,Resolved,Billing,Low
+CASE006204,SO006204,Inventory shortage,2026-03-17,2026-03-18,2026-03-19,Resolved,Billing,High
+CASE006205,SO006205,Inventory shortage,2026-04-01,2026-04-02,2026-04-02,Resolved,Customer Solutions,Medium
+CASE006209,SO006209,Billing discrepancy,2026-05-23,2026-05-25,,Escalated,Warehouse,Low
+CASE006217,SO006217,Inventory shortage,2026-03-21,2026-03-23,2026-03-26,Resolved,Billing,Medium
+CASE006222,SO006222,Demand capture error,2026-08-06,2026-08-08,,Open,Billing,Low
+CASE006228,SO006228,Demand capture error,2026-10-25,2026-10-26,2026-10-27,Resolved,Warehouse,Low
+CASE006231,SO006231,Address validation,2026-06-07,2026-06-09,2026-06-07,Resolved,Warehouse,Medium
+CASE006238,SO006238,Inventory shortage,2026-06-18,2026-06-19,2026-06-20,Resolved,Customer Solutions,Medium
+CASE006239,SO006239,Address validation,2026-11-14,2026-11-16,,Open,Customer Solutions,Medium
+CASE006247,SO006247,Demand capture error,2026-10-28,2026-10-29,,Escalated,Transportation,Medium
+CASE006254,SO006254,Incorrect pricing,2026-04-18,2026-04-20,,Open,Customer Solutions,Medium
+CASE006258,SO006258,Billing discrepancy,2026-09-27,2026-09-28,2026-09-30,Resolved,Billing,Medium
+CASE006262,SO006262,Inventory shortage,2026-07-12,2026-07-13,2026-07-17,Resolved,Warehouse,Low
+CASE006264,SO006264,Demand capture error,2026-09-03,2026-09-04,2026-09-05,Resolved,Warehouse,Medium
+CASE006267,SO006267,Credit hold,2026-05-23,2026-05-24,,Open,Billing,Low
+CASE006270,SO006270,Address validation,2026-04-06,2026-04-07,2026-04-11,Resolved,Customer Solutions,Medium
+CASE006279,SO006279,Carrier delay,2026-06-18,2026-06-19,,Open,Billing,Low
+CASE006281,SO006281,Appointment scheduling,2026-08-29,2026-08-31,2026-08-31,Resolved,Billing,Medium
+CASE006288,SO006288,Demand capture error,2026-02-02,2026-02-04,,Open,Billing,Medium
+CASE006291,SO006291,Inventory shortage,2026-11-08,2026-11-09,2026-11-08,Resolved,Transportation,Medium
+CASE006313,SO006313,Appointment scheduling,2026-04-30,2026-05-02,,Open,Customer Solutions,Low
+CASE006318,SO006318,Inventory shortage,2026-06-15,2026-06-16,,Open,Transportation,Medium
+CASE006323,SO006323,Demand capture error,2026-09-22,2026-09-23,2026-09-26,Resolved,Billing,Low
+CASE006346,SO006346,Credit hold,2026-05-09,2026-05-10,2026-05-13,Resolved,Warehouse,Medium
+CASE006356,SO006356,Carrier delay,2026-10-02,2026-10-03,2026-10-05,Resolved,Transportation,Low
+CASE006358,SO006358,Credit hold,2026-04-16,2026-04-17,2026-04-21,Resolved,Transportation,High
+CASE006375,SO006375,Inventory shortage,2026-03-16,2026-03-17,2026-03-16,Resolved,Warehouse,Medium
+CASE006393,SO006393,Inventory shortage,2026-08-01,2026-08-03,,Open,Billing,Medium
+CASE006396,SO006396,Credit hold,2026-06-13,2026-06-15,2026-06-14,Resolved,Warehouse,Medium
+CASE006401,SO006401,Inventory shortage,2026-09-13,2026-09-14,,Escalated,Billing,Critical
+CASE006403,SO006403,Inventory shortage,2026-09-09,2026-09-10,2026-09-11,Resolved,Billing,Medium
+CASE006425,SO006425,Appointment scheduling,2026-06-13,2026-06-14,2026-06-13,Resolved,Warehouse,Medium
+CASE006434,SO006434,Inventory shortage,2026-02-28,2026-03-01,,Open,Billing,High
+CASE006435,SO006435,Credit hold,2026-05-16,2026-05-17,,Open,Billing,Medium
+CASE006439,SO006439,Address validation,2026-02-12,2026-02-13,,Escalated,Transportation,Low
+CASE006440,SO006440,Demand capture error,2026-02-06,2026-02-07,,Open,Billing,Medium
+CASE006445,SO006445,Incorrect pricing,2026-05-13,2026-05-14,,Open,Customer Solutions,High
+CASE006453,SO006453,Inventory shortage,2026-11-11,2026-11-12,,Open,Warehouse,High
+CASE006461,SO006461,Address validation,2026-04-12,2026-04-13,,Open,Warehouse,High
+CASE006462,SO006462,Warehouse picking issue,2026-02-09,2026-02-10,,Open,Billing,High
+CASE006463,SO006463,Billing discrepancy,2026-05-29,2026-05-31,,Escalated,Warehouse,High
+CASE006466,SO006466,Carrier delay,2026-09-18,2026-09-19,2026-09-22,Resolved,Customer Solutions,Medium
+CASE006472,SO006472,Demand capture error,2026-09-06,2026-09-08,,Escalated,Billing,Low
+CASE006475,SO006475,Incorrect pricing,2026-01-10,2026-01-12,2026-01-10,Resolved,Warehouse,Low
+CASE006479,SO006479,Billing discrepancy,2026-03-02,2026-03-03,2026-03-07,Resolved,Billing,Medium
+CASE006492,SO006492,Inventory shortage,2026-06-19,2026-06-21,2026-06-24,Resolved,Billing,High
+CASE006494,SO006494,Address validation,2026-10-24,2026-10-25,2026-10-28,Resolved,Customer Solutions,High
+CASE006512,SO006512,Demand capture error,2026-05-29,2026-05-30,,Open,Warehouse,Critical
+CASE006516,SO006516,Billing discrepancy,2026-02-18,2026-02-19,,Open,Billing,Medium
+CASE006521,SO006521,Demand capture error,2026-09-08,2026-09-09,,Open,Customer Solutions,High
+CASE006523,SO006523,Incorrect pricing,2026-09-01,2026-09-02,2026-09-01,Resolved,Transportation,Medium
+CASE006526,SO006526,Carrier delay,2026-07-25,2026-07-26,2026-07-30,Resolved,Transportation,Medium
+CASE006530,SO006530,Demand capture error,2026-03-02,2026-03-03,2026-03-05,Resolved,Warehouse,Medium
+CASE006531,SO006531,Inventory shortage,2026-06-02,2026-06-03,2026-06-04,Resolved,Warehouse,High
+CASE006533,SO006533,Incorrect pricing,2026-07-28,2026-07-29,2026-07-28,Resolved,Transportation,Medium
+CASE006542,SO006542,Address validation,2026-06-18,2026-06-20,,Open,Transportation,Low
+CASE006549,SO006549,Credit hold,2026-11-06,2026-11-07,,Open,Customer Solutions,Medium
+CASE006559,SO006559,Carrier delay,2026-07-25,2026-07-27,,Escalated,Warehouse,Low
+CASE006568,SO006568,Appointment scheduling,2026-05-25,2026-05-26,,Open,Warehouse,Medium
+CASE006588,SO006588,Inventory shortage,2026-08-16,2026-08-17,,Escalated,Warehouse,Medium
+CASE006589,SO006589,Appointment scheduling,2026-10-28,2026-10-30,,Open,Transportation,Low
+CASE006592,SO006592,Carrier delay,2026-07-13,2026-07-15,,Open,Transportation,Medium
+CASE006604,SO006604,Warehouse picking issue,2026-05-22,2026-05-23,,Open,Customer Solutions,Medium
+CASE006606,SO006606,Inventory shortage,2026-04-14,2026-04-15,2026-04-14,Resolved,Transportation,Medium
+CASE006607,SO006607,Inventory shortage,2026-03-06,2026-03-07,2026-03-08,Resolved,Warehouse,Medium
+CASE006616,SO006616,Billing discrepancy,2026-01-03,2026-01-05,2026-01-03,Resolved,Transportation,High
+CASE006618,SO006618,Address validation,2026-01-25,2026-01-26,,Open,Warehouse,Low
+CASE006624,SO006624,Demand capture error,2026-02-09,2026-02-10,2026-02-11,Resolved,Transportation,Critical
+CASE006628,SO006628,Incorrect pricing,2026-02-14,2026-02-15,2026-02-16,Resolved,Billing,High
+CASE006634,SO006634,Demand capture error,2026-08-27,2026-08-28,2026-08-27,Resolved,Billing,Medium
+CASE006651,SO006651,Incorrect pricing,2026-08-28,2026-08-29,,Escalated,Customer Solutions,Medium
+CASE006660,SO006660,Inventory shortage,2026-02-27,2026-03-01,2026-03-02,Resolved,Billing,Medium
+CASE006663,SO006663,Appointment scheduling,2026-04-12,2026-04-14,2026-04-12,Resolved,Warehouse,High
+CASE006673,SO006673,Demand capture error,2026-02-14,2026-02-15,,Escalated,Transportation,High
+CASE006685,SO006685,Demand capture error,2026-02-06,2026-02-08,2026-02-08,Resolved,Transportation,High
+CASE006696,SO006696,Demand capture error,2026-06-24,2026-06-25,2026-06-27,Resolved,Transportation,Medium
+CASE006709,SO006709,Credit hold,2026-01-15,2026-01-16,2026-01-16,Resolved,Warehouse,Medium
+CASE006712,SO006712,Demand capture error,2026-07-10,2026-07-11,2026-07-15,Resolved,Warehouse,Critical
+CASE006739,SO006739,Incorrect pricing,2026-07-25,2026-07-27,2026-07-25,Resolved,Warehouse,High
+CASE006742,SO006742,Incorrect pricing,2026-08-02,2026-08-04,,Open,Transportation,High
+CASE006744,SO006744,Demand capture error,2026-06-27,2026-06-28,2026-06-27,Resolved,Warehouse,Medium
+CASE006757,SO006757,Address validation,2026-08-20,2026-08-21,,Open,Transportation,Medium
+CASE006759,SO006759,Demand capture error,2026-07-30,2026-07-31,,Open,Billing,Low
+CASE006760,SO006760,Address validation,2026-02-28,2026-03-01,2026-03-04,Resolved,Transportation,Medium
+CASE006764,SO006764,Warehouse picking issue,2026-06-28,2026-06-29,2026-06-29,Resolved,Customer Solutions,High
+CASE006775,SO006775,Appointment scheduling,2026-10-09,2026-10-11,,Open,Customer Solutions,High
+CASE006783,SO006783,Credit hold,2026-07-22,2026-07-23,,Open,Billing,High
+CASE006788,SO006788,Demand capture error,2026-01-04,2026-01-06,,Escalated,Billing,Medium
+CASE006789,SO006789,Incorrect pricing,2026-09-10,2026-09-12,,Open,Customer Solutions,Medium
+CASE006797,SO006797,Warehouse picking issue,2026-10-04,2026-10-05,2026-10-09,Resolved,Customer Solutions,Medium
+CASE006806,SO006806,Incorrect pricing,2026-02-25,2026-02-27,2026-02-26,Resolved,Warehouse,Medium
+CASE006809,SO006809,Warehouse picking issue,2026-05-29,2026-05-30,2026-05-30,Resolved,Billing,High
+CASE006820,SO006820,Demand capture error,2026-03-10,2026-03-11,,Open,Warehouse,Critical
+CASE006823,SO006823,Address validation,2026-04-27,2026-04-29,2026-04-30,Resolved,Billing,High
+CASE006837,SO006837,Carrier delay,2026-05-12,2026-05-14,,Open,Warehouse,Low
+CASE006848,SO006848,Demand capture error,2026-04-16,2026-04-17,2026-04-18,Resolved,Billing,Low
+CASE006849,SO006849,Incorrect pricing,2026-09-04,2026-09-05,,Open,Billing,Medium
+CASE006853,SO006853,Appointment scheduling,2026-01-31,2026-02-01,2026-01-31,Resolved,Transportation,Medium
+CASE006862,SO006862,Credit hold,2026-09-28,2026-09-29,2026-09-30,Resolved,Transportation,Medium
+CASE006865,SO006865,Incorrect pricing,2026-09-07,2026-09-08,,Open,Transportation,Low
+CASE006877,SO006877,Inventory shortage,2026-09-13,2026-09-14,2026-09-13,Resolved,Customer Solutions,High
+CASE006881,SO006881,Demand capture error,2026-08-19,2026-08-21,2026-08-20,Resolved,Transportation,Medium
+CASE006901,SO006901,Demand capture error,2026-03-17,2026-03-19,2026-03-19,Resolved,Warehouse,Medium
+CASE006917,SO006917,Address validation,2026-07-18,2026-07-19,2026-07-18,Resolved,Customer Solutions,High
+CASE006927,SO006927,Warehouse picking issue,2026-01-13,2026-01-14,2026-01-13,Resolved,Warehouse,Medium
+CASE006939,SO006939,Credit hold,2026-04-18,2026-04-19,,Open,Warehouse,Medium
+CASE006948,SO006948,Inventory shortage,2026-06-19,2026-06-20,2026-06-24,Resolved,Customer Solutions,Medium
+CASE006950,SO006950,Demand capture error,2026-03-18,2026-03-19,,Open,Warehouse,High
+CASE006956,SO006956,Demand capture error,2026-08-10,2026-08-11,2026-08-12,Resolved,Warehouse,High
+CASE006957,SO006957,Credit hold,2026-11-03,2026-11-04,2026-11-08,Resolved,Customer Solutions,Medium
+CASE006967,SO006967,Demand capture error,2026-07-30,2026-08-01,,Open,Customer Solutions,Medium
+CASE006970,SO006970,Incorrect pricing,2026-04-30,2026-05-01,2026-05-03,Resolved,Customer Solutions,Medium
+CASE006971,SO006971,Demand capture error,2026-05-02,2026-05-04,2026-05-06,Resolved,Warehouse,Medium
+CASE006975,SO006975,Demand capture error,2026-08-17,2026-08-18,2026-08-18,Resolved,Customer Solutions,Medium
+CASE006982,SO006982,Demand capture error,2026-09-09,2026-09-10,2026-09-13,Resolved,Billing,Medium
+CASE006995,SO006995,Warehouse picking issue,2026-05-12,2026-05-14,2026-05-12,Resolved,Transportation,Medium
+CASE006998,SO006998,Demand capture error,2026-07-12,2026-07-14,,Escalated,Transportation,Medium
+CASE007005,SO007005,Appointment scheduling,2026-03-13,2026-03-15,2026-03-16,Resolved,Customer Solutions,Medium
+CASE007008,SO007008,Demand capture error,2026-10-24,2026-10-25,,Open,Transportation,Medium
+CASE007024,SO007024,Billing discrepancy,2026-02-02,2026-02-03,2026-02-05,Resolved,Warehouse,Medium
+CASE007026,SO007026,Warehouse picking issue,2026-03-03,2026-03-04,2026-03-03,Resolved,Billing,Medium
+CASE007031,SO007031,Carrier delay,2026-01-12,2026-01-13,,Escalated,Transportation,Low
+CASE007041,SO007041,Credit hold,2026-03-21,2026-03-23,2026-03-23,Resolved,Transportation,Medium
+CASE007045,SO007045,Address validation,2026-07-12,2026-07-13,,Open,Transportation,Medium
+CASE007053,SO007053,Demand capture error,2026-08-28,2026-08-29,2026-09-02,Resolved,Warehouse,Medium
+CASE007055,SO007055,Demand capture error,2026-05-09,2026-05-10,2026-05-13,Resolved,Warehouse,High
+CASE007057,SO007057,Demand capture error,2026-10-03,2026-10-05,2026-10-05,Resolved,Billing,Medium
+CASE007070,SO007070,Incorrect pricing,2026-01-03,2026-01-04,,Open,Warehouse,Medium
+CASE007079,SO007079,Credit hold,2026-10-14,2026-10-15,2026-10-17,Resolved,Warehouse,Medium
+CASE007090,SO007090,Warehouse picking issue,2026-10-19,2026-10-20,,Open,Warehouse,Low
+CASE007102,SO007102,Demand capture error,2026-02-25,2026-02-26,2026-02-28,Resolved,Transportation,Medium
+CASE007121,SO007121,Appointment scheduling,2026-02-07,2026-02-08,,Escalated,Transportation,Medium
+CASE007126,SO007126,Incorrect pricing,2026-06-26,2026-06-27,,Open,Transportation,Low
+CASE007127,SO007127,Address validation,2026-06-17,2026-06-18,,Open,Customer Solutions,Medium
+CASE007129,SO007129,Demand capture error,2026-05-05,2026-05-06,,Open,Customer Solutions,Medium
+CASE007140,SO007140,Demand capture error,2026-04-09,2026-04-10,2026-04-09,Resolved,Billing,Low
+CASE007164,SO007164,Billing discrepancy,2026-07-11,2026-07-12,2026-07-11,Resolved,Billing,Medium
+CASE007170,SO007170,Appointment scheduling,2026-06-22,2026-06-24,,Open,Billing,Medium
+CASE007188,SO007188,Incorrect pricing,2026-02-22,2026-02-23,,Open,Transportation,Medium
+CASE007189,SO007189,Credit hold,2026-05-22,2026-05-24,2026-05-22,Resolved,Transportation,Medium
+CASE007197,SO007197,Inventory shortage,2026-10-13,2026-10-14,,Open,Warehouse,Medium
+CASE007205,SO007205,Demand capture error,2026-06-01,2026-06-02,2026-06-05,Resolved,Billing,Low
+CASE007210,SO007210,Billing discrepancy,2026-07-31,2026-08-01,2026-08-01,Resolved,Customer Solutions,High
+CASE007212,SO007212,Demand capture error,2026-08-19,2026-08-21,2026-08-23,Resolved,Transportation,High
+CASE007215,SO007215,Appointment scheduling,2026-03-31,2026-04-01,2026-04-02,Resolved,Billing,Medium
+CASE007224,SO007224,Credit hold,2026-08-20,2026-08-21,2026-08-21,Resolved,Billing,High
+CASE007228,SO007228,Carrier delay,2026-11-06,2026-11-07,2026-11-11,Resolved,Warehouse,Medium
+CASE007232,SO007232,Carrier delay,2026-08-21,2026-08-22,2026-08-25,Resolved,Warehouse,Low
+CASE007239,SO007239,Appointment scheduling,2026-01-31,2026-02-01,2026-02-02,Resolved,Billing,Medium
+CASE007245,SO007245,Carrier delay,2026-05-20,2026-05-21,,Open,Customer Solutions,Critical
+CASE007248,SO007248,Appointment scheduling,2026-09-05,2026-09-06,,Escalated,Transportation,Medium
+CASE007250,SO007250,Address validation,2026-05-06,2026-05-07,2026-05-06,Resolved,Warehouse,High
+CASE007254,SO007254,Incorrect pricing,2026-09-16,2026-09-18,2026-09-18,Resolved,Customer Solutions,High
+CASE007258,SO007258,Carrier delay,2026-08-05,2026-08-06,,Escalated,Transportation,Low
+CASE007259,SO007259,Demand capture error,2026-10-07,2026-10-08,2026-10-12,Resolved,Transportation,High
+CASE007260,SO007260,Demand capture error,2026-08-30,2026-08-31,2026-09-04,Resolved,Billing,Medium
+CASE007262,SO007262,Address validation,2026-10-22,2026-10-23,,Open,Warehouse,Medium
+CASE007266,SO007266,Demand capture error,2026-04-18,2026-04-20,2026-04-21,Resolved,Customer Solutions,Medium
+CASE007267,SO007267,Demand capture error,2026-08-30,2026-08-31,2026-09-01,Resolved,Transportation,Low
+CASE007290,SO007290,Incorrect pricing,2026-09-02,2026-09-03,2026-09-04,Resolved,Warehouse,High
+CASE007296,SO007296,Appointment scheduling,2026-08-01,2026-08-02,2026-08-05,Resolved,Warehouse,Low
+CASE007311,SO007311,Address validation,2026-02-11,2026-02-12,,Open,Customer Solutions,Medium
+CASE007318,SO007318,Warehouse picking issue,2026-08-18,2026-08-19,,Open,Customer Solutions,Medium
+CASE007321,SO007321,Billing discrepancy,2026-09-05,2026-09-06,2026-09-07,Resolved,Customer Solutions,Medium
+CASE007322,SO007322,Credit hold,2026-09-24,2026-09-26,,Escalated,Billing,Low
+CASE007336,SO007336,Inventory shortage,2026-05-05,2026-05-06,2026-05-09,Resolved,Customer Solutions,Medium
+CASE007337,SO007337,Billing discrepancy,2026-08-20,2026-08-21,2026-08-21,Resolved,Customer Solutions,High
+CASE007341,SO007341,Incorrect pricing,2026-06-28,2026-06-29,,Open,Warehouse,High
+CASE007342,SO007342,Credit hold,2026-06-27,2026-06-28,,Escalated,Warehouse,High
+CASE007344,SO007344,Carrier delay,2026-10-04,2026-10-05,,Escalated,Billing,High
+CASE007349,SO007349,Warehouse picking issue,2026-02-11,2026-02-12,2026-02-12,Resolved,Transportation,Medium
+CASE007356,SO007356,Inventory shortage,2026-08-17,2026-08-18,2026-08-21,Resolved,Billing,High
+CASE007357,SO007357,Credit hold,2026-10-16,2026-10-17,2026-10-18,Resolved,Customer Solutions,Medium
+CASE007359,SO007359,Warehouse picking issue,2026-07-25,2026-07-26,2026-07-28,Resolved,Transportation,Medium
+CASE007367,SO007367,Appointment scheduling,2026-04-10,2026-04-11,2026-04-13,Resolved,Warehouse,Medium
+CASE007376,SO007376,Incorrect pricing,2026-04-23,2026-04-24,2026-04-24,Resolved,Customer Solutions,Low
+CASE007391,SO007391,Carrier delay,2026-01-06,2026-01-08,2026-01-08,Resolved,Warehouse,Medium
+CASE007395,SO007395,Demand capture error,2026-01-27,2026-01-28,,Escalated,Transportation,Medium
+CASE007396,SO007396,Credit hold,2026-07-12,2026-07-13,,Open,Billing,High
+CASE007408,SO007408,Carrier delay,2026-04-03,2026-04-04,2026-04-04,Resolved,Transportation,Medium
+CASE007412,SO007412,Demand capture error,2026-07-09,2026-07-10,2026-07-10,Resolved,Customer Solutions,High
+CASE007413,SO007413,Carrier delay,2026-08-05,2026-08-06,,Open,Billing,Medium
+CASE007421,SO007421,Warehouse picking issue,2026-08-13,2026-08-14,,Open,Warehouse,Medium
+CASE007428,SO007428,Appointment scheduling,2026-02-25,2026-02-27,2026-03-01,Resolved,Customer Solutions,High
+CASE007430,SO007430,Incorrect pricing,2026-08-19,2026-08-20,,Open,Transportation,Low
+CASE007439,SO007439,Billing discrepancy,2026-06-02,2026-06-04,,Open,Transportation,Low
+CASE007440,SO007440,Carrier delay,2026-10-22,2026-10-24,,Open,Transportation,Low
+CASE007443,SO007443,Billing discrepancy,2026-04-16,2026-04-17,2026-04-18,Resolved,Transportation,Critical
+CASE007449,SO007449,Incorrect pricing,2026-06-13,2026-06-14,,Open,Customer Solutions,Medium
+CASE007451,SO007451,Billing discrepancy,2026-08-27,2026-08-28,2026-08-30,Resolved,Transportation,Medium
+CASE007456,SO007456,Demand capture error,2026-09-10,2026-09-11,,Open,Billing,Medium
+CASE007473,SO007473,Incorrect pricing,2026-09-03,2026-09-05,2026-09-05,Resolved,Customer Solutions,High
+CASE007478,SO007478,Address validation,2026-05-04,2026-05-05,2026-05-04,Resolved,Billing,Medium
+CASE007488,SO007488,Credit hold,2026-08-18,2026-08-20,2026-08-22,Resolved,Transportation,Medium
+CASE007491,SO007491,Incorrect pricing,2026-09-18,2026-09-19,,Open,Warehouse,Medium
+CASE007502,SO007502,Inventory shortage,2026-05-21,2026-05-23,2026-05-22,Resolved,Billing,High
+CASE007504,SO007504,Demand capture error,2026-05-07,2026-05-08,,Open,Warehouse,Medium
+CASE007520,SO007520,Warehouse picking issue,2026-05-03,2026-05-04,2026-05-04,Resolved,Billing,Medium
+CASE007521,SO007521,Demand capture error,2026-09-04,2026-09-05,2026-09-04,Resolved,Transportation,Medium
+CASE007525,SO007525,Warehouse picking issue,2026-10-10,2026-10-11,2026-10-14,Resolved,Warehouse,High
+CASE007535,SO007535,Inventory shortage,2026-08-23,2026-08-24,,Open,Billing,Medium
+CASE007546,SO007546,Demand capture error,2026-04-17,2026-04-18,,Open,Warehouse,Medium
+CASE007558,SO007558,Appointment scheduling,2026-09-11,2026-09-12,,Open,Transportation,Medium
+CASE007580,SO007580,Appointment scheduling,2026-01-04,2026-01-05,2026-01-07,Resolved,Transportation,Medium
+CASE007583,SO007583,Inventory shortage,2026-01-23,2026-01-24,,Escalated,Billing,Medium
+CASE007592,SO007592,Carrier delay,2026-01-21,2026-01-22,,Open,Billing,High
+CASE007593,SO007593,Demand capture error,2026-02-28,2026-03-01,,Escalated,Customer Solutions,Medium
+CASE007594,SO007594,Incorrect pricing,2026-03-08,2026-03-09,,Open,Customer Solutions,Medium
+CASE007600,SO007600,Demand capture error,2026-10-28,2026-10-29,2026-10-31,Resolved,Transportation,Low
+CASE007602,SO007602,Demand capture error,2026-07-08,2026-07-09,,Open,Warehouse,High
+CASE007607,SO007607,Billing discrepancy,2026-02-12,2026-02-13,2026-02-13,Resolved,Billing,Medium
+CASE007630,SO007630,Carrier delay,2026-03-04,2026-03-05,2026-03-04,Resolved,Warehouse,High
+CASE007639,SO007639,Demand capture error,2026-05-18,2026-05-19,,Open,Warehouse,Medium
+CASE007641,SO007641,Credit hold,2026-09-03,2026-09-04,,Escalated,Warehouse,High
+CASE007657,SO007657,Credit hold,2026-07-12,2026-07-13,2026-07-15,Resolved,Transportation,Medium
+CASE007658,SO007658,Inventory shortage,2026-03-17,2026-03-18,,Open,Customer Solutions,Low
+CASE007671,SO007671,Incorrect pricing,2026-11-05,2026-11-06,,Escalated,Billing,High
+CASE007681,SO007681,Credit hold,2026-03-27,2026-03-28,2026-03-29,Resolved,Billing,Medium
+CASE007682,SO007682,Incorrect pricing,2026-05-03,2026-05-05,2026-05-07,Resolved,Warehouse,High
+CASE007687,SO007687,Incorrect pricing,2026-08-17,2026-08-18,,Open,Billing,Low
+CASE007699,SO007699,Credit hold,2026-01-14,2026-01-15,,Open,Warehouse,Critical
+CASE007702,SO007702,Address validation,2026-09-14,2026-09-15,2026-09-16,Resolved,Billing,High
+CASE007738,SO007738,Appointment scheduling,2026-03-24,2026-03-25,,Open,Customer Solutions,Medium
+CASE007741,SO007741,Appointment scheduling,2026-02-15,2026-02-17,2026-02-20,Resolved,Billing,Medium
+CASE007748,SO007748,Demand capture error,2026-04-11,2026-04-12,,Open,Customer Solutions,Medium
+CASE007751,SO007751,Incorrect pricing,2026-09-25,2026-09-26,,Open,Billing,High
+CASE007767,SO007767,Inventory shortage,2026-08-20,2026-08-21,,Open,Transportation,Low
+CASE007772,SO007772,Billing discrepancy,2026-03-21,2026-03-22,2026-03-26,Resolved,Billing,Medium
+CASE007791,SO007791,Address validation,2026-03-08,2026-03-09,2026-03-11,Resolved,Transportation,Low
+CASE007793,SO007793,Incorrect pricing,2026-01-21,2026-01-22,2026-01-22,Resolved,Transportation,Medium
+CASE007802,SO007802,Carrier delay,2026-10-05,2026-10-06,,Open,Warehouse,Medium
+CASE007804,SO007804,Credit hold,2026-08-30,2026-09-01,2026-08-30,Resolved,Warehouse,Medium
+CASE007819,SO007819,Demand capture error,2026-02-24,2026-02-25,,Open,Customer Solutions,High
+CASE007848,SO007848,Billing discrepancy,2026-09-20,2026-09-21,,Escalated,Billing,Medium
+CASE007860,SO007860,Incorrect pricing,2026-10-30,2026-11-01,2026-10-30,Resolved,Billing,Low
+CASE007861,SO007861,Credit hold,2026-04-13,2026-04-14,,Escalated,Warehouse,High
+CASE007863,SO007863,Warehouse picking issue,2026-05-20,2026-05-21,2026-05-24,Resolved,Billing,Medium
+CASE007865,SO007865,Inventory shortage,2026-05-30,2026-05-31,2026-06-01,Resolved,Customer Solutions,Medium
+CASE007873,SO007873,Demand capture error,2026-07-01,2026-07-02,2026-07-01,Resolved,Transportation,High
+CASE007883,SO007883,Demand capture error,2026-05-28,2026-05-29,,Open,Warehouse,High
+CASE007886,SO007886,Carrier delay,2026-05-11,2026-05-12,2026-05-13,Resolved,Customer Solutions,Medium
+CASE007911,SO007911,Credit hold,2026-01-26,2026-01-27,2026-01-30,Resolved,Customer Solutions,Low
+CASE007916,SO007916,Demand capture error,2026-04-02,2026-04-04,,Open,Billing,Low
+CASE007918,SO007918,Carrier delay,2026-06-18,2026-06-19,,Open,Warehouse,Critical
+CASE007933,SO007933,Demand capture error,2026-07-21,2026-07-22,,Open,Billing,High
+CASE007938,SO007938,Demand capture error,2026-08-19,2026-08-20,2026-08-20,Resolved,Billing,Medium
+CASE007961,SO007961,Demand capture error,2026-04-25,2026-04-26,,Open,Warehouse,High
+CASE007973,SO007973,Inventory shortage,2026-07-20,2026-07-21,2026-07-21,Resolved,Customer Solutions,Critical
+CASE007985,SO007985,Appointment scheduling,2026-11-13,2026-11-14,,Open,Transportation,Low
+CASE007991,SO007991,Incorrect pricing,2026-02-24,2026-02-25,,Open,Customer Solutions,Low
+CASE008006,SO008006,Carrier delay,2026-06-19,2026-06-21,2026-06-20,Resolved,Billing,Low
+CASE008011,SO008011,Address validation,2026-10-03,2026-10-04,2026-10-05,Resolved,Warehouse,Medium
+CASE008021,SO008021,Address validation,2026-08-31,2026-09-01,,Escalated,Customer Solutions,Low
+CASE008033,SO008033,Carrier delay,2026-07-12,2026-07-13,2026-07-13,Resolved,Transportation,Medium
+CASE008034,SO008034,Credit hold,2026-11-04,2026-11-06,2026-11-04,Resolved,Customer Solutions,Low
+CASE008037,SO008037,Warehouse picking issue,2026-02-23,2026-02-25,2026-02-25,Resolved,Customer Solutions,High
+CASE008038,SO008038,Credit hold,2026-09-13,2026-09-14,2026-09-15,Resolved,Customer Solutions,Low
+CASE008042,SO008042,Billing discrepancy,2026-01-31,2026-02-02,,Escalated,Billing,Medium
+CASE008045,SO008045,Incorrect pricing,2026-01-25,2026-01-26,2026-01-29,Resolved,Warehouse,High
+CASE008053,SO008053,Inventory shortage,2026-03-21,2026-03-22,,Escalated,Warehouse,Medium
+CASE008063,SO008063,Inventory shortage,2026-03-26,2026-03-27,2026-03-27,Resolved,Billing,High
+CASE008069,SO008069,Billing discrepancy,2026-01-26,2026-01-28,2026-01-29,Resolved,Customer Solutions,Medium
+CASE008070,SO008070,Demand capture error,2026-05-23,2026-05-24,2026-05-26,Resolved,Warehouse,Critical
+CASE008077,SO008077,Warehouse picking issue,2026-02-08,2026-02-10,,Open,Customer Solutions,Medium
+CASE008080,SO008080,Incorrect pricing,2026-08-02,2026-08-04,,Open,Transportation,Medium
+CASE008085,SO008085,Inventory shortage,2026-03-02,2026-03-03,,Open,Warehouse,Medium
+CASE008091,SO008091,Inventory shortage,2026-04-07,2026-04-08,,Open,Warehouse,Critical
+CASE008095,SO008095,Demand capture error,2026-03-22,2026-03-23,,Escalated,Warehouse,High
+CASE008103,SO008103,Billing discrepancy,2026-09-16,2026-09-17,2026-09-18,Resolved,Billing,Medium
+CASE008107,SO008107,Incorrect pricing,2026-08-03,2026-08-05,2026-08-08,Resolved,Customer Solutions,High
+CASE008108,SO008108,Address validation,2026-04-24,2026-04-25,2026-04-29,Resolved,Transportation,Medium
+CASE008117,SO008117,Address validation,2026-10-06,2026-10-08,,Open,Billing,Medium
+CASE008120,SO008120,Credit hold,2026-08-31,2026-09-01,,Open,Billing,Medium
+CASE008129,SO008129,Billing discrepancy,2026-06-22,2026-06-23,,Open,Warehouse,Medium
+CASE008142,SO008142,Warehouse picking issue,2026-04-10,2026-04-11,,Escalated,Warehouse,High
+CASE008149,SO008149,Demand capture error,2026-03-06,2026-03-07,,Open,Billing,Low
+CASE008150,SO008150,Carrier delay,2026-10-27,2026-10-28,,Open,Warehouse,Low
+CASE008170,SO008170,Appointment scheduling,2026-11-07,2026-11-08,,Open,Billing,High
+CASE008175,SO008175,Carrier delay,2026-07-15,2026-07-16,,Open,Customer Solutions,Medium
+CASE008220,SO008220,Warehouse picking issue,2026-04-13,2026-04-15,,Open,Billing,Medium
+CASE008221,SO008221,Inventory shortage,2026-09-04,2026-09-05,,Escalated,Transportation,Medium
+CASE008223,SO008223,Demand capture error,2026-01-18,2026-01-19,2026-01-22,Resolved,Warehouse,High
+CASE008228,SO008228,Inventory shortage,2026-02-26,2026-02-27,,Escalated,Customer Solutions,Medium
+CASE008231,SO008231,Address validation,2026-03-03,2026-03-04,,Open,Transportation,Medium
+CASE008239,SO008239,Demand capture error,2026-06-30,2026-07-02,,Open,Customer Solutions,High
+CASE008248,SO008248,Incorrect pricing,2026-09-09,2026-09-10,,Open,Transportation,Medium
+CASE008252,SO008252,Demand capture error,2026-01-15,2026-01-16,2026-01-15,Resolved,Billing,Medium
+CASE008260,SO008260,Incorrect pricing,2026-06-02,2026-06-03,2026-06-02,Resolved,Billing,Medium
+CASE008283,SO008283,Inventory shortage,2026-02-22,2026-02-23,,Open,Warehouse,High
+CASE008285,SO008285,Inventory shortage,2026-04-28,2026-04-29,,Open,Warehouse,Medium
+CASE008287,SO008287,Demand capture error,2026-05-18,2026-05-19,,Open,Customer Solutions,Medium
+CASE008296,SO008296,Carrier delay,2026-04-10,2026-04-11,,Escalated,Transportation,High
+CASE008316,SO008316,Address validation,2026-01-30,2026-01-31,2026-02-02,Resolved,Customer Solutions,High
+CASE008326,SO008326,Incorrect pricing,2026-08-25,2026-08-26,2026-08-25,Resolved,Warehouse,Medium
+CASE008338,SO008338,Demand capture error,2026-03-08,2026-03-09,,Open,Transportation,Medium
+CASE008351,SO008351,Incorrect pricing,2026-01-14,2026-01-15,2026-01-14,Resolved,Billing,Medium
+CASE008357,SO008357,Demand capture error,2026-03-13,2026-03-15,,Open,Warehouse,Medium
+CASE008365,SO008365,Appointment scheduling,2026-05-07,2026-05-09,,Open,Billing,Low
+CASE008379,SO008379,Carrier delay,2026-06-13,2026-06-14,2026-06-13,Resolved,Customer Solutions,Low
+CASE008388,SO008388,Credit hold,2026-02-09,2026-02-10,,Open,Customer Solutions,High
+CASE008390,SO008390,Billing discrepancy,2026-10-23,2026-10-24,,Open,Billing,High
+CASE008391,SO008391,Appointment scheduling,2026-03-25,2026-03-26,2026-03-27,Resolved,Billing,Low
+CASE008404,SO008404,Address validation,2026-04-28,2026-04-29,,Escalated,Billing,Low
+CASE008432,SO008432,Address validation,2026-06-14,2026-06-15,2026-06-18,Resolved,Warehouse,High
+CASE008435,SO008435,Address validation,2026-04-18,2026-04-20,2026-04-18,Resolved,Billing,Medium
+CASE008436,SO008436,Inventory shortage,2026-03-17,2026-03-18,,Open,Billing,Medium
+CASE008446,SO008446,Billing discrepancy,2026-10-17,2026-10-18,,Open,Transportation,Medium
+CASE008452,SO008452,Address validation,2026-02-11,2026-02-12,2026-02-16,Resolved,Warehouse,Medium
+CASE008454,SO008454,Demand capture error,2026-02-17,2026-02-18,,Open,Billing,High
+CASE008458,SO008458,Demand capture error,2026-08-07,2026-08-09,2026-08-07,Resolved,Customer Solutions,Medium
+CASE008469,SO008469,Inventory shortage,2026-11-07,2026-11-08,2026-11-08,Resolved,Billing,High
+CASE008480,SO008480,Address validation,2026-04-17,2026-04-18,,Open,Billing,High
+CASE008481,SO008481,Warehouse picking issue,2026-04-26,2026-04-27,,Open,Warehouse,High
+CASE008489,SO008489,Address validation,2026-11-12,2026-11-14,2026-11-15,Resolved,Billing,Medium
+CASE008494,SO008494,Appointment scheduling,2026-02-24,2026-02-25,,Open,Customer Solutions,Low
+CASE008496,SO008496,Warehouse picking issue,2026-01-10,2026-01-12,2026-01-12,Resolved,Customer Solutions,Critical
+CASE008505,SO008505,Demand capture error,2026-04-13,2026-04-14,,Open,Billing,Low
+CASE008521,SO008521,Address validation,2026-08-29,2026-08-30,2026-08-29,Resolved,Transportation,Medium
+CASE008523,SO008523,Billing discrepancy,2026-10-19,2026-10-20,2026-10-19,Resolved,Warehouse,Low
+CASE008525,SO008525,Demand capture error,2026-07-28,2026-07-30,2026-07-30,Resolved,Billing,Medium
+CASE008531,SO008531,Demand capture error,2026-02-26,2026-02-27,,Open,Transportation,Low
+CASE008543,SO008543,Inventory shortage,2026-01-22,2026-01-23,2026-01-23,Resolved,Billing,Medium
+CASE008547,SO008547,Inventory shortage,2026-09-03,2026-09-05,2026-09-08,Resolved,Customer Solutions,Low
+CASE008548,SO008548,Demand capture error,2026-05-29,2026-05-31,,Open,Warehouse,Medium
+CASE008585,SO008585,Credit hold,2026-07-16,2026-07-18,2026-07-20,Resolved,Billing,High
+CASE008599,SO008599,Carrier delay,2026-08-17,2026-08-18,2026-08-17,Resolved,Billing,Medium
+CASE008605,SO008605,Incorrect pricing,2026-06-03,2026-06-04,2026-06-04,Resolved,Customer Solutions,High
+CASE008607,SO008607,Inventory shortage,2026-02-08,2026-02-10,2026-02-10,Resolved,Customer Solutions,High
+CASE008625,SO008625,Appointment scheduling,2026-09-05,2026-09-06,2026-09-07,Resolved,Billing,Medium
+CASE008629,SO008629,Demand capture error,2026-09-05,2026-09-06,2026-09-06,Resolved,Billing,High
+CASE008630,SO008630,Address validation,2026-04-29,2026-05-01,2026-04-30,Resolved,Customer Solutions,Medium
+CASE008633,SO008633,Billing discrepancy,2026-08-03,2026-08-05,,Open,Warehouse,Medium
+CASE008634,SO008634,Inventory shortage,2026-05-29,2026-05-31,2026-05-29,Resolved,Billing,High
+CASE008659,SO008659,Address validation,2026-05-23,2026-05-25,,Escalated,Warehouse,High
+CASE008669,SO008669,Appointment scheduling,2026-07-07,2026-07-08,2026-07-07,Resolved,Billing,Medium
+CASE008678,SO008678,Address validation,2026-02-10,2026-02-11,,Open,Warehouse,Low
+CASE008684,SO008684,Demand capture error,2026-06-11,2026-06-12,2026-06-13,Resolved,Transportation,Medium
+CASE008687,SO008687,Credit hold,2026-03-31,2026-04-01,,Open,Warehouse,Medium
+CASE008711,SO008711,Warehouse picking issue,2026-05-06,2026-05-07,2026-05-11,Resolved,Customer Solutions,Medium
+CASE008723,SO008723,Incorrect pricing,2026-09-24,2026-09-25,,Escalated,Billing,Medium
+CASE008729,SO008729,Billing discrepancy,2026-07-18,2026-07-19,,Escalated,Billing,High
+CASE008732,SO008732,Credit hold,2026-09-08,2026-09-09,2026-09-10,Resolved,Billing,Medium
+CASE008750,SO008750,Demand capture error,2026-07-23,2026-07-25,2026-07-26,Resolved,Billing,Critical
+CASE008754,SO008754,Appointment scheduling,2026-03-09,2026-03-10,,Escalated,Warehouse,High
+CASE008760,SO008760,Incorrect pricing,2026-10-28,2026-10-29,,Open,Transportation,Low
+CASE008773,SO008773,Demand capture error,2026-06-19,2026-06-21,,Open,Customer Solutions,Medium
+CASE008774,SO008774,Inventory shortage,2026-02-13,2026-02-14,,Open,Warehouse,High
+CASE008775,SO008775,Appointment scheduling,2026-09-22,2026-09-23,,Open,Transportation,Medium
+CASE008778,SO008778,Inventory shortage,2026-07-02,2026-07-03,2026-07-02,Resolved,Customer Solutions,High
+CASE008780,SO008780,Address validation,2026-11-07,2026-11-09,,Open,Warehouse,Medium
+CASE008788,SO008788,Inventory shortage,2026-05-20,2026-05-21,,Open,Customer Solutions,High
+CASE008795,SO008795,Warehouse picking issue,2026-04-24,2026-04-25,,Open,Billing,Medium
+CASE008803,SO008803,Inventory shortage,2026-08-02,2026-08-04,,Open,Transportation,Medium
+CASE008809,SO008809,Demand capture error,2026-04-02,2026-04-03,2026-04-04,Resolved,Customer Solutions,Medium
+CASE008813,SO008813,Demand capture error,2026-10-06,2026-10-07,2026-10-11,Resolved,Transportation,Medium
+CASE008814,SO008814,Appointment scheduling,2026-05-13,2026-05-15,2026-05-18,Resolved,Billing,High
+CASE008822,SO008822,Incorrect pricing,2026-03-26,2026-03-27,2026-03-29,Resolved,Transportation,High
+CASE008824,SO008824,Warehouse picking issue,2026-05-28,2026-05-29,2026-06-02,Resolved,Customer Solutions,Low
+CASE008833,SO008833,Credit hold,2026-08-22,2026-08-23,2026-08-23,Resolved,Customer Solutions,High
+CASE008836,SO008836,Demand capture error,2026-06-30,2026-07-01,,Escalated,Customer Solutions,Low
+CASE008838,SO008838,Warehouse picking issue,2026-11-12,2026-11-13,2026-11-13,Resolved,Billing,High
+CASE008839,SO008839,Warehouse picking issue,2026-05-19,2026-05-20,,Escalated,Billing,Medium
+CASE008853,SO008853,Billing discrepancy,2026-07-26,2026-07-27,2026-07-31,Resolved,Warehouse,Medium
+CASE008857,SO008857,Credit hold,2026-02-08,2026-02-09,2026-02-12,Resolved,Transportation,Medium
+CASE008858,SO008858,Incorrect pricing,2026-01-23,2026-01-25,2026-01-26,Resolved,Warehouse,Medium
+CASE008859,SO008859,Credit hold,2026-08-03,2026-08-05,2026-08-07,Resolved,Transportation,Medium
+CASE008866,SO008866,Demand capture error,2026-08-05,2026-08-06,,Open,Customer Solutions,Medium
+CASE008869,SO008869,Address validation,2026-10-26,2026-10-27,,Open,Transportation,Medium
+CASE008876,SO008876,Warehouse picking issue,2026-07-04,2026-07-05,2026-07-07,Resolved,Billing,Medium
+CASE008882,SO008882,Carrier delay,2026-04-14,2026-04-15,2026-04-14,Resolved,Transportation,Low
+CASE008900,SO008900,Credit hold,2026-02-22,2026-02-23,2026-02-24,Resolved,Billing,Medium
+CASE008902,SO008902,Demand capture error,2026-08-26,2026-08-27,,Open,Transportation,Medium
+CASE008906,SO008906,Warehouse picking issue,2026-10-18,2026-10-19,,Open,Warehouse,High
+CASE008922,SO008922,Incorrect pricing,2026-03-11,2026-03-12,2026-03-11,Resolved,Billing,Medium
+CASE008940,SO008940,Billing discrepancy,2026-09-09,2026-09-10,2026-09-12,Resolved,Billing,Medium
+CASE008943,SO008943,Demand capture error,2026-06-22,2026-06-24,2026-06-22,Resolved,Customer Solutions,Medium
+CASE008949,SO008949,Appointment scheduling,2026-06-27,2026-06-29,2026-07-01,Resolved,Warehouse,Medium
+CASE008962,SO008962,Billing discrepancy,2026-01-08,2026-01-10,,Escalated,Billing,Medium
+CASE008990,SO008990,Demand capture error,2026-09-30,2026-10-01,2026-10-01,Resolved,Billing,Medium
+CASE009008,SO009008,Demand capture error,2026-05-13,2026-05-14,2026-05-16,Resolved,Transportation,Medium
+CASE009016,SO009016,Appointment scheduling,2026-05-16,2026-05-17,2026-05-21,Resolved,Billing,Medium
+CASE009017,SO009017,Appointment scheduling,2026-09-20,2026-09-21,,Open,Warehouse,Medium
+CASE009025,SO009025,Warehouse picking issue,2026-06-20,2026-06-21,2026-06-21,Resolved,Customer Solutions,Medium
+CASE009026,SO009026,Incorrect pricing,2026-05-02,2026-05-03,,Open,Transportation,High
+CASE009035,SO009035,Appointment scheduling,2026-04-02,2026-04-03,,Open,Warehouse,Medium
+CASE009038,SO009038,Demand capture error,2026-03-29,2026-03-30,,Open,Warehouse,High
+CASE009042,SO009042,Demand capture error,2026-07-01,2026-07-02,,Open,Warehouse,Medium
+CASE009043,SO009043,Incorrect pricing,2026-10-23,2026-10-24,,Open,Warehouse,Medium
+CASE009049,SO009049,Demand capture error,2026-06-15,2026-06-16,,Open,Warehouse,Low
+CASE009051,SO009051,Warehouse picking issue,2026-05-11,2026-05-12,2026-05-16,Resolved,Warehouse,Critical
+CASE009059,SO009059,Appointment scheduling,2026-05-04,2026-05-06,2026-05-09,Resolved,Transportation,Medium
+CASE009074,SO009074,Demand capture error,2026-10-27,2026-10-28,,Escalated,Billing,Critical
+CASE009075,SO009075,Credit hold,2026-11-09,2026-11-10,2026-11-13,Resolved,Warehouse,Medium
+CASE009087,SO009087,Carrier delay,2026-05-12,2026-05-14,,Open,Billing,Medium
+CASE009092,SO009092,Warehouse picking issue,2026-06-26,2026-06-27,2026-06-27,Resolved,Transportation,Low
+CASE009094,SO009094,Inventory shortage,2026-04-25,2026-04-26,,Open,Transportation,High
+CASE009096,SO009096,Demand capture error,2026-06-14,2026-06-15,2026-06-18,Resolved,Billing,Medium
+CASE009114,SO009114,Appointment scheduling,2026-04-17,2026-04-18,2026-04-18,Resolved,Transportation,High
+CASE009115,SO009115,Appointment scheduling,2026-03-12,2026-03-13,2026-03-15,Resolved,Customer Solutions,Medium
+CASE009149,SO009149,Demand capture error,2026-10-06,2026-10-07,2026-10-08,Resolved,Warehouse,High
+CASE009151,SO009151,Demand capture error,2026-03-31,2026-04-01,,Open,Warehouse,Low
+CASE009159,SO009159,Warehouse picking issue,2026-05-03,2026-05-04,2026-05-04,Resolved,Transportation,Medium
+CASE009164,SO009164,Incorrect pricing,2026-05-19,2026-05-21,2026-05-23,Resolved,Billing,Medium
+CASE009167,SO009167,Appointment scheduling,2026-04-06,2026-04-07,,Open,Billing,Medium
+CASE009177,SO009177,Credit hold,2026-07-23,2026-07-25,,Escalated,Billing,High
+CASE009180,SO009180,Appointment scheduling,2026-05-07,2026-05-08,2026-05-08,Resolved,Customer Solutions,Medium
+CASE009187,SO009187,Demand capture error,2026-10-05,2026-10-06,,Open,Transportation,High
+CASE009198,SO009198,Billing discrepancy,2026-10-20,2026-10-21,,Open,Billing,Medium
+CASE009199,SO009199,Demand capture error,2026-05-08,2026-05-09,,Open,Customer Solutions,Medium
+CASE009200,SO009200,Carrier delay,2026-07-05,2026-07-06,2026-07-10,Resolved,Transportation,Medium
+CASE009203,SO009203,Credit hold,2026-01-23,2026-01-24,2026-01-28,Resolved,Transportation,Low
+CASE009206,SO009206,Demand capture error,2026-08-17,2026-08-18,2026-08-20,Resolved,Transportation,Medium
+CASE009209,SO009209,Incorrect pricing,2026-08-09,2026-08-10,2026-08-11,Resolved,Customer Solutions,Medium
+CASE009213,SO009213,Address validation,2026-03-10,2026-03-11,2026-03-12,Resolved,Transportation,Medium
+CASE009224,SO009224,Credit hold,2026-09-18,2026-09-19,2026-09-21,Resolved,Warehouse,Medium
+CASE009238,SO009238,Carrier delay,2026-10-09,2026-10-10,,Open,Customer Solutions,High
+CASE009248,SO009248,Incorrect pricing,2026-03-22,2026-03-23,2026-03-24,Resolved,Billing,Medium
+CASE009264,SO009264,Billing discrepancy,2026-07-28,2026-07-29,2026-07-29,Resolved,Transportation,High
+CASE009267,SO009267,Carrier delay,2026-09-29,2026-09-30,2026-10-03,Resolved,Billing,Critical
+CASE009272,SO009272,Address validation,2026-04-27,2026-04-29,,Open,Customer Solutions,Medium
+CASE009282,SO009282,Incorrect pricing,2026-11-08,2026-11-09,2026-11-08,Resolved,Transportation,Medium
+CASE009287,SO009287,Billing discrepancy,2026-06-18,2026-06-19,,Open,Customer Solutions,Medium
+CASE009303,SO009303,Credit hold,2026-10-02,2026-10-03,,Open,Warehouse,High
+CASE009305,SO009305,Incorrect pricing,2026-04-05,2026-04-06,2026-04-10,Resolved,Customer Solutions,Low
+CASE009308,SO009308,Carrier delay,2026-10-21,2026-10-22,2026-10-22,Resolved,Customer Solutions,High
+CASE009310,SO009310,Billing discrepancy,2026-04-29,2026-05-01,2026-05-03,Resolved,Transportation,Medium
+CASE009311,SO009311,Carrier delay,2026-08-08,2026-08-09,,Open,Customer Solutions,Low
+CASE009312,SO009312,Address validation,2026-05-11,2026-05-13,2026-05-13,Resolved,Transportation,Medium
+CASE009319,SO009319,Warehouse picking issue,2026-02-28,2026-03-02,2026-03-04,Resolved,Customer Solutions,Medium
+CASE009321,SO009321,Incorrect pricing,2026-08-21,2026-08-22,2026-08-22,Resolved,Billing,High
+CASE009325,SO009325,Billing discrepancy,2026-04-16,2026-04-17,,Open,Customer Solutions,High
+CASE009336,SO009336,Billing discrepancy,2026-09-30,2026-10-01,,Escalated,Billing,Medium
+CASE009345,SO009345,Warehouse picking issue,2026-10-15,2026-10-16,2026-10-20,Resolved,Transportation,High
+CASE009352,SO009352,Credit hold,2026-05-14,2026-05-16,,Open,Transportation,Medium
+CASE009354,SO009354,Demand capture error,2026-04-18,2026-04-20,2026-04-21,Resolved,Billing,High
+CASE009364,SO009364,Inventory shortage,2026-06-11,2026-06-12,,Open,Transportation,Medium
+CASE009371,SO009371,Credit hold,2026-01-27,2026-01-28,2026-01-28,Resolved,Transportation,High
+CASE009372,SO009372,Appointment scheduling,2026-07-25,2026-07-27,2026-07-26,Resolved,Transportation,Medium
+CASE009383,SO009383,Demand capture error,2026-05-12,2026-05-14,2026-05-17,Resolved,Customer Solutions,Medium
+CASE009384,SO009384,Address validation,2026-09-27,2026-09-28,2026-09-28,Resolved,Billing,Medium
+CASE009385,SO009385,Billing discrepancy,2026-03-17,2026-03-18,,Escalated,Transportation,Low
+CASE009388,SO009388,Inventory shortage,2026-03-17,2026-03-18,,Open,Billing,Medium
+CASE009389,SO009389,Inventory shortage,2026-07-20,2026-07-21,2026-07-21,Resolved,Billing,Medium
+CASE009391,SO009391,Credit hold,2026-01-19,2026-01-20,2026-01-24,Resolved,Warehouse,Medium
+CASE009392,SO009392,Credit hold,2026-10-08,2026-10-09,2026-10-13,Resolved,Transportation,Low
+CASE009393,SO009393,Incorrect pricing,2026-07-16,2026-07-18,,Open,Billing,Medium
+CASE009394,SO009394,Warehouse picking issue,2026-01-17,2026-01-18,,Open,Customer Solutions,Medium
+CASE009404,SO009404,Demand capture error,2026-06-22,2026-06-23,,Escalated,Billing,Low
+CASE009405,SO009405,Incorrect pricing,2026-09-16,2026-09-17,,Open,Transportation,High
+CASE009412,SO009412,Billing discrepancy,2026-07-20,2026-07-21,2026-07-25,Resolved,Warehouse,Low
+CASE009418,SO009418,Appointment scheduling,2026-04-06,2026-04-08,2026-04-08,Resolved,Warehouse,High
+CASE009421,SO009421,Inventory shortage,2026-08-09,2026-08-10,2026-08-14,Resolved,Customer Solutions,High
+CASE009446,SO009446,Appointment scheduling,2026-05-22,2026-05-23,,Open,Customer Solutions,Medium
+CASE009460,SO009460,Incorrect pricing,2026-08-29,2026-08-30,2026-08-29,Resolved,Warehouse,Medium
+CASE009461,SO009461,Demand capture error,2026-05-19,2026-05-21,,Open,Transportation,High
+CASE009465,SO009465,Demand capture error,2026-06-21,2026-06-22,,Open,Customer Solutions,Medium
+CASE009475,SO009475,Demand capture error,2026-08-30,2026-08-31,2026-08-30,Resolved,Transportation,High
+CASE009485,SO009485,Address validation,2026-01-25,2026-01-26,2026-01-25,Resolved,Billing,Medium
+CASE009487,SO009487,Incorrect pricing,2026-08-17,2026-08-18,,Escalated,Transportation,Medium
+CASE009489,SO009489,Demand capture error,2026-05-19,2026-05-21,2026-05-24,Resolved,Transportation,High
+CASE009490,SO009490,Appointment scheduling,2026-10-05,2026-10-06,2026-10-08,Resolved,Customer Solutions,High
+CASE009495,SO009495,Billing discrepancy,2026-07-19,2026-07-21,2026-07-22,Resolved,Transportation,High
+CASE009501,SO009501,Demand capture error,2026-01-22,2026-01-24,,Open,Billing,Low
+CASE009519,SO009519,Demand capture error,2026-01-28,2026-01-29,,Open,Customer Solutions,Medium
+CASE009522,SO009522,Billing discrepancy,2026-06-03,2026-06-04,,Open,Warehouse,High
+CASE009538,SO009538,Appointment scheduling,2026-09-06,2026-09-08,,Escalated,Customer Solutions,High
+CASE009542,SO009542,Credit hold,2026-01-05,2026-01-06,,Open,Transportation,Low
+CASE009544,SO009544,Address validation,2026-04-04,2026-04-05,2026-04-04,Resolved,Warehouse,Medium
+CASE009553,SO009553,Carrier delay,2026-08-05,2026-08-06,,Open,Transportation,Medium
+CASE009554,SO009554,Warehouse picking issue,2026-09-30,2026-10-02,2026-09-30,Resolved,Transportation,Critical
+CASE009562,SO009562,Carrier delay,2026-01-07,2026-01-08,2026-01-09,Resolved,Transportation,Medium
+CASE009570,SO009570,Credit hold,2026-02-14,2026-02-16,2026-02-17,Resolved,Customer Solutions,Low
+CASE009572,SO009572,Demand capture error,2026-01-14,2026-01-15,,Open,Customer Solutions,High
+CASE009578,SO009578,Incorrect pricing,2026-09-26,2026-09-27,2026-09-28,Resolved,Customer Solutions,Medium
+CASE009591,SO009591,Carrier delay,2026-10-15,2026-10-16,2026-10-19,Resolved,Transportation,Low
+CASE009607,SO009607,Demand capture error,2026-07-16,2026-07-18,2026-07-20,Resolved,Transportation,Medium
+CASE009608,SO009608,Billing discrepancy,2026-01-07,2026-01-08,2026-01-12,Resolved,Warehouse,Medium
+CASE009619,SO009619,Demand capture error,2026-10-22,2026-10-23,,Open,Warehouse,High
+CASE009637,SO009637,Warehouse picking issue,2026-07-27,2026-07-28,2026-08-01,Resolved,Warehouse,Low
+CASE009639,SO009639,Incorrect pricing,2026-02-08,2026-02-09,2026-02-12,Resolved,Warehouse,High
+CASE009645,SO009645,Appointment scheduling,2026-01-26,2026-01-28,,Escalated,Transportation,Medium
+CASE009647,SO009647,Demand capture error,2026-01-20,2026-01-21,,Open,Billing,High
+CASE009650,SO009650,Demand capture error,2026-10-16,2026-10-17,,Escalated,Billing,Low
+CASE009657,SO009657,Demand capture error,2026-02-27,2026-02-28,2026-03-04,Resolved,Transportation,Medium
+CASE009659,SO009659,Billing discrepancy,2026-03-01,2026-03-02,2026-03-06,Resolved,Billing,High
+CASE009669,SO009669,Inventory shortage,2026-02-15,2026-02-17,,Open,Billing,Medium
+CASE009688,SO009688,Carrier delay,2026-05-05,2026-05-06,,Escalated,Billing,High
+CASE009693,SO009693,Incorrect pricing,2026-02-17,2026-02-18,2026-02-19,Resolved,Billing,Medium
+CASE009695,SO009695,Credit hold,2026-02-02,2026-02-03,2026-02-06,Resolved,Billing,Medium
+CASE009698,SO009698,Warehouse picking issue,2026-04-30,2026-05-01,,Escalated,Billing,Medium
+CASE009702,SO009702,Warehouse picking issue,2026-03-31,2026-04-01,2026-04-04,Resolved,Warehouse,Critical
+CASE009703,SO009703,Appointment scheduling,2026-03-11,2026-03-13,,Open,Warehouse,High
+CASE009705,SO009705,Demand capture error,2026-04-05,2026-04-06,,Open,Customer Solutions,Medium
+CASE009709,SO009709,Incorrect pricing,2026-04-12,2026-04-14,2026-04-16,Resolved,Billing,Critical
+CASE009710,SO009710,Warehouse picking issue,2026-02-28,2026-03-01,,Open,Warehouse,High
+CASE009711,SO009711,Billing discrepancy,2026-01-20,2026-01-22,2026-01-24,Resolved,Warehouse,Medium
+CASE009712,SO009712,Credit hold,2026-10-01,2026-10-02,2026-10-04,Resolved,Customer Solutions,High
+CASE009716,SO009716,Credit hold,2026-09-02,2026-09-03,,Open,Warehouse,High
+CASE009720,SO009720,Demand capture error,2026-11-13,2026-11-15,2026-11-16,Resolved,Billing,Medium
+CASE009727,SO009727,Warehouse picking issue,2026-07-03,2026-07-04,2026-07-07,Resolved,Warehouse,Low
+CASE009737,SO009737,Inventory shortage,2026-08-27,2026-08-28,,Escalated,Billing,Low
+CASE009742,SO009742,Inventory shortage,2026-04-25,2026-04-26,2026-04-29,Resolved,Billing,Low
+CASE009758,SO009758,Demand capture error,2026-08-06,2026-08-08,,Open,Transportation,High
+CASE009771,SO009771,Demand capture error,2026-01-28,2026-01-30,2026-01-30,Resolved,Warehouse,Medium
+CASE009772,SO009772,Appointment scheduling,2026-05-20,2026-05-22,2026-05-25,Resolved,Warehouse,Medium
+CASE009774,SO009774,Inventory shortage,2026-06-01,2026-06-02,,Open,Warehouse,High
+CASE009783,SO009783,Demand capture error,2026-08-11,2026-08-12,,Open,Warehouse,Medium
+CASE009790,SO009790,Carrier delay,2026-11-10,2026-11-11,2026-11-11,Resolved,Customer Solutions,Low
+CASE009794,SO009794,Address validation,2026-04-28,2026-04-29,,Escalated,Transportation,Medium
+CASE009802,SO009802,Demand capture error,2026-09-11,2026-09-12,2026-09-12,Resolved,Billing,Medium
+CASE009809,SO009809,Address validation,2026-08-03,2026-08-04,2026-08-04,Resolved,Transportation,Medium
+CASE009814,SO009814,Incorrect pricing,2026-10-11,2026-10-12,,Open,Billing,Medium
+CASE009824,SO009824,Incorrect pricing,2026-01-19,2026-01-21,2026-01-20,Resolved,Transportation,Medium
+CASE009825,SO009825,Demand capture error,2026-04-23,2026-04-24,,Escalated,Customer Solutions,Critical
+CASE009826,SO009826,Inventory shortage,2026-08-01,2026-08-02,2026-08-06,Resolved,Warehouse,Medium
+CASE009831,SO009831,Billing discrepancy,2026-05-21,2026-05-22,,Open,Warehouse,High
+CASE009859,SO009859,Incorrect pricing,2026-03-28,2026-03-30,2026-04-02,Resolved,Billing,High
+CASE009865,SO009865,Demand capture error,2026-09-24,2026-09-25,,Escalated,Warehouse,Medium
+CASE009876,SO009876,Appointment scheduling,2026-06-18,2026-06-19,2026-06-23,Resolved,Warehouse,Medium
+CASE009879,SO009879,Incorrect pricing,2026-05-23,2026-05-24,2026-05-23,Resolved,Billing,High
+CASE009880,SO009880,Inventory shortage,2026-07-16,2026-07-18,2026-07-16,Resolved,Warehouse,Medium
+CASE009889,SO009889,Incorrect pricing,2026-09-26,2026-09-27,,Escalated,Transportation,Medium
+CASE009939,SO009939,Inventory shortage,2026-08-21,2026-08-22,2026-08-26,Resolved,Billing,Medium
+CASE009945,SO009945,Inventory shortage,2026-07-05,2026-07-06,,Open,Billing,Medium
+CASE009966,SO009966,Demand capture error,2026-11-10,2026-11-11,2026-11-11,Resolved,Warehouse,High
+CASE009967,SO009967,Billing discrepancy,2026-06-18,2026-06-20,2026-06-23,Resolved,Transportation,Medium
+CASE009969,SO009969,Appointment scheduling,2026-07-12,2026-07-13,2026-07-15,Resolved,Warehouse,Medium
+CASE009970,SO009970,Demand capture error,2026-04-28,2026-04-29,,Open,Customer Solutions,Medium
+CASE009975,SO009975,Address validation,2026-01-06,2026-01-07,,Escalated,Billing,Medium
+CASE009986,SO009986,Appointment scheduling,2026-09-14,2026-09-15,2026-09-17,Resolved,Transportation,High
+CASE009990,SO009990,Demand capture error,2026-04-21,2026-04-22,2026-04-23,Resolved,Warehouse,Critical
+CASE009991,SO009991,Demand capture error,2026-11-02,2026-11-03,,Open,Billing,Medium
+CASE009995,SO009995,Address validation,2026-07-18,2026-07-19,,Open,Transportation,Medium

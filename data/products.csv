@@ -1,0 +1,201 @@
+sku,product_name,category,unit_price
+SKU0001,Water 0001,Food,24.55
+SKU0002,Water 0002,Nutrition,15.89
+SKU0003,Pet Food 0003,Food,10.87
+SKU0004,Beverage Mix 0004,Food,3.52
+SKU0005,Water 0005,Nutrition,55.62
+SKU0006,Coffee 0006,Pet Care,30.21
+SKU0007,Pet Food 0007,Nutrition,72.66
+SKU0008,Beverage Mix 0008,Pet Care,13.9
+SKU0009,Water 0009,Food,69.6
+SKU0010,Coffee 0010,Food,73.96
+SKU0011,Coffee 0011,Nutrition,52.89
+SKU0012,Pet Food 0012,Beverage,71.13
+SKU0013,Coffee 0013,Beverage,34.68
+SKU0014,Frozen Meals 0014,Food,70.8
+SKU0015,Pet Food 0015,Pet Care,70.25
+SKU0016,Coffee 0016,Food,22.58
+SKU0017,Coffee 0017,Pet Care,74.16
+SKU0018,Beverage Mix 0018,Food,64.55
+SKU0019,Pet Food 0019,Food,38.51
+SKU0020,Frozen Meals 0020,Nutrition,61.52
+SKU0021,Breakfast Cereal 0021,Pet Care,15.17
+SKU0022,Frozen Meals 0022,Beverage,45.05
+SKU0023,Frozen Meals 0023,Pet Care,60.11
+SKU0024,Frozen Meals 0024,Pet Care,25.46
+SKU0025,Water 0025,Beverage,55.91
+SKU0026,Frozen Meals 0026,Pet Care,74.08
+SKU0027,Pet Food 0027,Beverage,12.12
+SKU0028,Nutrition Drink 0028,Food,30.12
+SKU0029,Pet Food 0029,Beverage,10.13
+SKU0030,Coffee 0030,Food,59.27
+SKU0031,Water 0031,Nutrition,26.54
+SKU0032,Breakfast Cereal 0032,Nutrition,70.6
+SKU0033,Pet Food 0033,Food,16.28
+SKU0034,Nutrition Drink 0034,Pet Care,29.78
+SKU0035,Pet Food 0035,Nutrition,36.37
+SKU0036,Beverage Mix 0036,Beverage,71.56
+SKU0037,Beverage Mix 0037,Beverage,70.29
+SKU0038,Breakfast Cereal 0038,Nutrition,37.47
+SKU0039,Pet Food 0039,Beverage,11.89
+SKU0040,Nutrition Drink 0040,Food,10.23
+SKU0041,Beverage Mix 0041,Pet Care,20.83
+SKU0042,Breakfast Cereal 0042,Pet Care,34.12
+SKU0043,Frozen Meals 0043,Nutrition,45.24
+SKU0044,Pet Food 0044,Beverage,50.02
+SKU0045,Frozen Meals 0045,Beverage,64.73
+SKU0046,Pet Food 0046,Food,77.88
+SKU0047,Pet Food 0047,Beverage,73.66
+SKU0048,Pet Food 0048,Beverage,57.77
+SKU0049,Coffee 0049,Nutrition,11.24
+SKU0050,Snack Bars 0050,Beverage,67.62
+SKU0051,Water 0051,Pet Care,18.51
+SKU0052,Nutrition Drink 0052,Beverage,41.34
+SKU0053,Water 0053,Nutrition,44.14
+SKU0054,Coffee 0054,Pet Care,43.5
+SKU0055,Coffee 0055,Beverage,27.08
+SKU0056,Pet Food 0056,Beverage,13.8
+SKU0057,Breakfast Cereal 0057,Food,74.74
+SKU0058,Pet Food 0058,Nutrition,8.49
+SKU0059,Beverage Mix 0059,Nutrition,44.03
+SKU0060,Frozen Meals 0060,Nutrition,45.63
+SKU0061,Breakfast Cereal 0061,Pet Care,11.38
+SKU0062,Water 0062,Beverage,25.54
+SKU0063,Nutrition Drink 0063,Nutrition,62.68
+SKU0064,Snack Bars 0064,Food,27.37
+SKU0065,Nutrition Drink 0065,Pet Care,53.35
+SKU0066,Breakfast Cereal 0066,Beverage,30.14
+SKU0067,Pet Food 0067,Pet Care,14.29
+SKU0068,Frozen Meals 0068,Nutrition,61.3
+SKU0069,Water 0069,Pet Care,38.28
+SKU0070,Beverage Mix 0070,Nutrition,26.26
+SKU0071,Snack Bars 0071,Pet Care,21.1
+SKU0072,Pet Food 0072,Pet Care,67.71
+SKU0073,Water 0073,Beverage,48.6
+SKU0074,Beverage Mix 0074,Food,10.89
+SKU0075,Water 0075,Beverage,51.72
+SKU0076,Beverage Mix 0076,Pet Care,33.33
+SKU0077,Coffee 0077,Food,44.76
+SKU0078,Frozen Meals 0078,Pet Care,35.12
+SKU0079,Coffee 0079,Pet Care,24.22
+SKU0080,Snack Bars 0080,Pet Care,24.29
+SKU0081,Frozen Meals 0081,Nutrition,42.75
+SKU0082,Pet Food 0082,Food,5.25
+SKU0083,Pet Food 0083,Pet Care,61.51
+SKU0084,Nutrition Drink 0084,Nutrition,43.62
+SKU0085,Beverage Mix 0085,Pet Care,11.24
+SKU0086,Nutrition Drink 0086,Pet Care,19.84
+SKU0087,Water 0087,Pet Care,28.01
+SKU0088,Frozen Meals 0088,Nutrition,48.93
+SKU0089,Frozen Meals 0089,Food,54.43
+SKU0090,Frozen Meals 0090,Beverage,17.33
+SKU0091,Beverage Mix 0091,Nutrition,26.79
+SKU0092,Coffee 0092,Food,73.07
+SKU0093,Water 0093,Nutrition,25.54
+SKU0094,Frozen Meals 0094,Food,13.59
+SKU0095,Nutrition Drink 0095,Nutrition,7.45
+SKU0096,Pet Food 0096,Nutrition,63.57
+SKU0097,Nutrition Drink 0097,Nutrition,11.56
+SKU0098,Beverage Mix 0098,Beverage,73.71
+SKU0099,Frozen Meals 0099,Pet Care,62.32
+SKU0100,Pet Food 0100,Food,4.86
+SKU0101,Coffee 0101,Beverage,65.6
+SKU0102,Beverage Mix 0102,Pet Care,39.43
+SKU0103,Nutrition Drink 0103,Nutrition,43.59
+SKU0104,Nutrition Drink 0104,Food,22.75
+SKU0105,Breakfast Cereal 0105,Pet Care,67.97
+SKU0106,Frozen Meals 0106,Pet Care,6.2
+SKU0107,Coffee 0107,Pet Care,46.46
+SKU0108,Water 0108,Nutrition,54.26
+SKU0109,Breakfast Cereal 0109,Pet Care,51.99
+SKU0110,Coffee 0110,Beverage,19.21
+SKU0111,Breakfast Cereal 0111,Nutrition,50.44
+SKU0112,Pet Food 0112,Nutrition,77.06
+SKU0113,Beverage Mix 0113,Beverage,14.42
+SKU0114,Coffee 0114,Beverage,29.26
+SKU0115,Snack Bars 0115,Nutrition,12.13
+SKU0116,Water 0116,Nutrition,69.17
+SKU0117,Breakfast Cereal 0117,Pet Care,48.32
+SKU0118,Frozen Meals 0118,Beverage,23.32
+SKU0119,Breakfast Cereal 0119,Food,60.7
+SKU0120,Water 0120,Food,19.55
+SKU0121,Snack Bars 0121,Food,60.06
+SKU0122,Breakfast Cereal 0122,Nutrition,53.25
+SKU0123,Snack Bars 0123,Pet Care,3.58
+SKU0124,Beverage Mix 0124,Pet Care,33.15
+SKU0125,Pet Food 0125,Beverage,4.11
+SKU0126,Nutrition Drink 0126,Nutrition,17.89
+SKU0127,Snack Bars 0127,Beverage,41.04
+SKU0128,Beverage Mix 0128,Nutrition,21.1
+SKU0129,Beverage Mix 0129,Beverage,33.44
+SKU0130,Coffee 0130,Beverage,16.53
+SKU0131,Frozen Meals 0131,Beverage,78.74
+SKU0132,Breakfast Cereal 0132,Beverage,53.66
+SKU0133,Beverage Mix 0133,Nutrition,75.09
+SKU0134,Nutrition Drink 0134,Nutrition,16.25
+SKU0135,Snack Bars 0135,Pet Care,15.49
+SKU0136,Water 0136,Pet Care,14.08
+SKU0137,Frozen Meals 0137,Food,41.67
+SKU0138,Pet Food 0138,Nutrition,72.11
+SKU0139,Coffee 0139,Food,70.85
+SKU0140,Beverage Mix 0140,Food,28.85
+SKU0141,Breakfast Cereal 0141,Food,24.49
+SKU0142,Nutrition Drink 0142,Beverage,23.28
+SKU0143,Snack Bars 0143,Beverage,21.77
+SKU0144,Water 0144,Nutrition,65.42
+SKU0145,Beverage Mix 0145,Beverage,70.21
+SKU0146,Coffee 0146,Pet Care,29.35
+SKU0147,Beverage Mix 0147,Food,15.21
+SKU0148,Pet Food 0148,Beverage,10.48
+SKU0149,Beverage Mix 0149,Pet Care,33.46
+SKU0150,Pet Food 0150,Nutrition,35.11
+SKU0151,Nutrition Drink 0151,Nutrition,20.39
+SKU0152,Snack Bars 0152,Beverage,24.94
+SKU0153,Nutrition Drink 0153,Nutrition,3.56
+SKU0154,Frozen Meals 0154,Nutrition,29.0
+SKU0155,Breakfast Cereal 0155,Pet Care,17.43
+SKU0156,Frozen Meals 0156,Pet Care,35.41
+SKU0157,Snack Bars 0157,Beverage,20.12
+SKU0158,Snack Bars 0158,Nutrition,49.23
+SKU0159,Coffee 0159,Pet Care,15.82
+SKU0160,Frozen Meals 0160,Nutrition,36.77
+SKU0161,Nutrition Drink 0161,Food,48.06
+SKU0162,Nutrition Drink 0162,Pet Care,15.0
+SKU0163,Snack Bars 0163,Beverage,20.95
+SKU0164,Frozen Meals 0164,Pet Care,37.23
+SKU0165,Breakfast Cereal 0165,Nutrition,5.88
+SKU0166,Snack Bars 0166,Beverage,47.26
+SKU0167,Snack Bars 0167,Beverage,9.62
+SKU0168,Coffee 0168,Food,33.23
+SKU0169,Pet Food 0169,Food,16.26
+SKU0170,Beverage Mix 0170,Beverage,11.32
+SKU0171,Beverage Mix 0171,Beverage,23.09
+SKU0172,Coffee 0172,Beverage,50.21
+SKU0173,Beverage Mix 0173,Nutrition,51.54
+SKU0174,Frozen Meals 0174,Pet Care,53.94
+SKU0175,Frozen Meals 0175,Food,72.83
+SKU0176,Coffee 0176,Food,16.09
+SKU0177,Beverage Mix 0177,Beverage,65.65
+SKU0178,Snack Bars 0178,Beverage,23.84
+SKU0179,Coffee 0179,Nutrition,12.24
+SKU0180,Pet Food 0180,Nutrition,57.09
+SKU0181,Water 0181,Food,64.02
+SKU0182,Snack Bars 0182,Beverage,52.37
+SKU0183,Beverage Mix 0183,Nutrition,20.31
+SKU0184,Breakfast Cereal 0184,Food,40.27
+SKU0185,Coffee 0185,Beverage,50.83
+SKU0186,Pet Food 0186,Pet Care,12.37
+SKU0187,Beverage Mix 0187,Beverage,44.99
+SKU0188,Nutrition Drink 0188,Food,13.65
+SKU0189,Beverage Mix 0189,Pet Care,42.85
+SKU0190,Breakfast Cereal 0190,Nutrition,9.09
+SKU0191,Coffee 0191,Pet Care,5.86
+SKU0192,Snack Bars 0192,Pet Care,53.91
+SKU0193,Breakfast Cereal 0193,Pet Care,44.28
+SKU0194,Water 0194,Food,13.39
+SKU0195,Frozen Meals 0195,Beverage,37.08
+SKU0196,Water 0196,Pet Care,72.89
+SKU0197,Coffee 0197,Beverage,49.01
+SKU0198,Beverage Mix 0198,Beverage,32.97
+SKU0199,Water 0199,Beverage,43.83
+SKU0200,Breakfast Cereal 0200,Beverage,43.28

@@ -22,7 +22,7 @@ The dataset represents a fictional consumer-goods distributor. All customer name
 
 ## Operational snapshot
 
-The bundled database contains a fixed, reproducible sample generated with seed `20261114`.
+The sample dataset is generated with fixed seed `20261114`. CSV extracts are committed, while the SQLite database is recreated on a local machine by running `python src/generate.py`.
 
 | Measure | Result | Basis |
 | --- | ---: | --- |
@@ -73,7 +73,7 @@ Case status updates are saved to the local SQLite file. The bundled dataset can 
 │   ├── invoices.csv
 │   ├── cases.csv
 │   ├── inventory_snapshot.csv
-│   ├── orderflow.db
+│   ├── orderflow.db  # generated locally, not committed
 │   └── validation.json
 ├── src/
 │   ├── app.py
@@ -107,6 +107,7 @@ Requirements: Python 3.10+ and a modern web browser. SQLite is included with Pyt
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
+python src/generate.py
 streamlit run src/app.py
 ```
 
@@ -115,10 +116,11 @@ streamlit run src/app.py
 py -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
+python src/generate.py
 streamlit run src/app.py
 ```
 
-The application reads `data/orderflow.db` and writes changes to its case records and audit log. A backup of that file is recommended if you want to preserve a particular investigation state.
+The application reads `data/orderflow.db`, generated locally by `python src/generate.py` (the database file is deliberately not committed), and writes changes to its case records and audit log. A backup of that file is recommended if you want to preserve a particular investigation state.
 
 ### Rebuild data and reporting outputs
 

@@ -6,6 +6,22 @@ OrderFlow brings sales orders, deliveries, customer cases, inventory snapshots, 
 
 The dataset represents a fictional consumer-goods distributor. All customer names, products, orders, prices, delivery events, and cases are synthetic. OrderFlow is an independent project and is not affiliated with a commercial brand, retailer, or staffing company.
 
+## Project previews
+
+The following previews are drawn from the project's synthetic operating data and illustrate the main reports and tracking views.
+
+### Order fulfillment overview
+
+![OrderFlow executive overview](screenshots/dashboard_overview.svg)
+
+### Exceptions and service levels
+
+![OrderFlow exceptions and service-level monitoring](screenshots/operations_exceptions.svg)
+
+### Excel operations tracker
+
+![OrderFlow Excel operations tracker preview](screenshots/excel_tracker_preview.svg)
+
 ## Overview
 
 | Area | Implementation |

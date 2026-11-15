@@ -1,7 +1,25 @@
+# Python artifacts
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
+venv/
+.pytest_cache/
+
+# Local configuration and credentials
 .env
-.DS_Store
+.env.*
+!.env.example
 .streamlit/secrets.toml
+
+# Generated local database and temporary files
+data/*.db
+data/*.db-journal
+data/*.sqlite
+data/*.sqlite3
 *.log
+*.tmp
+~$*.xlsx
+
+# Platform and editor files
+.DS_Store
+.idea/
